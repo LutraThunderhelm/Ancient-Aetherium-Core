@@ -1,0 +1,68 @@
+{
+	"description": "Mixing the alterations of the Mundane and the raw power of Industria, Preachers surround themselves with fields of altering arcana. Named during a. early time of the Founders, Preachers were once highly religious, spreading the power of their Founder in a physical field around them. Preachers have since lost the requirement of a Founder's support to hold a field of arcane power around them, instead using their understanding of self alteration with the alteration of arcane energies. These fields must be cast once, but then maintained. Innitial costs are required to cast the spell, but for every duration of time the spell leeches AP from its caster, but an action does not need to be spent to maintain the field.",
+	"spells": [{
+			"name": "Hornet's Stablized Zone",
+			"description": "Creates a 10x10 meter area around the caster, in which no illusion, darkness, or supernatural event can survive. Reality itself is grounded, and cannot be warped within the zone created by the caster. This includes effects from any reality warping foundation, such as Reality Syphons, Disciples and Authors of Reality. Costs 5 AP every 5 rounds or 25 seconds to maintain.",
+			"xp": "300",
+			"ap": "4",
+			"ab": "0",
+			"castingTime": "Full Action"
+		},
+		{
+			"name": "Mind Locket",
+			"description": "Creates a 15x15 meter area around the caster which causes all allies of the caster to gain immunity to all physical effects, such as wound effects, or status effects. This effect only applies while in the field, and will disappear upon the fields destruction. Costs 3 AP every 5 rounds or 25 seconds",
+			"xp": "250",
+			"ap": "4",
+			"ab": "0",
+			"castingTime": "Full Action"
+		},
+		{
+			"name": "Chief's Cry",
+			"description": "Creates a 15x15 meter area around the caster, allowing any allies in that field to add +5 to any damage dealt to an enemy. Costs 6 AP every 5 rounds or 25 seconds.",
+			"xp": "300",
+			"ap": "5",
+			"ab": "0",
+			"castingTime": "Full Action"
+		},
+		{
+			"name": "Axton's Shield",
+			"description": "Creats a 5x5 meter barrier around the caster, with a toughness equal to double the casters. This barrier prevents anything from entering or leaving it unless the caster permits it. Costs 3 AP every 5 rounds or 25 seconds.",
+			"xp": "250",
+			"ap": "5",
+			"ab": "0",
+			"castingTime": "Full Action"
+		},
+		{
+			"name": "Prince's Syphon",
+			"description": "The caster reroutes all damage taken by ally in a 15x15 meter area and applies it to themselves instead. This damage must make it through the casters armor and toughness as if the attack was made directly against the caster. Costs 2 AP every 5 rounds or 25 seconds.",
+			"xp": "350",
+			"ap": "2",
+			"ab": "0",
+			"castingTime": "Full Action"
+		},
+		{
+			"name": "Yang's Diversion",
+			"description": "Obscures the shapes of the casters allies in a 10x10 meter area, causing them to gain 3 evade while in the field. Costs 4 AP every 5 rounds or 25 seconds.",
+			"xp": "300",
+			"ap": "4",
+			"ab": "0",
+			"castingTime": "Full Action"
+		},
+		{
+			"name": "Preacher's Blessing",
+			"description": "The caster is able to shift the focus of any AOE spell from themselves to a target in the spells range. This target will become the center of the spell, as well as its target for spells such as Unto Me. Spells will still draw AP from the caster.",
+			"xp": "300",
+			"ap": "0",
+			"ab": "7",
+			"castingTime": "Passive"
+		},
+		{
+			"name": "Sinner's Chime",
+			"description": "Reroutes any request to a Founder through the preacher, causing the preacher to take the effects of a spent boon, should the preacher choose. This happens in a 5x5 meter area, and is constant.",
+			"xp": "400",
+			"ap": "0",
+			"ab": "7",
+			"castingTime": "Passive"
+		}
+	]
+}

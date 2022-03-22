@@ -1,0 +1,68 @@
+{
+	"description": "Familiar with both types of rapid creation in the heat of battle, Combat Masons have started giving their creations mechanical direction. Able to build rough mechanisms quickly and elegantly, Combat Masons can engineer anything and everything through their quickly moving Frigus roots, controlling them as part of their own mind through their Mundane origins. These abilities allow Combat Masons to engineer fortresses in minutes and fortify any room given a few seconds.",
+	"spells": [{
+			"name": "Hardy Ice",
+			"description": "All firgus constructs, including those made of brittle Arcane Ice gain 1 toughness per investment into Hardy Ice.",
+			"xp": "500",
+			"ap": "0",
+			"ab": "0",
+			"castingTime": "Static"
+		},
+		{
+			"name": "Charge Load",
+			"description": "Construct a bullet, arrow, spike or other type of ammunition out of pure arcana. This ammunition acts as a basic unmodified version of what its replacing, and stays in the weapon until being fired. Reloads an entire clip of ammunition at once.",
+			"xp": "900",
+			"ap": "2",
+			"ab": "0",
+			"castingTime": "Half Action"
+		},
+		{
+			"name": "Emplode",
+			"description": "Causes a target machine to break down in function completely and irreversibly. The machine target will need to be fully repaired in order to be used again.",
+			"xp": "1100",
+			"ap": "6",
+			"ab": "0",
+			"castingTime": "Half Action"
+		},
+		{
+			"name": "Construct Traps",
+			"description": "Pick a 1 by 1 meter area to construct any type of traditional trap on. This space will deal 10 damage plus the casters Hardy Ice investments as soon as an enemy travels through it. Does not effect allies.",
+			"xp": "1100",
+			"ap": "3",
+			"ab": "0",
+			"castingTime": "Half Action"
+		},
+		{
+			"name": "Create Weapon",
+			"description": "The caster is able to recreate a weapon they've seen before, even at a passing glance, and replicate all forms and functions, including arcane functions. This weapon lasts 30 seconds or 6 rounds before melting away.",
+			"xp": "1200",
+			"ap": "10",
+			"ab": "0",
+			"castingTime": "Full Action"
+		},
+		{
+			"name": "Not Yet",
+			"description": "Cause a failing machine to instead operate as normal. Must be cast when the machine breaks and not after. The machne keeps its normal functions for the next 5 minutes or 60 rounds until it begins to fail again. The caster may at that point choose to renew the spell to keep the machine running again.",
+			"xp": "1000",
+			"ap": "5",
+			"ab": "0",
+			"castingTime": "Half Action"
+		},
+		{
+			"name": "Alchemical Alterations",
+			"description": "The caster alters the creation methods for Arcane Ice, allowing them to add their Hardy Ice investments to any spell in order to increase its life span by 2 rounds or 10 seconds per investment.",
+			"xp": "1100",
+			"ap": "0",
+			"ab": "8",
+			"castingTime": "Passive"
+		},
+		{
+			"name": "Fire of Ice",
+			"description": "Touching any construction of the casters without prior authorization results in catching on fire, as their Arcane Ice has become red hot. Does not effect allies.",
+			"xp": "1300",
+			"ap": "0",
+			"ab": "10",
+			"castingTime": "Passive"
+		}
+	]
+}

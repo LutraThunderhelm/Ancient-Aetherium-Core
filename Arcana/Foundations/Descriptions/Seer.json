@@ -1,0 +1,68 @@
+{
+	"description": "Peering past the veil of their natural senses, Seers push their perceptions to the limit by using their arcane understanding to peer into otherwise unknown worlds. From the flow of magic itself, to displacing their sight, Seers tap into the world of the unobserved, gaining new insight previously unknown.",
+	"spells": [{
+			"name": "Displace Hearing",
+			"description": "Pick a location no more than 20 meters from the caster, and move all hearing to that spot, relative to the earth. The caster hears as if their ears are in that exact location, and lasts for 5 minutes or 60 rounds. There is no visual or audible indication on the target location of the spell's effect. Additionally, the caster cannot hear through their original ears.",
+			"xp": "300",
+			"ap": "4",
+			"ab": "0",
+			"castingTime": "Full Action"
+		},
+		{
+			"name": "Displace Sight",
+			"description": "Choose a location within 20 meters of the caster, and move all vision to that sight, relative to the earth. The caster sees as if their eyes are in that exact location, and lasts for 3 minutes or 36 rounds. There is no visual or audible indication on the target location of the spells effect. Additionally, the caster cannot see through their original eyes.",
+			"xp": "350",
+			"ap": "5",
+			"ab": "0",
+			"castingTime": "Full Action"
+		},
+		{
+			"name": "Piercing Sight",
+			"description": "Gain a visual of all sentient life of any kind within 30 meters. Anything considered alive, including Hive Drones, Nausea Vines, or other Bears will be targeted by Piercing Sight and will be visible to the caster, even through walls.",
+			"xp": "300",
+			"ap": "3",
+			"ab": "0",
+			"castingTime": "Half Action"
+		},
+		{
+			"name": "Marked Sight",
+			"description": "The caster visualizes an object they have previously seen or held. Upon casting Guiding Vision this visualization turns into a visualization of the location of the object. There is no guidance to the object, however the vision of the objects current location happens in real time, allowing the caster to see any shifting parts of its surrounding enviroments.",
+			"xp": "300",
+			"ap": "3",
+			"ab": "0",
+			"castingTime": "Full Action"
+		},
+		{
+			"name": "Destroy Darkness",
+			"description": "Causes all darkness in a 10x10 meter area around the caster to disappear, causing everything to appear as if a white light is shining on it. This light is visible to all, and even pierces arcane darkness. Lasts for 1 minute or 12 rounds.",
+			"xp": "300",
+			"ap": "4",
+			"ab": "0",
+			"castingTime": "Full Action"
+		},
+		{
+			"name": "Detect Lies",
+			"description": "Allows the caster to gain insight on the nature of any given statement, whether it is said, written, or implied. The target statement is scrutinized, and informs the caster of its nature of being told honestly or not. This spell does not detect fact, it only effects creator intention.",
+			"xp": "250",
+			"ap": "4",
+			"ab": "0",
+			"castingTime": "Half Action"
+		},
+		{
+			"name": "Seer's Focus",
+			"description": "The seer may choose to preform any timed Seer, Secret Catcher, Abyssal, or Blinder spell without a time constraint, but forfiet their actions while doing so. In this state a seer cannot fight, move on their own, or make a skill check. This state may be exited at any time.",
+			"xp": "300",
+			"ap": "0",
+			"ab": "7",
+			"castingTime": "Passive"
+		},
+		{
+			"name": "Doubled Senses",
+			"description": "Any displacement spell that targets the senses, or any spell that causes a sense to be blocked no longer blocks the original sense, instead allowing the caster to use their senses through both the effect of their spell and their own sensory parts.",
+			"xp": "250",
+			"ap": "0",
+			"ab": "5",
+			"castingTime": "Passive"
+		}
+	]
+}

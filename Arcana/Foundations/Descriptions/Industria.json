@@ -1,0 +1,36 @@
+{
+	"description": "Industria is synonymous with raw arcane power, with its Foundation focusing heavily on manifesting the raw abilities of the arcane. The Industria Foundation and its higher concepts tend to favor creating magic as a formless mass of energy, and learning to manipulate that mass or let it consume the caster. Despite the power Industria leads to, it is a Basic Foundation, allowing anyone to use its spells.",
+	"spells": [{
+			"name": "Flaming Touch",
+			"description": "Your hand becomes red hot, allowing you to burn anything you touch. This can include your own equipment, but not the skin of your Husk.",
+			"xp": "150",
+			"ap": "3",
+			"ab": "0",
+			"castingTime": "Half Action"
+		},
+		{
+			"name": "Di-Spell",
+			"description": "Remove another active spell in play that is within 1 meter of your character.",
+			"xp": "200",
+			"ap": "5",
+			"ab": "0",
+			"castingTime": "Half Action"
+		},
+		{
+			"name": "Dual Cast",
+			"description": "Choose two other spells, both with the same Casting Time. The caster proceeds to cast them at the same time for their combined AP cost in addition to the cost of Dual Cast, but costing the Casting Time of one.",
+			"xp": "200",
+			"ap": "2",
+			"ab": "0",
+			"castingTime": "Instant Action"
+		},
+		{
+			"name": "Power Syphon",
+			"description": "Gain double the rate of AP return from AP sources, such as cities or old world arcane generators.",
+			"xp": "200",
+			"ap": "0",
+			"ab": "6",
+			"castingTime": "Passive"
+		}
+	]
+}

@@ -1,0 +1,68 @@
+{
+	"description": "Known primarily for deception, Illusionaries combine their knowledge of the material world with their understanding of the senses in order to conjure visions from thin air. Able to create realistic images by manipulating artifical sources of light, Illusionaries can create imagery with no bounds, as well as no mass. This is typically done maliciously, gaining them a reputation as thieves and liars, despite its utility.",
+	"spells": [{
+			"name": "Mask Object",
+			"description": "Make an object appear as another of a similar shape or size for the next 12 hours, after which the illusion melts away. Difficulty for Perception Skill Checks is decided by the size of the object. Small objects, such as coins and rocks should have a difficulty of 5, a table would have a difficulty of 3 and a building would have a difficulty of 1.",
+			"xp": "250",
+			"ap": "3",
+			"ab": "0",
+			"castingTime": "Full Action"
+		},
+		{
+			"name": "Facade",
+			"description": "Change details about your husk to mask it with another. This must be done with a target in mind, who the caster will resemble after the use of Facade. Perception Checks made to detect the illusion have a difficulty of 3. This does not effect speech patterns, body language, or equipment. Facades last for 1 hour before melting.",
+			"xp": "300",
+			"ap": "4",
+			"ab": "0",
+			"castingTime": "Full Action"
+		},
+		{
+			"name": "Conjure Fear",
+			"description": "Create a manifestation of something terrifying to paint onto something in the enviroment around you. Witnessing the targets object or feature without prior notice of its illusionary origins will result in the victim making a Fear Check. This effect remains on the target for 1 hour or until the illusionary calls it off.",
+			"xp": "300",
+			"ap": "5",
+			"ab": "0",
+			"castingTime": "Full Action"
+		},
+		{
+			"name": "Project Object",
+			"description": "Create a projection of an object in a different space. This projection will move with the original object, and will retain its exact position relative to the object it is projected from. The projection cannot be interacted with physically, and requires a difficulty 4 Perception Skill Check to see through. After 1 hour the projection melts into steam.",
+			"xp": "300",
+			"ap": "4",
+			"ab": "0",
+			"castingTime": "Half Action"
+		},
+		{
+			"name": "Obscure Nature",
+			"description": "Distort and alter the look of an object beyond recognition. This will clearly appear as an illusion, but the original object will not be evident, even with a Perception Skill Check. Distortion will not hide the objects general shape, but any physical, mechanical, emotional, or mental details of the object are hidden until the illusion is broken. Obscure Nature melts away after 3 hours.",
+			"xp": "250",
+			"ap": "3",
+			"ab": "0",
+			"castingTime": "Half Action"
+		},
+		{
+			"name": "Share Sight",
+			"description": "Using illusionary magic, recreate a perception gained through arcane origins, such as seeing the flow of magic, gaining an objects memories, or highlighting motion. This creates an effect visible to anyone within sight of the vision, and allows them to gain the same information as the caster holds.",
+			"xp": "200",
+			"ap": "3",
+			"ab": "0",
+			"castingTime": "Half Action"
+		},
+		{
+			"name": "Illusionary Ventriloquism",
+			"description": "Use subtle illusionary magic to consistantly hide motions related to spellcasting. Upon casting a spell, it is impossible to visually, or audibly perceive the source of the spell without external contexts. This effect may be cast asside should the caster chose, so they may visually perform any spell they wish.",
+			"xp": "300",
+			"ap": "0",
+			"ab": "7",
+			"castingTime": "Passive"
+		},
+		{
+			"name": "Bias Illusions",
+			"description": "Make your illusions only visible to those you wish to see it, and make them invisible to those you don't. This can be done on a spell to spell basis, and is isolated to the spell being casted. This means may chose a target to see one illusion but not another.",
+			"xp": "300",
+			"ap": "0",
+			"ab": "8",
+			"castingTime": "Passive"
+		}
+	]
+}

@@ -1,0 +1,100 @@
+{
+	"description": "Warping their enviroment, and collapsing the arcane into it, Reality Syphons have merged the world of the arcane and the world of the physical. Able to bend and warp what ever aspects they please, Reality Syphons are known to change physical laws, and bend time itself around themselves with fluency and grace. Able to level the playing field on a whim, those who carry the Reality Syphon Foundation are known to be the only ones to strike fear in the minds of their own Transcendant kind, ripping away flame, creation, arcana, and the abyss when given enough time. The only law Reality Syphons follow, is following none at all, as well as Arcane Sickness.",
+	"spells": [{
+			"name": "Destroy Arcane Form",
+			"description": "All instances of Arcane Ice, Arcane Flame, and Arcane Darkness are immediately removed without any effects that typically come from their removal.",
+			"xp": "3000",
+			"ap": "6",
+			"ab": "0",
+			"castingTime": "Full Action"
+		},
+		{
+			"name": "Lower Powers Alone",
+			"description": "Shatter the Abyss and the Aether, preventing their use in their entirety. No Founders may intervene, and anything based on Phaser spellcraft is unusable.",
+			"xp": "2000",
+			"ap": "7",
+			"ab": "0",
+			"castingTime": "Full Action"
+		},
+		{
+			"name": "Let Them Rest",
+			"description": "Valley Walker based spellcraft is unable to be cast. This includes Mind Weaver spells. All currently effected corpses and minds are go dormant, Volatile Minds dissolve.",
+			"xp": "3000",
+			"ap": "8",
+			"ab": "0",
+			"castingTime": "Full Action"
+		},
+		{
+			"name": "Dilate Time",
+			"description": "Warp the passage of time around a target. The target loses their turn during the current round, but cannot be the target of Dilate Time the next round, as two rounds pass in the time of one for them.",
+			"xp": "4000",
+			"ap": "8",
+			"ab": "0",
+			"castingTime": "Half Action"
+		},
+		{
+			"name": "Borrow",
+			"description": "Duplicate an item by borrowing it from 15 seconds in the future. After 15 seconds or 3 rounds, the weapon will be grabbed by the caster's past, bringing them back to 1 version of the item.",
+			"xp": "3000",
+			"ap": "10",
+			"ab": "0",
+			"castingTime": "Full Action"
+		},
+		{
+			"name": "Warp Physical Law",
+			"description": "Change some universal constant for the surrounding 100 by 100 meter area. This can be changing the strength of gravity, lowering friction on specific surfaces, removing the concept of light, etc. This effect onyl occurs for 1 minute or 12 rounds.",
+			"xp": "4000",
+			"ap": "15",
+			"ab": "0",
+			"castingTime": "2 Full Actions"
+		},
+		{
+			"name": "Absorb Movement",
+			"description": "For every meter walked by anything within a 20 meter radius within the next round, gain 1 AP.",
+			"xp": "4000",
+			"ap": "10",
+			"ab": "0",
+			"castingTime": "Full Action"
+		},
+		{
+			"name": "Time Field",
+			"description": "Force an area up to 100 by 100 meters to no longer experience the outside world, isolating it in an enclosed bubble of time. Upon bursting, this bubble will have only had 2 seconds pass, the bubble itself can hold 2 hours.",
+			"xp": "5000",
+			"ap": "8",
+			"ab": "0",
+			"castingTime": "Full Action"
+		},
+		{
+			"name": "Rotate",
+			"description": "Cause 2 objects to completely switch locations instantly.",
+			"xp": "2000",
+			"ap": "4",
+			"ab": "0",
+			"castingTime": "Half Action"
+		},
+		{
+			"name": "Expanded Time",
+			"description": "Slows the time around the caster, allowing them to take an extra Full Action on their turn.",
+			"xp": "4000",
+			"ap": "0",
+			"ab": "8",
+			"castingTime": "Passive"
+		},
+		{
+			"name": "Time Well",
+			"description": "Store any item in a pocket zone of infinite space and no time. Object in the Time Well are perfectly preserved and may be stored and accessed at any time by the caster.",
+			"xp": "3000",
+			"ap": "0",
+			"ab": "15",
+			"castingTime": "Passive"
+		},
+		{
+			"name": "Leech",
+			"description": "Using various methods to syphon arcana from the world around the caster, they are able to gain +2AP per round, or every 5 seconds.",
+			"xp": "5000",
+			"ap": "0",
+			"ab": "20",
+			"castingTime": "Passive"
+		}
+	]
+}

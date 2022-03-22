@@ -1,0 +1,27 @@
+Water
+/Ancient-Aetherium/placeholder.png
+Water supports only a single Mixin, but has no side effects. Water based Brews are the most stable, and the most restrictive of any Brew Base, typically being used for things such as supportive Brews.
+
+Alcohol
+/Ancient-Aetherium/placeholder.png
+Alcohol causes one to become fatigued and tired after consumption. Instead of the status effects, the target loses 1 success for every Skill Check made for 1 hour after consumption. Alcohol can support up to 3 Mixins.
+
+Blood
+/Ancient-Aetherium/placeholder.png
+Most commonly gathered from Nauseous Creatures, Blood is binding, stopping any other brew from being used by the target of the Brew's effects for the next 30 minutes. Blood itself can hold up to 5 Mixins.
+
+Coffee
+/Ancient-Aetherium/placeholder.png
+Coffee supports only a single Mixin, but makes the Mixin much more effective. Any value provided by the Mixin is doubled, such as a +2 becoming a +4.
+
+Oil
+/Ancient-Aetherium/placeholder.png
+Oil can have up to 4 Mixins, but causes the Brew to become hallucinogenic, causing a loss of 2 Levels of Perception for 2 hours. Additionally, the target of the Brew's effects will see many vivid yet distorted visions during this time.
+
+Glowing Sap
+/Ancient-Aetherium/placeholder.png
+Gathered from underground Nauseas and their glowing fungi, Glowing Sap reacts strangely with all known forms of alchemy. Using Glowing Sap reverses positive and negative Mixin effects, turning increases into decreases, and decreases into increases. If a Mixin does not have a clear increase or decrease, the Glowing Sap has no effect. Glowing Sap can have up to 3 Mixins.
+
+Glowing Blood
+/Ancient-Aetherium/placeholder.png
+Collected from the Nauseous Heart found in the twisted tunnels of Underground Nauseas, Glowing Blood is a strange arcane liquid that contains Brews within themselves. Glowing Blood can hold 2 other bases in itself, combining their effects, and taking the higher Mixin count of the two.

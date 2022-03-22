@@ -1,0 +1,36 @@
+During your adventures there is a good chance your character will encounter something that will terrify them. Bears can and will experience fear in its full effects, and when the RM believes that a situation is scary enough for a character, they can ask the player to make a Fear Check. While not limited to player characters, they are likely to experience them the most through out the story.
+
+Fear Checks are a very specialized verion of a Skill Check. Starting a fear check requires a Bravery skill check with an assumed difficulty of 2, unless specified otherwise. Should the player succeed nothing happens, as they're character is able to keep the mind straight and refuses to cower. Should a character fail their check, they must draw a card from a standard set of playing cards and refer to the table at the bottom of this page for a related fear effect. This effect will remain in play until the player breaks out of their Fear Effect, by making a Bravery Skill check every turn, or every few in world minutes, until they succeed a Bravery Skill Check with a difficulty of 2. Insanity Effects gained through Fear Effects must be broken through the Insanity Check rules.
+
+<table>
+    <tr>
+        <th class="table_of_table">Fear Effects</th>
+    </tr><tr>
+        <td class="tabled_table"><table>
+        <tr>
+            <th>Card Type</th>
+            <th>Effect</th>
+            <th>Description</th>
+        </tr><tr>
+            <td>Numbered</td>
+            <td>Flee</td>
+            <td class="description">Gain doubled movement, however your character must spend their time moving as far away from the source of fear as possible until the Fear Effect is broken.</td>
+        </tr><tr>
+            <td>Jack</td>
+            <td>Freeze</td>
+            <td class="description">Remain unable to move or act until the Fear Effect is broken.</td>
+        </tr><tr>
+            <td>Queen</td>
+            <td>Frenzy</td>
+            <td class="description">All skills under Social, Logic, Survival, and Vitality gain +1 Difficulty, however when attempting to attack the source of fear, gain -1 Difficulty.</td>
+        </tr><tr>
+            <td>King</td>
+            <td>Hysteria</td>
+            <td class="description">Make an Insanity Check as the weight of the fear and the stress built up over time collapse in on themselves.</td>
+        </tr><tr>
+            <td>Ace</td>
+            <td>Trauma</td>
+            <td class="description">Draw another Fear Effect while additionally making an Insanity Check as your mental state comes crashing down.</td>
+        </table></td>
+    </tr>
+</table>

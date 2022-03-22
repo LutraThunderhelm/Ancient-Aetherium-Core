@@ -1,0 +1,68 @@
+{
+	"description": "Combining the aid of a Preacher and the power of a High Mage, Weavers can infuse themselves and their allies with volatile power. These effects are powerful, dangerous, and short lived usually turning one into a titan of battle, if only for a short time and with high risk. Weaver spells are incredibly unstable, allowing for disastrous if misused, and often backfiring on the Weaver specifically.",
+	"spells": [{
+			"name": "Volatile Understanding",
+			"description": "Adds 1 success per investment for any Skill Checks required to cast High Mason or Weaver spells.",
+			"xp": "1000",
+			"ap": "0",
+			"ab": "0",
+			"castingTime": "Static"
+		},
+		{
+			"name": "Amped",
+			"description": "The caster injects their own arcana into the spell of another, allowing that spell to have one of its relevent stats doubled. This includes doubled damage, doubled duration, double investments, etc. Amped requires the caster to make an Abuse Skill Check with a difficulty of 4, otherwise they are unable to cast or use passive spells for 30 seconds or 6 rounds.",
+			"xp": "1200",
+			"ap": "6",
+			"ab": "0",
+			"castingTime": "Half Action"
+		},
+		{
+			"name": "Aetherial Recharge",
+			"description": "Rips spare arcana from the aether and throws it to an ally. Restores 5 AP to the target, as long as the caster succeeds a Brawn Skill Check with a difficulty of 5. Failing means the spell has no effect, but still costs the AP to cast.",
+			"xp": "1000",
+			"ap": "4",
+			"ab": "0",
+			"castingTime": "Full Action"
+		},
+		{
+			"name": "Forced Bond",
+			"description": "The caster targets an ally and an enemy. All damage done to the target is instead shifted onto the enemy until the enemies death, or until the enemy exits a 50 meter radius from the ally. Casting Forced Bond requires an Abuse Skill Check with a difficulty of 4, otherwise the link occurs between the ally and the caster, with the caster taking damage for the ally.",
+			"xp": "1100",
+			"ap": "5",
+			"ab": "0",
+			"castingTime": "Full Action"
+		},
+		{
+			"name": "Shift Ailment",
+			"description": "Any status effect may be moved from one target to another, as long as the caster succeeds a difficulty 4 Brawn Skill Check. Failing moves the status effect to the caster instead.",
+			"xp": "1100",
+			"ap": "3",
+			"ab": "0",
+			"castingTime": "Full Action"
+		},
+		{
+			"name": "Bolting Strikes",
+			"description": "The caster targets an ally, giving them the ability to make 2 attacks with a single attack action until it becomes the casters turn again. The caster must succeed a difficulty 5 Brawn Skill Check to do so, or they instead lose their next turn.",
+			"xp": "900",
+			"ap": "4",
+			"ab": "0",
+			"castingTime": "Full Action"
+		},
+		{
+			"name": "Woven Network",
+			"description": "The caster makes a mental communication network, where they and their targets may talk to eachother without using voices or sound. The amount of targets is limited to the amount of investments made in Volatile Understanding. Woven Network has no distance constraint.",
+			"xp": "1500",
+			"ap": "0",
+			"ab": "10",
+			"castingTime": "Passive"
+		},
+		{
+			"name": "Shift Consequences",
+			"description": "The caster is able to make a Firing Skill Check with a difficulty of 2 when a spell backfires, with a success resulting in the spell being rerouted to an enemy of choice, or into thin air.",
+			"xp": "1400",
+			"ap": "0",
+			"ab": "12",
+			"castingTime": "Passive"
+		}
+	]
+}

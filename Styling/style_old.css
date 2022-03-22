@@ -1,0 +1,346 @@
+ body {
+     margin:0;
+     background-color:rgb(240,240,240);
+}
+ /*
+ 
+ HEADER SECTION
+ 
+ */
+ header {
+     margin:0px;
+     padding:0px;
+     width:100%;
+}
+ 
+header nav {
+    background:black;
+} 
+
+header nav ul {
+    list-style-type:none;
+    padding:0px;
+    margin:0px;
+    overflow:hidden;
+}
+
+header nav ul li a{
+    text-decoration:none;
+    color:white;
+    padding:1em;
+    display:block;
+    float:right;
+    border-left: 0.1em solid white;
+}
+
+header nav ul li a:hover{
+    background-color:white;
+    color:black;
+}
+
+ #banner {
+     background-image:url('banners/test.png');
+     background-repeat: no-repeat;
+     background-size:cover;
+     padding-top:5em;
+     padding-bottom:5em;
+     width:100%;
+     margin:0%;
+     border-bottom:0.75em solid black;
+}
+ 
+ h1 {
+     color:white;
+     text-align:center;
+     font-size:3em;
+}
+
+h1 span {
+    background-color:black;
+    padding-left:0.16em;
+    padding-right:0.16em;
+    padding-top:0.175em;
+    padding-bottom:0.125em;
+}
+
+h1 img {
+    height:1.51em;
+    width:auto;
+    vertical-align:middle;
+    margin-bottom:0.24em;
+}
+
+h2 {
+    color:white;
+    text-align:center;
+    font-size:2em;
+}
+
+h2 span {
+    background-color:black;
+    padding-left:0.16em;
+    padding-right:0.16em;
+    padding-top:0.175em;
+    padding-bottom:0.125em;
+}
+
+h2 img {
+    height:1.51em;
+    width:auto;
+    vertical-align:middle;
+    margin-bottom:0.24em;
+}
+
+h3 {
+    color:white;
+    text-align:center;
+    font-size:1.5em;
+}
+
+h3 span {
+    background-color:black;
+    padding-left:0.16em;
+    padding-right:0.16em;
+    padding-top:0.175em;
+    padding-bottom:0.125em;
+}
+
+#page-tabs {
+    width:63em;
+    margin:auto;
+    margin-top:1.5em;
+}
+
+#page-tabs ul {
+    list-style-type:none;
+    padding:0px;
+    margin:0px;
+    overflow:hidden;
+}
+
+#page-tabs ul li #current-tab {
+    background-color:rgb(184, 40, 40);
+}
+
+#page-tabs ul li a{
+    text-decoration:none;
+    color:black;
+    background:rgb(122, 11, 11);
+    padding:1em;
+    display:block;
+    float:left;
+    margin-top:0.5em;
+    border-top-left-radius:0.1em;
+    border-top-right-radius:0.1em;
+}
+#page-tabs ul li a:hover{
+    background-color:rgb(184, 40, 40);
+    color:black;
+    margin-top:0em;
+    padding-bottom:1.5em;
+}
+
+#big-table {
+    margin-top:2em;
+}
+
+#big-table nav {
+    text-align:center;
+    margin:auto;
+}
+
+#big-table nav button {
+    background-color:black;
+    padding-left:0.5em;
+    padding-right:0.5em;
+    padding-top:0.175em;
+    padding-bottom:0.125em;
+    margin:0px;
+    color:white;
+    text-decoration:none;
+    font-size:1.3em;
+    border:none;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    border-right:white 0.1em solid;
+}
+
+#big-table nav button:last-child {
+    border:none;
+}
+
+#big-table nav button:hover {
+    color:black;
+    background-color:white;
+}
+
+main {
+    background-image:url("paper.png");
+    width:60em;
+    margin:auto;
+    padding:1.5em;
+    margin-top:0;
+    margin-bottom:4em;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+.description a {
+    text-decoration:none;
+    color:black;
+    font-size:0.95em;
+    font-weight: bold;
+    position: relative;
+    display: inline-block;
+}
+
+.description p {
+    text-decoration:none;
+    color:black;
+    font-size:1em;
+    position: relative;
+    display: inline-block;
+    text-align: justify;
+}
+
+.StackedSections {
+    margin-top:3em;
+}
+
+.StackedSections:nth-child(odd) span {
+    padding-right:1em;
+}
+
+.StackedSections:nth-child(odd) span:after {
+    content: "";
+    position:absolute;
+    margin-left:0.5em;
+    margin-top:0.75em;
+    width:1.1em;
+    height:1.1em;
+    transform:rotate(45deg);
+    background-color:rgb(255, 255, 255); /* to see where it is */
+}
+
+.StackedSections:nth-child(odd) h3:after {
+    content: "";
+    position:absolute;
+    margin-left:-0.5em;
+    margin-top:-0.75em;
+    width:1.1em;
+    height:1.1em;
+    transform:rotate(45deg);
+    background-color:rgb(255, 255, 255); /* to see where it is */
+}
+
+.StackedSections:nth-child(even) span {
+    padding-left:1em;
+}
+
+.StackedSections:nth-child(even) span:before {
+    content: "";
+    position:absolute;
+    margin-left:-1.55em;
+    margin-top:0.75em;
+    width:1.1em;
+    height:1.1em;
+    transform:rotate(45deg);
+    background-color:rgb(255, 255, 255); /* to see where it is */
+}
+
+.StackedSections:nth-child(even) h3:before {
+    content: "";
+    position:absolute;
+    margin-left:-0.55em;
+    margin-top:-0.75em;
+    width:1.1em;
+    height:1.1em;
+    transform:rotate(45deg);
+    background-color:rgb(255, 255, 255); /* to see where it is */
+}
+
+.StackedSections h3 {
+    text-align:left;
+    margin-left:20%;
+    position:relative;
+    top:0.175em;
+}
+
+.StackedSections img {
+    float:left;
+    width:18%;
+    display:block;
+}
+
+.StackedSections p {
+    margin:20%;
+    text-align:justify;
+    margin-top:0.5em;
+    margin-bottom:1em;
+}
+
+.StackedSections:nth-child(even) img {
+    float:right;
+}
+
+.StackedSections:nth-child(even) h3 {
+    text-align:right;
+    margin-right:20%;
+}
+
+table {
+    border-collapse:collapse;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+table th {
+    background:black;
+    color:white;
+    border:none;
+    padding:0.5em;
+    padding-left:1em;
+    padding-right:1em;
+}
+
+.table_of_table:nth-child(2n-1) {
+    border-right:1em white solid;
+}
+
+table td {
+    background:lightgrey;
+    color:black;
+    text-align:center;
+    padding:0.5em;
+}
+
+table .table-description {
+    text-align:justify;
+}
+
+table td {
+    border:white 0.2em solid;
+}
+
+table td:nth-child(3n) {
+    border-right:none;
+}
+
+table td:nth-child(3n-2) {
+    border-left:none;
+}
+
+.tabled_table {
+    background:white;
+    margin:0px;
+    padding:0px;
+    border:none;
+    vertical-align:top;
+}
+
+.tabled_table th {
+    background:gray;
+    border:none;
+}
+
+.tabled_table:nth-child(2n-1) {
+    border-right:1em white solid;
+}

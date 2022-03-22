@@ -1,0 +1,27 @@
+Husk Arms
+/Ancient-Aetherium/placeholder.png
+Husk Arms tend to have 3 Durability each, with their removal having no penalty. Upon losing all Durability an arm can no longer be used, but up until that point, redundancy and tough built systems allow the arms to keep operating.
+
+Husk Legs
+/Ancient-Aetherium/placeholder.png
+Husk Legs tend to have 3 Durability each, with the removal of a Durability taking down ones Movement Score by 1 point. Losing all Durability in ones legs means that their Movement Action is lost, and they must make a half Action with their current Movement Score to crawl.
+
+Husk Head
+/Ancient-Aetherium/placeholder.png
+Heads tend to have 4 Durability, and contains all of ones sensory organs. Upon the removal of a Durability from the head, roll a D10. For a 1-3, lose an eye. For a 4-6, lose an ear. For 7-8 lose your snout and gain Snoutless. 9-10 has no effect. Rolling to lose something while that organ is gone results in no effect. Should an eye or an ear be lost, remove 1 success from Perception Skill Checks, and if both are lost gain Sightless and Earless, respectively. Bears can live with a head that has no Durability, but lose all sensory organs.
+
+Husk Torso
+/Ancient-Aetherium/placeholder.png
+The Husk Torso is the most vital part of any given Bear, as this is where their mind crystal is stored. The Torso has a Durability of 5 before the mind is fully exposed, resulting in Durability loss instead effecting ones Mind State. Until that point, for every Durability lost on the Torso, no effects are gained, as the Torso is built of armor and redundancy to keep one fighting.
+
+Weapon
+/Ancient-Aetherium/placeholder.png
+Weapons lose Durability when specifically targeted by damage, otherwise they do not have Durability removed for being used. Weapons have varying Durability, with every lost Durability adding a -3 to all damage rolls. Weapons may be repaired with the right tools.
+
+Armor
+/Ancient-Aetherium/placeholder.png
+Armor does not lose Durability in most typical combat, but occasionally combat will include weapons designed to tear through Armor. Armor has verying Durability, and loses 2 Toughness per Durability lost, until it loses all Durability, after which is provides no Toughness.
+
+Tools
+/Ancient-Aetherium/placeholder.png
+Tools such as Kits and wearable packs will often never see combat, but should they be targeted, they have no direct effect upon losing Durability unless stated otherwise. Upon losing all however, it must be repaired or it cannot server its purpose at all.

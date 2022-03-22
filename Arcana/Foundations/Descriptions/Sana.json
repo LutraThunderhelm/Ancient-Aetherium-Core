@@ -1,0 +1,36 @@
+{
+	"description": "Blunt force and raw might, Sana is the aspect of destructive power. Favoring maximum impact at little cost, Sana has heavy ties with agressive and brutal magic, fostering its casters violent capabilities. The Sana Foundation itself may seem rather week at first, with smaller combat advantages, but the doors it leaves open for the right mages leads to a world of complete annihilation.",
+	"spells": [{
+			"name": "Knockdown",
+			"description": "Must be used during an attack with -3 evade. The target becomes disoriented, suffering -2 to all rolls. ",
+			"xp": "150",
+			"ap": "4",
+			"ab": "0",
+			"castingTime": "Instant Action"
+		},
+		{
+			"name": "Impact",
+			"description": "Make a Brawn Skill Check after hitting an enemy, and proceed to push them back 1 meter for every success. Every person passed by the enemy during their trip may target them with an Unbound Action. Additionally, if the target of Impact hits a surface they take damage equal to the surfaces' Toughness, and if that surface is another combatant the combatant loses a Half Action on their next turn.",
+			"xp": "100",
+			"ap": "3",
+			"ab": "0",
+			"castingTime": "Instant Action"
+		},
+		{
+			"name": "Bolster Brawn",
+			"description": "During a Brawn Skill Check, this spell may be cast to give 2 additional successes.",
+			"xp": "200",
+			"ap": "5",
+			"ab": "0",
+			"castingTime": "Full Action"
+		},
+		{
+			"name": "Reroute Power",
+			"description": "The caster is able to reroute the power from Sana back into themselves, letting them chose a Handling Skill to recieve +1 Level in as long as Reroute Power is active. Chaning Reroute Power to a different Handling Skill requires it to be recasted.",
+			"xp": "200",
+			"ap": "0",
+			"ab": "10",
+			"castingTime": "Passive"
+		}
+	]
+}

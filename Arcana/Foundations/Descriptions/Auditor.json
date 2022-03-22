@@ -1,0 +1,68 @@
+{
+	"description": "Able to form the world around them through both arcane construction and arcane imagery, Auditors are able to bleed their creations into reality. Capable of creating anything and everything from purely arcane sources, Auditors meld reality however they see fit. Objects and enviroments designed by Auditors are indistinguishable from the physical world using only normal perceptions, only revealing themselves to those who know how to dispel illusions or see the flow of magic.",
+	"spells": [{
+			"name": "Melded Reality",
+			"description": "For every investment into Melded Reality checks to see past any illusion based construction by the caster gain +1 difficulty.",
+			"xp": "600",
+			"ap": "0",
+			"ab": "0",
+			"castingTime": "Static"
+		},
+		{
+			"name": "Conjure Impossibility",
+			"description": "Creates a stuble yet noticable illusion that appears to defy reality. Targets who see the Conjured Impossibility must make an Insanity Check.",
+			"xp": "1100",
+			"ap": "6",
+			"ab": "0",
+			"castingTime": "Full Action"
+		},
+		{
+			"name": "Mask Room",
+			"description": "Casts illusions over the walls and surfaces of a given room, as long as that room is under 40 by 40 meters. Mask Room allows for shifting of the appearence of the walls, as well as things that populate the room including allies, enemies, objects, and mechanical systems. This illusion has a difficulty of 4 to see through and lasts for 30 minutes, or 360 rounds.",
+			"xp": "1100",
+			"ap": "5",
+			"ab": "0",
+			"castingTime": "Full Action"
+		},
+		{
+			"name": "Form Object",
+			"description": "Creates an object of purely arcane origins with low mechanical complexity. This item appears like, feels like, looks like, sounds like, and for all purposes is the object it attempts to mimic. Formed Objects may not be larger than twice the caster's size. Attempts to see through the illusion are a difficulty of 3. Melts after 1 hour.",
+			"xp": "1000",
+			"ap": "4",
+			"ab": "0",
+			"castingTime": "Full Action"
+		},
+		{
+			"name": "Altered Geometry",
+			"description": "Adds physical geometry to the area around the caster that did not previously exist. This geometry can be as simple or as complex as the caster wishes in appearence, however they may only make 30 cubic meters of new geometry. This geometry matches its intended appearence, including replicated the durability of steel or the softness of a matress. Altered Geometry must extend the dimensions of another object, such as walls, floors, cabinets, or sofas. Altered Geometry melts away after 1 hour.",
+			"xp": "900",
+			"ap": "4",
+			"ab": "0",
+			"castingTime": "Half Action"
+		},
+		{
+			"name": "Destroy Geometry",
+			"description": "Removes up to 10 cubic meters of the surrounding enviroment completely. This object is suppressed allowing movement through and halting any perception of the object. The object is not able to move or act in this time. After 1 hour the object is reformed in a cloud of steam.",
+			"xp": "1100",
+			"ap": "4",
+			"ab": "0",
+			"castingTime": "Half Action"
+		},
+		{
+			"name": "Hastey Illusions",
+			"description": "All Full Action Ilussion based spells only take a Half Action to cast.",
+			"xp": "1100",
+			"ap": "0",
+			"ab": "9",
+			"castingTime": "Passive"
+		},
+		{
+			"name": "Multi-Audit",
+			"description": "Any and all illusion spells may be cast at once in the amount of time the longest spell takes to cast. All spells cost their original AP.",
+			"xp": "1400",
+			"ap": "0",
+			"ab": "12",
+			"castingTime": "Passive"
+		}
+	]
+}

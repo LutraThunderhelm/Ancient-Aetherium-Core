@@ -1,0 +1,1 @@
+The general amount of action occuring in an area. Desnity changes the chances of running into something during a Navigation Check by adding or removing cards based on the amount of things around. In a busy city the party would be more likely to run into locals than if they were walking through empty farms with scattered houses and nothing living for miles.

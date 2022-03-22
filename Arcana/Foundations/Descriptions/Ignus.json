@@ -1,0 +1,36 @@
+{
+	"description": "Open to anyone who wishes to take a spell in it, Ignus is one of the six basic Foundations. Ignus magic itself is movement oriented, allowing the caster new options at mobility and acrobatic motions. Due to its very common status however, there is no general cultural significance to Ignus casters, instead being the catalyst for higher Foundations focused around hidden movement or combative advantage.",
+	"spells": [{
+			"name": "Singed Hop",
+			"description": "Typically cast while in the air, allows the user to jump while airborn as if they were on the ground.",
+			"xp": "150",
+			"ap": "3",
+			"ab": "0",
+			"castingTime": "Instant Action"
+		},
+		{
+			"name": "Blazing Dash",
+			"description": "Double your movement for the next 5 seconds, or for your next turn.",
+			"xp": "200",
+			"ap": "4",
+			"ab": "0",
+			"castingTime": "Instant Action"
+		},
+		{
+			"name": "Rapid Dodge",
+			"description": "Gain 3 successes instantly during a Dodge Skill Check. Only usable if the caster can see their attacker.",
+			"xp": "150",
+			"ap": "5",
+			"ab": "0",
+			"castingTime": "1 Action"
+		},
+		{
+			"name": "Rattle Step",
+			"description": "Tests made against your evade gain a passive -3, as your movement is quick and irregular.",
+			"xp": "200",
+			"ap": "0",
+			"ab": "8",
+			"castingTime": "Passive"
+		}
+	]
+}

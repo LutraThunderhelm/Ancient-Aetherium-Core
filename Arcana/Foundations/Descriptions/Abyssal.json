@@ -1,0 +1,100 @@
+{
+	"description": "When a Phaser learns to see beyond what they know, they are bound to one day use their abilities to learn what lays in the seams of reality. Should a Phaser observe the medium they travel through using the powers of a Shroud Breaker, they'll find themselves staring into an endless color streaked darkness, just long enough for it to stare back. Breaking into the final layer of observation, Abyssals have seen and understood the very materials their fabric of reality is built from. Labelled the Abyss by its observers, the endless darkness is thought to be a way of rationalizing observing worlds beyond their own understanding, with the information from these worlds coming to them in constant unrelenting waves. Abyssals now look to the building blocks of reality itself to guide their paws and thoughts, getting lost in a sea of screaming voices manifesting from the Abyss itself.",
+	"spells": [{
+			"name": "Combined Memories",
+			"description": "The Abyssal listens to the memories of every object in a given enviroment, giving them every event that happened in that space over the last week.",
+			"xp": "3000",
+			"ap": "8",
+			"ab": "0",
+			"castingTime": "Full Action"
+		},
+		{
+			"name": "Abyssal Insight",
+			"description": "Allows the Abyss to gain a vague vision of a future event. The Abyssal will not know how far off this event is.",
+			"xp": "2000",
+			"ap": "5",
+			"ab": "0",
+			"castingTime": "2 Full Actions"
+		},
+		{
+			"name": "Gain Memories",
+			"description": "Allows the Abyssal to gain all the memories of a given target through out the targets life time.",
+			"xp": "3000",
+			"ap": "9",
+			"ab": "0",
+			"castingTime": "Full Action"
+		},
+		{
+			"name": "Rewrite Memory",
+			"description": "The Abyssal changes their targets memory of a single event. There is no way to tell when this has happened from the targets point of view, without outside help.",
+			"xp": "4000",
+			"ap": "10",
+			"ab": "0",
+			"castingTime": "Full Action"
+		},
+		{
+			"name": "Sacrifice to Abyss",
+			"description": "Must be casted once in the Abyss with an enemy. The Abyss consumes the enemy and gives the Abyssal 20 AP, in addition to any reserve AP the enemy had.",
+			"xp": "3000",
+			"ap": "10",
+			"ab": "0",
+			"castingTime": "Full Action"
+		},
+		{
+			"name": "Hidden Abyss",
+			"description": "The caster becomes completely imperceivable, making them unable to be the target of any action as long as they use Hidden Abyss. While using Hidden Abyss the Abyssal is still able to take actions normally. Must make the AP cost per turn, or every 5 seconds to keep Hidden Abyss active ",
+			"xp": "4000",
+			"ap": "5",
+			"ab": "0",
+			"castingTime": "Instant Action"
+		},
+		{
+			"name": "Abyssal Boon",
+			"description": "Replicate the effect of a Founder's Boon using nothing but the Abyss and some arcana to convince it. The Boon has all original effects.",
+			"xp": "3000",
+			"ap": "9",
+			"ab": "0",
+			"castingTime": "Full Action"
+		},
+		{
+			"name": "Gain Intentions",
+			"description": "The Abyssal is able to know the motivations and intentions of a target without the target knowing.",
+			"xp": "2000",
+			"ap": "8",
+			"ab": "0",
+			"castingTime": "Full Action"
+		},
+		{
+			"name": "Guiding Friend",
+			"description": "Succeeds a Skill Check using the skills of the Abyss as it guides the casters hand.",
+			"xp": "5000",
+			"ap": "10",
+			"ab": "0",
+			"castingTime": "Instant Action"
+		},
+		{
+			"name": "Paranoid Abyss",
+			"description": "Convinces the Abyss to give the power of a single Shroud Breaker, Seer, or Lux spell at all times.",
+			"xp": "5000",
+			"ap": "0",
+			"ab": "15",
+			"castingTime": "Passive"
+		},
+		{
+			"name": "Precognition",
+			"description": "The caster has no preset turns, instead all turns become Unbound, allowing them to be taken at any time.",
+			"xp": "4000",
+			"ap": "0",
+			"ab": "12",
+			"castingTime": "Passive"
+		},
+		{
+			"name": "Shattered Darkness",
+			"description": "Allows the caster to see through any and all spells based on Arcane Darkness.",
+			"xp": "2000",
+			"ap": "0",
+			"ab": "9",
+			"castingTime": "Passive"
+		}
+	]
+}

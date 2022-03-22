@@ -1,0 +1,68 @@
+{
+	"description": "Twisting their understanding of power with their understanding of the arcane, Infusionaries seek to bring arcane power directly into the world aorund them. Able to imbue arcane forces into their equipment, Infusionaries call on an untapped world of raw mystical power to enhance their abilities.",
+	"spells": [{
+			"name": "Inject Instability",
+			"description": "Select a piece of equipment up to 30 meters away and cause it to gain the Unstable trait for its next 3 uses.",
+			"xp": "300",
+			"ap": "5",
+			"ab": "0",
+			"castingTime": "Half Action"
+		},
+		{
+			"name": "Create Destruction",
+			"description": "Select a piece of equipment up to 10 meters away, and fill it with raw volatile power, giving it 3x damage on its next use, both against objects and enemies.",
+			"xp": "300",
+			"ap": "5",
+			"ab": "0",
+			"castingTime": "Half Action"
+		},
+		{
+			"name": "Inject Thorns",
+			"description": "Form rash arcana on a piece of equipment up to 10 meters away. The next time this equipment is hit, it applies the damage it takes to both the attacker and the victim, no matter the equipments state afterward.",
+			"xp": "200",
+			"ap": "4",
+			"ab": "0",
+			"castingTime": "Half Action"
+		},
+		{
+			"name": "Heated Blade",
+			"description": "Chose a piece of equipment up to 5 meters away. The target becomes a catalyst for intense heat, and ignores any and all metal defenses on its next use. This can be applied to weapons, tools, or even husks, as the spell does not cause the object itself to become hot.",
+			"xp": "250",
+			"ap": "3",
+			"ab": "0",
+			"castingTime": "Half Action"
+		},
+		{
+			"name": "Focused Strike",
+			"description": "Pick a piece of equipment up to 10 meters away. The next time the target is used, it will succeed any check to hit, such as throwing a rock at a bottle, or landing a hit with an axe on an enemy.",
+			"xp": "250",
+			"ap": "3",
+			"ab": "0",
+			"castingTime": "Half Action"
+		},
+		{
+			"name": "Corroded Slag",
+			"description": "Pick a piece of equipment up to 20 meters away. The target becomes covered in a darked sludge that, upon contact with a metal, wood, or ceramic material, degrades it down into a brittle substance, using up the Corroded Slag. The victim of the Corroded Slag loses all toughness, as well as breaks on next use unless repaired immedietly.",
+			"xp": "400",
+			"ap": "6",
+			"ab": "0",
+			"castingTime": "Full Action"
+		},
+		{
+			"name": "Recycle Infusions",
+			"description": "If an infusion is used, but does not succeed, such as a powerful shot that misses, or a heated blade that hits an object made of wood, the cost of the infuses given back to the caster in AP.",
+			"xp": "400",
+			"ap": "0",
+			"ab": "8",
+			"castingTime": "Passive"
+		},
+		{
+			"name": "Shiftable Infusions",
+			"description": "Makes all of the casters infusions non-permanent, letting them be moved between equipment at will. This can only be done by the caster, and can be done as an Instant Action with no cost. Range limitations on the spells still apply.",
+			"xp": "300",
+			"ap": "0",
+			"ab": "5",
+			"castingTime": "Passive"
+		}
+	]
+}

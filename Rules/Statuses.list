@@ -1,0 +1,31 @@
+Sightless
+/Ancient-Aetherium/placeholder.png
+Sightlessness is assigned when a character is unable to see, whether it be from arcane sources, darkness, or simply losing their eyes. This Sightlessness lasts as long as the causing effect does, forcing the character to rely on their other senses. The character is unable to be prompted for vision based Skill Checks such as Perception, Firing, Brawling, etc. Additionally for any non-sight based Perception Skill Check, the character gains +2 Difficulty.
+
+Earless
+/Ancient-Aetherium/placeholder.png
+Assigned when one loses their ability to hear, Earlessness is typically given to a character upon that character losing their ears, though it may be gained in other ways. The Earless status lasts until the source of hte effect is gone or repaired, forcing the character to not hear anyt conversation, and be unpromptable for any audio queues in their enviroment, as well as audio based Skill Checks. Additionaly, should a Perception Skill Check be required of a character with Earless, they gain +2 Difficulty. 
+
+Snoutless
+/Ancient-Aetherium/placeholder.png
+Taken either on purpose by covering ones mouth, or on accident by having it ripped off, Snoutless effects those without the ability to use their snout. Snoutless specifically prevents the cahracter from talking or smelling anything, and gains a +1 Difficulty in Perception Skill Checks. Additionally, Snoutless characters cannot make Skill Checks based on smell or talking.
+
+Waterlogged
+/Ancient-Aetherium/placeholder.png
+Despite their lack of lungs, bears will often try their best to avoid water, as prolonged contact with water will cause a bear to become Waterlogged. While they are unable to drown, Bears are also unable to swim, meaning they sink to the bottom of most liquids, having their bodys weighed down by the excess liquid that has entered their husk. Those with the Waterlogged Effect suffer halved movement, and must add +2 Difficulty to all movement based Skill Checks until the water has left their husk, usually after a full day (Brawling, Firing, most Handling Skills, etc).
+
+Fire
+/Ancient-Aetherium/placeholder.png
+Since Bears are mostly comprised of fabric and stuffing, Fire is one of the most dangerous effects out there. Often heavily avoided unless given no better option, the Fire Status must be applied to individual Body Parts instead of the bear as a whole. While on fire the toughness of the body party loses 1D4 Toughness per turn or every 5 seconds. Should the body part run out of Toughness, it gains the Exposed Effect, as all the fabric and stuffing is burned away.  Once the Fire Effect has caused a body part to become Exposed, it will spread to all other connected body parts, and repeat the process until put out or until it runs out of burnable material.
+
+Exposed
+/Ancient-Aetherium/placeholder.png
+When a body part runs out of toughness that body part becomes Exposed. Body parts with the Exposed Effect no longer have any protective material guarding their crystalline skeleton, causing any damage taken to that body part to have much harsher effects. When taking damage, make an Abuse Skill Check, and multiply your successes with your base Resistance Value. If the incoming damage is greater than that score, the body part takes 2 durability of damage, otherwise it only takes one.
+
+Overgrown
+/Ancient-Aetherium/placeholder.png
+Nauseas work their way inside anything and everything, whether its welcome or not. This fact remains true for bear husks as well, as long exposure to a Nausea may cause plant life to start growing in the husk, causing the Overgrown effect.  During its growing stages  the Overgrown Effect may not be visually noticeable as the vines grow under the husk, but once the vine has leached enough under the surface it will start forcing itself out of the husk. Once a vine has burst through the husk its likely too late for the victim of the Overgrown Effect. While in the growing stage Fatigue times are halved with 4 hour intervals instead of 8. Growing stages can last anywhere from a day to a week, but once the vine has burst out, the character's Arcane Bank is halved, Fatigue times are halved again to 2 hour intervals, and failed attempts to remove the vine causes the victim to make an Abuse Skill Check with a difficulty of 2, with failure resulting in the Cracked Mind State.
+
+Overcharged
+/Ancient-Aetherium/placeholder.png
+While a lack of power can cause Fatigue, excess arcane power can result in the tearing apart of one's physical form. The Overcharged Effect refers to the state where a character has been charged with large amounts of excess arcane power that is now attempting to leave the husk. For all Skill Checks taken while Overcharged, gain 1 success for free, and make an Abuse Skill Check with a difficulty of 2, where failure causes the relevant body part to lose a Durability. If a relevant body part cannot be easily decided, assume that the Torso loses durability.

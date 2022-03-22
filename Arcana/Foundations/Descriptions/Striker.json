@@ -1,0 +1,68 @@
+{
+	"description": "Focusing Sana down to a fine form, Strikers are the result of controlled destruction, hitting heavy and hitting hard, leaving a mark on nothing but their target. Typically found among the various branches of the military, Strikers hold a strong combat advantage, being a disaster to take head on. Battling a Striker without a plan requires a strong will, and even stronger armor.",
+	"spells": [{
+			"name": "Shattering Strike",
+			"description": "Must be cast during an attack, before checking if the attack succeeds. Should the attack succeed and cause Durability loss, the enemies armor shatters into pieces, leaving them Exposed.",
+			"xp": "300",
+			"ap": "5",
+			"ab": "0",
+			"castingTime": "Instant Action"
+		},
+		{
+			"name": "Forceful Blow",
+			"description": "Must be cast during an attack after checking if the attack succeeds. Causes the target to be pushed back 2 meters. Should they hit a surface, they take additional damage equal to the surface toughness, which is added to the damage done by the attack. ",
+			"xp": "250",
+			"ap": "3",
+			"ab": "0",
+			"castingTime": "Instant Action"
+		},
+		{
+			"name": "Heavy Strike",
+			"description": "Must be cast during an attack before checking if the attack succeeds. Should the attack succeed, make a Brawn Skill Check. For every success add 4 damage to the attack.",
+			"xp": "300",
+			"ap": "4",
+			"ab": "0",
+			"castingTime": "Instant Action"
+		},
+		{
+			"name": "Kenetic Redistribution",
+			"description": "Must be cast as during a Deflect action. The caster takes the attack head on, soaking all damage taken into damage they may apply during their next attack. The caster still takes damage by casting Unto You.",
+			"xp": "250",
+			"ap": "4",
+			"ab": "0",
+			"castingTime": "Instant Action"
+		},
+		{
+			"name": "Launch",
+			"description": "Treat a thrown object as a projectile, making it use a Firing Skill Check against the enemies evade, gain 4 damage, and remove throwing penalties.",
+			"xp": "200",
+			"ap": "2",
+			"ab": "0",
+			"castingTime": "Full Action"
+		},
+		{
+			"name": "Chief's Call",
+			"description": "All enemies in a 20 meter radius of the caster must make a Fear Check. Instead of drawing on the Fear Effect table however, losing the Fear Check results in a frezy towards the caster. While under Chief's Call targets must make a difficulty 2 Bravery Skill Check to target anyone but the caster with any actions. To remove the effects of Chief's Call a target must take a Full Action to make a difficulty 3 Bravery Skill Check.",
+			"xp": "400",
+			"ap": "5",
+			"ab": "0",
+			"castingTime": "Full Action"
+		},
+		{
+			"name": "Titan's Fury",
+			"description": "For every durability taken, add 1 damage to every attack made. Titan's Fury bonuses reset upon taking a long rest of 4 hours or more.",
+			"xp": "300",
+			"ap": "0",
+			"ab": "9",
+			"castingTime": "Passive"
+		},
+		{
+			"name": "Damage Shifter",
+			"description": "When taking damage, shift it to a target body part instead of the intended body part.",
+			"xp": "300",
+			"ap": "0",
+			"ab": "10",
+			"castingTime": "Passive"
+		}
+	]
+}

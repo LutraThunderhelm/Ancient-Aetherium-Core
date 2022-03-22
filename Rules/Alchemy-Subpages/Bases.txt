@@ -1,0 +1,1 @@
+Bases decide the form the brew takes. Bases tend to have strong side effects, while allowing for more, or modifying the effects of, Mixins and Bottles, should those Mixins and Bottles be used with the proper base. Bases themselves all tend to be liquids and will require special liquid carrying containers to transport.

@@ -1,0 +1,309 @@
+Arcane City Center
+/Ancient-Aetherium/placeholder.png
+Arcane Land Types typically cover areas own by Gredo, or bears that once belonged to Gredo. Arcane City Centers are often friendly areas controlled directly by Gredo's governing power. These areas will typically not see direct trouble, but instead have social deviants lurking in the shadows.
+<table>
+    <tr>
+        <th class="table_of_table">Encounter Tables</th>
+    </tr><tr>
+        <td class="tabled_table"><table>
+            <tr>
+                <th>Card Type</th>
+                <th>Situation</th>
+            </tr><tr>
+                <td>Numbered</td>
+                <td class="description">The group loses time, most typically using the card number as time loss measured in hours.</td>
+            </tr><tr>
+                <td>Jack</td>
+                <td class="description">The group gets stopped by local merchants, a scam, tollbooth, or other party after their money.</td>
+            </tr><tr>
+                <td>Queen</td>
+                <td class="description">The group stumbles into the actions of a local powerful group.</td>
+            </tr><tr>
+                <td>King</td>
+                <td class="description">The group finds local extremists, either political or faith based. This encounter may or may not be violent.</td>
+            </tr><tr>
+                <td>Ace</td>
+                <td class="description">The group is stopped by local authorities for one reason or another, possibly violently.</td>
+            </tr>
+        </table></td>
+    </tr>
+</table>
+
+Arcane Borderlands
+/Ancient-Aetherium/placeholder.png
+The areas surrounding Arcane City Centers are often considered to be Arcane Borderlands. Referring to an area secured by Gredo's people through one reason or another, Borderlands are characterized by scavenging, looting, and a large number of Residents. Typically Outposts will also count as Arcane Borderlands.
+<table>
+    <tr>
+        <th class="table_of_table">Encounter Tables</th>
+    </tr><tr>
+        <td class="tabled_table"><table>
+            <tr>
+                <th>Card Type</th>
+                <th>Situation</th>
+            </tr><tr>
+                <td>Numbered</td>
+                <td class="description">The group loses time, most typically using the card number as time loss measured in hours.</td>
+            </tr><tr>
+                <td>Jack</td>
+                <td class="description">Local scavengers approach the group to trade, scam, or conversate with the group.</td>
+            </tr><tr>
+                <td>Queen</td>
+                <td class="description">A loot stash is found by the group of a local scavenger.</td>
+            </tr><tr>
+                <td>King</td>
+                <td class="description">A local scavenger has a violent run in with the group.</td>
+            </tr><tr>
+                <td>Ace</td>
+                <td class="description">Local extremists stop the group for violent intervention.</td>
+            </tr>
+        </table></td>
+    </tr>
+</table>
+
+Arcane Holdout
+/Ancient-Aetherium/placeholder.png
+Traitors often find themselves setting in strange parts of the Ruins in an attempt to avoid gaining any attention from Gredo's forces. Known as Arcane Holdouts, these areas tend to seem quieter than they really are, with the Traitors lurking around corners the party may not be aware of.
+<table>
+    <tr>
+        <th class="table_of_table">Encounter Tables</th>
+    </tr><tr>
+        <td class="tabled_table"><table>
+            <tr>
+                <th>Card Type</th>
+                <th>Situation</th>
+            </tr><tr>
+                <td>Numbered</td>
+                <td class="description">The group loses time, most typically using the card number as time loss measured in hours.</td>
+            </tr><tr>
+                <td>Jack</td>
+                <td class="description">The group is noted and followed by the traitors for one reason or another.</td>
+            </tr><tr>
+                <td>Queen</td>
+                <td class="description">The group will attempt to steal something of interest from the group.</td>
+            </tr><tr>
+                <td>King</td>
+                <td class="description">The group has an encounter with the locals, possibly peacefully.</td>
+            </tr><tr>
+                <td>Ace</td>
+                <td class="description">The traitors violently confront the group.</td>
+            </tr>
+        </table></td>
+    </tr>
+</table>
+
+Nauseous Heart
+/Ancient-Aetherium/placeholder.png
+Nauseas are areas covered in a thick green gas known to cause hallucinogenic effects in bears by acting on them the same way brews do. Should a bear be without a bandana or other way to cover their snout for a long enough time they may start to see things in the nauseous gas. Nauseous Hearts are areas fully infested by Nauseous plants and animals, which are rapidly mutating creatures with a thirst for arcane power, as its what keeps them alive.
+<table>
+    <tr>
+        <th class="table_of_table">Encounter Tables</th>
+    </tr><tr>
+        <td class="tabled_table"><table>
+            <tr>
+                <th>Card Type</th>
+                <th>Situation</th>
+            </tr><tr>
+                <td>Numbered</td>
+                <td class="description">The group finds a pack of Nauseous Creatures, with the amount facing the group being equal to the number on the card.</td>
+            </tr><tr>
+                <td>Jack</td>
+                <td class="description">The group gets lost in the maze, making them make the same check again with a difficulty equal to half the cards number, rounded down.</td>
+            </tr><tr>
+                <td>Queen</td>
+                <td class="description">The group gains the Overgrown Status.</td>
+            </tr><tr>
+                <td>King</td>
+                <td class="description">The group find a sleeping Night Terror that they must try to not wake.</td>
+            </tr><tr>
+                <td>Ace</td>
+                <td class="description">An active Night Terror finds and engages with the group.</td>
+            </tr>
+        </table></td>
+    </tr>
+</table>
+
+Nauseous Borderlands
+/Ancient-Aetherium/placeholder.png
+The Nauseous Borderlands are similar to their Nauseous Heart counterparts, but instead cover the area close to a nausea. While being out of the gas may deter many wandering creatures, others tend to find themselves able to drag unexpecting ruiners back into Nauseous Nests.
+<table>
+    <tr>
+        <th class="table_of_table">Encounter Tables</th>
+    </tr><tr>
+        <td class="tabled_table"><table>
+            <tr>
+                <th>Card Type</th>
+                <th>Situation</th>
+            </tr><tr>
+                <td>Numbered</td>
+                <td class="description">The group loses time, most typically using the card number as time loss measured in hours.</td>
+            </tr><tr>
+                <td>Jack</td>
+                <td class="description">The group finds a dormant pack of sleeping creatures, possibly 10, they must try and not wake up.</td>
+            </tr><tr>
+                <td>Queen</td>
+                <td class="description">The group finds a roaming pack of Nauseous Creatures numbering half the cards number rounded down.</td>
+            </tr><tr>
+                <td>King</td>
+                <td class="description">The group stumbles upon a nest of creatures, totalling above 10.</td>
+            </tr><tr>
+                <td>Ace</td>
+                <td class="description">The group winds up having to navigate through the Nauseous Heart.</td>
+            </tr>
+        </table></td>
+    </tr>
+</table>
+
+Fields of Fire
+/Ancient-Aetherium/placeholder.png
+Fields of Fire refer to active combat zones. Areas under heavy fire from both Gredo and the Hive alike will often have seen enough destructive combat that the buildings that used to provide cover have all been blasted away. Navigating Fields of Fire often involve risking one's own life to run across active warzones, hoping one doesn't get hit.
+<table>
+    <tr>
+        <th class="table_of_table">Encounter Tables</th>
+    </tr><tr>
+        <td class="tabled_table"><table>
+            <tr>
+                <th>Card Type</th>
+                <th>Situation</th>
+            </tr><tr>
+                <td>Numbered</td>
+                <td class="description">Durability is lost by several members of the group, the RM distributes the Durability loss as they see fit. The total Durability lost is equal to the cards number.</td>
+            </tr><tr>
+                <td>Jack</td>
+                <td class="description">Several members of the group catch on fire, roll a D4 to decide how many.</td>
+            </tr><tr>
+                <td>Queen</td>
+                <td class="description">The group is stopped by a Hive Droid targetting them specifically.</td>
+            </tr><tr>
+                <td>King</td>
+                <td class="description">The group become the target of a large explosion making them all suffer D20 damage.</td>
+            </tr><tr>
+                <td>Ace</td>
+                <td class="description">The group is stopped by a Hive Engine targetting them specifically.</td>
+            </tr>
+        </table></td>
+    </tr>
+</table>
+
+Fields of Ash
+/Ancient-Aetherium/placeholder.png
+Once the fire of the fight has died down, all that's left is a Field of Ash. Filled with the smokey corpse of what once was, Fields of Ash occur once Gredo or the Hive has taken control of a Field of Fire. While the battling may be done however, many artifacts of war can still be found among the remains. 
+<table>
+    <tr>
+        <th class="table_of_table">Encounter Tables</th>
+    </tr><tr>
+        <td class="tabled_table"><table>
+            <tr>
+                <th>Card Type</th>
+                <th>Situation</th>
+            </tr><tr>
+                <td>Numbered</td>
+                <td class="description">The group loses time, most typically using the card number as time loss measured in hours.</td>
+            </tr><tr>
+                <td>Jack</td>
+                <td class="description">The group triggers a trap of some kind left behind.</td>
+            </tr><tr>
+                <td>Queen</td>
+                <td class="description">The reminants of a Hive Droid targets the party.</td>
+            </tr><tr>
+                <td>King</td>
+                <td class="description">A foot soldier with a Cracked Mind targets the group.</td>
+            </tr><tr>
+                <td>Ace</td>
+                <td class="description">A high ranking soldeir of some kind with a Cracked Mind targets the group.</td>
+            </tr>
+        </table></td>
+    </tr>
+</table>
+
+Field Borderlands
+/Ancient-Aetherium/placeholder.png
+Filled with stragglers of war, Field Borderlands cover the edges of all three other Fields. With only small numbers of fights occurring on the Borderlands, they are much safer to tread through, but often take much longer to maneuver.
+<table>
+    <tr>
+        <th class="table_of_table">Encounter Tables</th>
+    </tr><tr>
+        <td class="tabled_table"><table>
+            <tr>
+                <th>Card Type</th>
+                <th>Situation</th>
+            </tr><tr>
+                <td>Numbered</td>
+                <td class="description">The group loses time, most typically using the card number as time loss measured in hours.</td>
+            </tr><tr>
+                <td>Jack</td>
+                <td class="description">A struggling Bear approaches the group wounded, asking for help.</td>
+            </tr><tr>
+                <td>Queen</td>
+                <td class="description">The local commander finds the group and requests their assistance.</td>
+            </tr><tr>
+                <td>King</td>
+                <td class="description">The group finds a battle happening in the Borderlands.</td>
+            </tr><tr>
+                <td>Ace</td>
+                <td class="description">The group must pass through the Field of Fire.</td>
+            </tr>
+        </table></td>
+    </tr>
+</table>
+
+Hive Core
+/Ancient-Aetherium/placeholder.png
+One of the most dangerous places for any one citizen of Gredo to be at any time is the Core of a Hive operation. Made up of factories, supply lines, shipping depots, and everything needed to fuel an endless war, Hive Cores are areas fully controlled and renovated by Hive operations.
+<table>
+    <tr>
+        <th class="table_of_table">Encounter Tables</th>
+    </tr><tr>
+        <td class="tabled_table"><table>
+            <tr>
+                <th>Card Type</th>
+                <th>Situation</th>
+            </tr><tr>
+                <td>Numbered</td>
+                <td class="description">The group manages to draw the attention of drones, numbering as many as the number of the card.</td>
+            </tr><tr>
+                <td>Jack</td>
+                <td class="description">Local droids mark the group, leading to a constant influx of Droids targetting them.</td>
+            </tr><tr>
+                <td>Queen</td>
+                <td class="description">The group finds a Hive Engine which proceeds to engage them.</td>
+            </tr><tr>
+                <td>King</td>
+                <td class="description">The group is marked as a threat making them the constant target of any nearby enforcements.</td>
+            </tr><tr>
+                <td>Ace</td>
+                <td class="description">The group is found, tracked, and sought out by all local Drones, and Engines.</td>
+            </tr>
+        </table></td>
+    </tr>
+</table>
+
+Hive Borderlands
+/Ancient-Aetherium/placeholder.png
+The second most dangerous place for any one citizen of Gredo to be, the Outskirts of Hive controlled territory is often patrolled by the Hives various drones and engines out the lookout for those that dare try and venture through their territory. Often times attracted the attention of just one petrol group will cause others in the area to begin making their way to the intruders.
+<table>
+    <tr>
+        <th class="table_of_table">Encounter Tables</th>
+    </tr><tr>
+        <td class="tabled_table"><table>
+            <tr>
+                <th>Card Type</th>
+                <th>Situation</th>
+            </tr><tr>
+                <td>Numbered</td>
+                <td class="description">The group loses time, most typically using the card number as time loss measured in hours.</td>
+            </tr><tr>
+                <td>Jack</td>
+                <td class="description">The group encounters a small group of Patrol Drones who proceed to engage them. The amount of drones is equal to half the card number rounded down.</td>
+            </tr><tr>
+                <td>Queen</td>
+                <td class="description">The group is targeted by a damaged Hive Engine being worked on by a few Hive Droids.</td>
+            </tr><tr>
+                <td>King</td>
+                <td class="description">The group gains the attention of a Patrol Engine</td>
+            </tr><tr>
+                <td>Ace</td>
+                <td class="description">The group must pass through the Hive Core.</td>
+            </tr>
+        </table></td>
+    </tr>
+</table>

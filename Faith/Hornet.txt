@@ -1,0 +1,31 @@
+Known for being a scholar and teacher, Hornet has gained her spot among the Founders as a ruthless seeker of knowledge, sharing it with any who would listen. During the early days of Gredo, Hornet explored and charted the ever shifting ruins, tracking her way through flooded cities and nauseous suburbs in a quest for her ever expanding knowledge. Time went on, and her findings, research, recordings, documents, maps, and artifacts became overwhelming. Refusing to stop and let her curiosity fade, she became a teacher to the other Founders and the first citizens of Gredo. She shared her knowledge, slowly creating the Seekers, an organization based on the seeking, storing, and sharing of information.
+
+Nothing could stop Hornet's hunger for knowledge, and her passion for sharing it with others. As time went on however, the island became familiar. Hornet had seen it all, heard it all, found it all, and done it all. She craved to know more, and set her sights on the unending lifeless ocean. Promising to aid her followers and to aid those in need, on the dawn of the Festival of the Equinox she set sail onto the endless waves, promising to return with tales and charts of the new lands among the horizon. 150 years later, and she has yet to return.
+
+Currently, its unknown if she was lost to the waves, it is only known that she still commands the Aether. She spreads her knowledge through the Aether to her followers, aiding them with anything she can. Hornet's Boons are purchased in trade for Secrets, which are intentionally obscure pieces of knowledge. Busting down a secret organization, finding a new Nauseous Creature, or simply letting all of ones own secrets loose, are all ways to secure one of Hornet's powerful Boons.
+
+<table>
+    <tr>
+        <th class="table_of_table">Hornet's Boon Effects</th>
+    </tr><tr>
+        <td class="tabled_table"><table>
+            <tr>
+                <th>Name</th>
+                <th>Boon Cost</th>
+                <th>Effect</th>
+            </tr><tr>
+                <td>Flowering Mind</td>
+                <td>1 Boon</td>
+                <td class="description">Gain 1 success on the next Skill Check made.</td>
+            </tr><tr>
+                <td>Borrowed Knowledge</td>
+                <td>1 Boon</td>
+                <td class="description">Treat a skill as 1 level higher for its next use.</td>
+            </tr><tr>
+                <td>Collective Library</td>
+                <td>1 Boon</td>
+                <td class="description">Automatically succeed a Schema Skill Check.</td>
+            </tr>
+        </table></td>
+    </tr>
+</table>

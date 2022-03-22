@@ -1,0 +1,68 @@
+{
+	"description": "Originally developed by Traitors, the Blinder Foundation is built for keeping nosey individuals out. Blinders have reversed engineered their Lux roots, instead limiting perceptions by altering the physical world through their Illusionary magic. Blinders can prevent observation from normal senses, as well as those enhanced by Seer, Secret Catcher, and partially Abyssal origins, keeping their inner desires secret from the world. Every attempt to combat a Blinder only succeeds if a Perception Skill Check with the Blinders Voidic Cloak level as the difficulty is passed.",
+	"spells": [{
+			"name": "Voidic Cloak",
+			"description": "When a Blinder is encounters a Seer, Shroud Breaker, or Abyssal may attempt to look upon the Blinder anyway. Voidic Cloak is the Blinders ability to refuse the effects of such attempts, with every investment adding 1 difficulty to a Skill Check required to see through the Blinder's tricks.",
+			"xp": "600",
+			"ap": "0",
+			"ab": "0",
+			"castingTime": "Static"
+		},
+		{
+			"name": "Silent Walls",
+			"description": "Any piercing Seer spells, such as those that see the flow of magic through surfaces, sense motion through walls, or gain locations without seeing them, are instead met by darkness upon finding the caster. This effect lasts as long as the opposing spell does.",
+			"xp": "900",
+			"ap": "3",
+			"ab": "0",
+			"castingTime": "Half Action"
+		},
+		{
+			"name": "Banish Memories",
+			"description": "Wipes the memories of objects and enviroments, preventing spells such as Psychometry from finding anything. Psychometry would instead find a static nothingness spanning the objects life time.",
+			"xp": "1000",
+			"ap": "4",
+			"ab": "0",
+			"castingTime": "Half Action"
+		},
+		{
+			"name": "Locked Husk",
+			"description": "Locked Husk must be preformed by touching the target. The target is no longer able to use any sensory modifications that are not directly built into their husk. This effect lasts until the Blinder leaves a 50 meter radius of the target.",
+			"xp": "1100",
+			"ap": "5",
+			"ab": "0",
+			"castingTime": "Full Action"
+		},
+		{
+			"name": "Reversed Visions",
+			"description": "If currently the target of a Seeker, Shroud Breaker, or Abyssal spell that reveals the location of the caster, the caster prevents their location from becoming known while learning the location of the caster that targeted them.",
+			"xp": "1200",
+			"ap": "6",
+			"ab": "0",
+			"castingTime": "Half Action"
+		},
+		{
+			"name": "Searing Void",
+			"description": "Fills the air with static, that upon being observed using arcane forces, causes pain upon the observer. The observer must make an Abuse Skill Check with a difficulty equal to the Voidic Cloack level of the caster, with failiure making their head lose a durability and their eyes lose vision.",
+			"xp": "1200",
+			"ap": "6",
+			"ab": "0",
+			"castingTime": "Half Action"
+		},
+		{
+			"name": "6th Sense",
+			"description": "The caster is able to sell when they have become the target of a seer spell, and may chose to cast a Blinder spell before they are targeted.",
+			"xp": "900",
+			"ap": "0",
+			"ab": "5",
+			"castingTime": "Passive"
+		},
+		{
+			"name": "Voidic Shield",
+			"description": "For every investment made into Voidic Cloak, the caster may have all Blinder spell effects thy cast apply to another ally. With no investments, the caster may choose only a single ally to be the target of Voidic Shield. The target may be changed at any time.",
+			"xp": "1100",
+			"ap": "0",
+			"ab": "7",
+			"castingTime": "Passive"
+		}
+	]
+}

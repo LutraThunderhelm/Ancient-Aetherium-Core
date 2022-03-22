@@ -1,0 +1,68 @@
+{
+	"description": "Combining their tap into the natural world with their raw power, Syphons have reversed the flow of arcana. Syphons tap into their enviroment, leeching it of its arcane energies, and consuming its form. Syphon spells take the physical world and strongly alter it, manipulating their enviroment to their advantage while taking its arcane energy for themselves. Syphons are typically feared by others as well, as they tend to be able to consume the power of their own kind, if given the chance.",
+	"spells": [{
+			"name": "Arcane Sickness",
+			"description": "One of the limiting factors of Syphons is the impurity of unnatural arcana. Using Syphon spells causes the caster to roll an Abuse skill check, otherwise they become sickened by their arcane sources and must spend the next minute, or 12 rounds recovering. The difficulty for this check is 5, but investing in Arcane Sickness will naturally give the Syphon 1 success per investment for every check.",
+			"xp": "700",
+			"ap": "0",
+			"ab": "0",
+			"castingTime": "Static"
+		},
+		{
+			"name": "Consume Arcana",
+			"description": "Requires contact with an enemy containing AP. Steals all AP and gives it back to the caster.",
+			"xp": "1500",
+			"ap": "N/A",
+			"ab": "0",
+			"castingTime": "Full Action"
+		},
+		{
+			"name": "Drink Flames",
+			"description": "Turns flame into AP, converting every square meter into 1 AP.",
+			"xp": "1400",
+			"ap": "-1",
+			"ab": "0",
+			"castingTime": "Full Action"
+		},
+		{
+			"name": "Crunch Arcane Ice",
+			"description": "The caster takes half the AP needed to create an Arcane Ice structure, resulting in the structure melting immediately.",
+			"xp": "1500",
+			"ap": "N/A",
+			"ab": "0",
+			"castingTime": "Full Action"
+		},
+		{
+			"name": "Soak Damage",
+			"description": "Converts damage currently being taken into arcana, with 1 AP recieved per durability lost.",
+			"xp": "1400",
+			"ap": "-1",
+			"ab": "0",
+			"castingTime": "Instant Action"
+		},
+		{
+			"name": "Consume Sanity",
+			"description": "Steals arcana from the casters mind itself, resulting in an Insanity Check.",
+			"xp": "1200",
+			"ap": "-5",
+			"ab": "0",
+			"castingTime": "Full Action"
+		},
+		{
+			"name": "Vomit",
+			"description": "Should the caster gain a sickness from their spells, they half the time spent recovering. Additionally the caster may expel any AP from themselves that they wish.",
+			"xp": "1100",
+			"ap": "0",
+			"ab": "7",
+			"castingTime": "Passive"
+		},
+		{
+			"name": "Overdrive",
+			"description": "Allows the caster to purposefully induce an Overcharged state upon taking more AP then they can hold in their AB. They remain in this Overcharged for 1 round for every AP over their AB.",
+			"xp": "1000",
+			"ap": "0",
+			"ab": "5",
+			"castingTime": "Passive"
+		}
+	]
+}

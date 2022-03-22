@@ -1,0 +1,68 @@
+{
+	"description": "Forgoing small scale construction, High Masons instead focus on large, crude, and stable structures. Creating entire large scale machanical structures out of seemingly nothing, High Masons gained their name as a battle oriented version of their normal Mason counterparts. Being able to create similar temporary structures, High Masons quickly become staples of quick paced civil engineering.",
+	"spells": [{
+			"name": "Frozen Scaffold",
+			"description": "Construct a temporary structure out of brittle Arcane Ice. This structure has a Toughness of 8, and may be constructed in up to 10 cubic meters of space.",
+			"xp": "200",
+			"ap": "4",
+			"ab": "0",
+			"castingTime": "2 Full Actions"
+		},
+		{
+			"name": "Frozen Supports",
+			"description": "Create a heavy load bearing structure out of Arcane Ice. This structure has a toughness of 30, and lasts for 1 minute, or 12 rounds. During this time, the Arcane Ice will be capable of holding up to 200,000kgs of weight, or 440,000lbs. The caster may create 1 cubic meter of support for every 1 AP spent",
+			"xp": "300",
+			"ap": "1",
+			"ab": "0",
+			"castingTime": "2 Full Actions"
+		},
+		{
+			"name": "Conjure Part",
+			"description": "Focusing once again on smaller scales, the High Mason is able to create a single part for any kind of Engineering Check. This part will melt in 5 minutes, or 60 turns, and until then functions identically to an ordinary part with no additional bonuses provided to the invention.",
+			"xp": "250",
+			"ap": "4",
+			"ab": "0",
+			"castingTime": "Half Action"
+		},
+		{
+			"name": "Freeze Machinery",
+			"description": "The High Mason calls upon their magic to destroy a machine in question, halting any part of the machine mechanically connected to the target of Freeze Machinery. This machine will not function for the next minute, or 12 rounds, until the Arcane Ice melts. Machines are defined as anything containing moving parts for the sake of automation, and includes Hive Droids, old world mechanisms, and Husks.",
+			"xp": "200",
+			"ap": "5",
+			"ab": "0",
+			"castingTime": "Full Action"
+		},
+		{
+			"name": "Replicate Object",
+			"description": "Make a replica of an object out of Arcane Ice which melts in 30 seconds, or 6 rounds. This object shares all traits of the original object, including mechanical function and arcane properties. Requires the caster to be holding the object.",
+			"xp": "300",
+			"ap": "5",
+			"ab": "0",
+			"castingTime": "2 Full Actions"
+		},
+		{
+			"name": "Manipulate Object",
+			"description": "Use the power and manipulation of Arcane Ice and High Mason magic to move a distant object as if you were holding it. Objects must be within 10 meters of the caster to be effected, and be moved anywhere by caster within a 10 meter radius. Outside this distance Manipulate Object has no effect. Manipulate Object additionally keeps the strength of its caster, making heavier objects heavier for the caster to lift from a distance.",
+			"xp": "300",
+			"ap": "4",
+			"ab": "0",
+			"castingTime": "Half Action"
+		},
+		{
+			"name": "Frigus Refreeze",
+			"description": "Arcane Ice effected by melting into steam are maintained passively by the High Mason, preventing them from melting naturally. Frigus Object constructed out of meltable Arcane Ice last 1 hour, or 720 rounds, but can be melted earlier should the High Mason choose to melt them manually.",
+			"xp": "300",
+			"ap": "0",
+			"ab": "10",
+			"castingTime": "Passive"
+		},
+		{
+			"name": "Jagged Steam",
+			"description": "All brittle Arcane Ice shatters in sharp hardened shards upon breaking, doing damage equal to the objects toughness in the space it once occupied. Additionally, all Arcane Ice with melting properties instead bursts into shards of arcane ice, having the same effect as brittle Arcane Ice upon melting.",
+			"xp": "300",
+			"ap": "0",
+			"ab": "8",
+			"castingTime": "Passive"
+		}
+	]
+}

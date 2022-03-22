@@ -1,0 +1,31 @@
+Divine master of trickery and organization, Dawn has a history of ruthless efficiency during their time as a Founder. Dawn was created as a counterpart to their Aether linked sibling, Dusk. Dawn and Dusk control 2 sides of the same coin, with a collective goal of balance. Dawn fosters order, control, and efficiency, no matter the cost.
+
+Dawn's life was short lived, falling to the night in the early days of Gredo. Their current location is still unknown, but from their constraints Dawn aids not only their followers but other Founders in their persuits of order. Dawn has been known to help Chief during his time as a Divine King using her power to twist battlefields in his favor. She seeks total control and efficiency through any means, including manipulating the powers of the other Founders into the favor of her followers. 
+
+Dawn works on Conditions. During a given Condition, Dawn promises to help once, in exchange for something of value, depending on the Condition. Refusing to take the Boon offered during a Condition in order to keep the valuable item being traded will result in the follower becoming a Sinner of Dawn. (See Dusk for more information on Sinners). Multiple Conditions may be taken as a follower of Dawn, but only taking a single Condition is required.
+
+<table>
+    <tr>
+        <th class="table_of_table">Dawn's Boon Effects</th>
+    </tr><tr>
+        <td class="tabled_table"><table>
+            <tr>
+                <th>Name</th>
+                <th>Boon Cost</th>
+                <th>Effect</th>
+            </tr><tr>
+                <td>Tempted Fate</td>
+                <td>1 Boon</td>
+                <td class="description">Reroll any Skill Check after seeing its result. Must take the new value.</td>
+            </tr><tr>
+                <td>Divine Intervention</td>
+                <td>1 Boon</td>
+                <td class="description">Reroll all dice with a value of 1 or 2.</td>
+            </tr><tr>
+                <td>Redrawn Lines</td>
+                <td>1 Boon</td>
+                <td class="description">During any card drawing event, draw two and take the preferred result.</td>
+            </tr>
+        </table></td>
+    </tr>
+</table>

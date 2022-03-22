@@ -1,0 +1,100 @@
+{
+	"description": "No longer content with ending a battle with the flames die down, Infernal Rippers learn to reap what they've sown. Upon the burning of their enemies, Infernal Rippers have learned how to manipulate the ash they leave behind as extentions of themselves, warping and bending what once was into something new. Beyond the concept of destruction, they harness the aftermath of their own battles into new weapons forged in hellfire, ready to strike at the next fool who would dare to challenge them. The only thing more dangerous than fighting an Infernal Ripper, is dying at the hands of one.",
+	"spells": [{
+			"name": "Suffocate Flame",
+			"description": "Extinguish any Arcane Flame by turning it Arcane Ash.",
+			"xp": "2000",
+			"ap": "4",
+			"ab": "0",
+			"castingTime": "Half Action"
+		},
+		{
+			"name": "Consume Ash",
+			"description": "Turn all Arcane Ash into AP. 1 AP per round an Arcane Flame has been burning. Resets all suffocation times for Arcane Flame.",
+			"xp": "4000",
+			"ap": "5",
+			"ab": "0",
+			"castingTime": "Full Action"
+		},
+		{
+			"name": "Hardened Ash",
+			"description": "Turn all Arcane Ash into a thick protective coating. This coating gains +1 toughness per round an Arcane Flame has been burning. Resets all suffocation times for Arcane Flame.",
+			"xp": "3000",
+			"ap": "7",
+			"ab": "0",
+			"castingTime": "Half Action"
+		},
+		{
+			"name": "Spiked Ash",
+			"description": "Turn all Arcane Ash into a spiked razor coating. This coating gains +1 damage per round an Arcane Flame has been burning, but is removed upon making a hit upon an enemy. Resets all suffocation times for Arcane Flame.",
+			"xp": "3000",
+			"ap": "7",
+			"ab": "0",
+			"castingTime": "Half Action"
+		},
+		{
+			"name": "Rekindle",
+			"description": "Turns Arcane Ash back into the Arcane Flame it suffocated, restoring any fires caused by the caster.",
+			"xp": "4000",
+			"ap": "10",
+			"ab": "0",
+			"castingTime": "Full Action"
+		},
+		{
+			"name": "Velocity Flameball",
+			"description": "The caster slams into a surface, exploding into Arcane Flame. The Arcane Flame travels 1 tile per velocity of the caster upon impact.",
+			"xp": "4000",
+			"ap": "5",
+			"ab": "0",
+			"castingTime": "Half Action"
+		},
+		{
+			"name": "Ashen Bolt",
+			"description": "Convert all Arcane Ash into pure speed, gaining +1 velocity per round an Arcane Flame has been burning. Resets the suffocation times for Arcane Flame.",
+			"xp": "3000",
+			"ap": "6",
+			"ab": "0",
+			"castingTime": "Half Action"
+		},
+		{
+			"name": "Feilds of Fire",
+			"description": "Create a 20 by 20 meter area entirely consumed by Arcane flame that takes 2 rounds to suffocate itself under its own Arcane Ash.",
+			"xp": "5000",
+			"ap": "7",
+			"ab": "0",
+			"castingTime": "Full Action"
+		},
+		{
+			"name": "Fields of Ash",
+			"description": "Must be cast when damage was jsut delt within 5 meters of the caster. For every point of damage done by the caster or their ally done during the spell cast, Arcane Ash is thrown into the air.",
+			"xp": "5000",
+			"ap": "8",
+			"ab": "0",
+			"castingTime": "Instant Action"
+		},
+		{
+			"name": "Scorched Feet",
+			"description": "All Runner and Sky Runner spells are able to create Arcane Flame behind them, as the caster chooses.",
+			"xp": "5000",
+			"ap": "0",
+			"ab": "15",
+			"castingTime": "Passive"
+		},
+		{
+			"name": "Flaming Strikes",
+			"description": "Turn all attacks in attacks laced with Arcane Flame, which is applied to enemies upon the enemy taking damage.",
+			"xp": "5000",
+			"ap": "0",
+			"ab": "15",
+			"castingTime": "Passive"
+		},
+		{
+			"name": "Allies of Destruction",
+			"description": "Any ally is able to be considered the caster of a spell for the spells effect for spells focused on Arcane Ash. The costs are still drawn by the legitimate caster",
+			"xp": "4000",
+			"ap": "0",
+			"ab": "10",
+			"castingTime": "Passive"
+		}
+	]
+}

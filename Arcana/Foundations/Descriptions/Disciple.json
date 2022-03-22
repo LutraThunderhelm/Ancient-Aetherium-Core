@@ -1,0 +1,100 @@
+{
+	"description": "Once known as the Disciples of Axton, the Disciples forgo natural laws in favor of their own. Combining what they know of creation and what they know of alteration, Disciples view the world as an amalgamation, contorting it as such, changing the natural functions of existing machines, as well as pushing the limits of what should be possible within the physical world through arcane engineering.",
+	"spells": [{
+			"name": "Overdrive Ally",
+			"description": "Select a target within 30 feet. This target adds 3 to all dice when making skill checks for the next 6 rounds or 30 seconds.",
+			"xp": "5000",
+			"ap": "10",
+			"ab": "0",
+			"castingTime": "Full Action"
+		},
+		{
+			"name": "Construct Ally",
+			"description": "Make an exact replica of an ally within 50 feet. This replica is controled by the caster, and appears Icey. They have all the same skills and traits of the target, including starting wounds, but does not get effected by the state of the target after creation.",
+			"xp": "3000",
+			"ap": "9",
+			"ab": "0",
+			"castingTime": "Full Action"
+		},
+		{
+			"name": "Open Hatch",
+			"description": "Create a door in a solid surface, as long as that surface is less than 3 feet in depth. This operates as a normal door and disappears in 12 rounds or 60 seconds.",
+			"xp": "2000",
+			"ap": "5",
+			"ab": "0",
+			"castingTime": "Half Action"
+		},
+		{
+			"name": "Duplicate Creations",
+			"description": "Creates a copy of any and all constructs under the casters control. These have the same status as what they were cloned from.",
+			"xp": "4000",
+			"ap": "10",
+			"ab": "0",
+			"castingTime": "Full Action"
+		},
+		{
+			"name": "Construct War Engine",
+			"description": "Forms a large beast of machienery the size of a train under the casters control. This machine does 30 damage upon striking a foe, and has a Brawling Skill of 8. Otherwise this construct has 5 movement, a Skill Level of 2 for all other skills, and melts in 30 minutes. This Construct may only be killed with a single blow that gets passed 30 toughness.",
+			"xp": "3000",
+			"ap": "8",
+			"ab": "0",
+			"castingTime": "2 Full Actions"
+		},
+		{
+			"name": "Construct Train",
+			"description": "Forms a single train car controlled by the caster, which forms tracks under its wheels as the caster intends. The traincar lasts for 2 hours, however the tracks last for 30 seconds or 6 rounds.",
+			"xp": "4000",
+			"ap": "8",
+			"ab": "0",
+			"castingTime": "Full Action"
+		},
+		{
+			"name": "Alter Machinery",
+			"description": "Control and use any machine with a precieved purpose, within reason. Such as using a vending machine to vend bullets, a droid factory line to build a car, or hose to spew fire. The machine keeps this purpose for 1 hour.",
+			"xp": "3000",
+			"ap": "6",
+			"ab": "0",
+			"castingTime": "Full Action"
+		},
+		{
+			"name": "Kick Start",
+			"description": "Any machine at any stage of descruction instead functions completely normally, as if nothing had ever happened to it. This effect lasts for 60 seconds or 12 rounds.",
+			"xp": "2000",
+			"ap": "5",
+			"ab": "0",
+			"castingTime": "Full Action"
+		},
+		{
+			"name": "Spell Emulator",
+			"description": "Embed the properties of a casted spell into an item the size of the casters hand. This item, when used will cast the spell chosen by the caster upon its creation. Using the item destroys it and spells may only be those known by the caster.",
+			"xp": "3000",
+			"ap": "7",
+			"ab": "0",
+			"castingTime": "Full Action"
+		},
+		{
+			"name": "I and Me",
+			"description": "Creates a second completely identical version of the caster. Both versions of the caster have the same tools, skills, and share a same mind, but one is made of pure ice. They share injuries, Fear and Insanity checks as well.",
+			"xp": "5000",
+			"ap": "0",
+			"ab": "14",
+			"castingTime": "Passive"
+		},
+		{
+			"name": "One Mage Army",
+			"description": "Remove all limits on construct count.",
+			"xp": "6000",
+			"ap": "0",
+			"ab": "20",
+			"castingTime": "Passive"
+		},
+		{
+			"name": "Frosted Constants",
+			"description": "Constructs last for an indefinite amount of time, but the caster may only have half of their limit at any time.",
+			"xp": "6000",
+			"ap": "0",
+			"ab": "20",
+			"castingTime": "Passive"
+		}
+	]
+}

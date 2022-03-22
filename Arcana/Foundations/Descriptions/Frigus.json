@@ -1,0 +1,36 @@
+{
+	"description": "Named after the crystal known for producing ice, the Frigus Foundation constructs physical objects out of arcane origins. Positioned as one of the 6 Basic Foundations, the Frigus Foundation itself is open to anyone, allowing them small ways to create something from purely arcane sources. Frigus itself tends to be a route towards twisting the physical world or modifying it using purely arcane machinery. Additionally, despite their similar look to ice, Frigus objects are made from Arcane Ice, known for its strange structure. Arcane Ice quickly melts directly into the air, dissipating as steam unless its crystal structure is altered, turning it into a stable yet brittle material.",
+	"spells": [{
+			"name": "Form Icicle",
+			"description": "Create a small long cone-like piece of ice that shatters after impact. If used as a weapon, does 1 Damage.",
+			"xp": "100",
+			"ap": "2",
+			"ab": "0",
+			"castingTime": "Half Action"
+		},
+		{
+			"name": "Frigus Bolt",
+			"description": "Physically connect to objects together using Arcane Ice with a Tougness of 10. The Frigus Bolt takes 6 turns or 30 seconds to melt, but may be reapplied at any time.",
+			"xp": "150",
+			"ap": "3",
+			"ab": "0",
+			"castingTime": "1 Action"
+		},
+		{
+			"name": "Conjure Tool",
+			"description": "Form a 2 handed tool such as a fire axe or shovel, which melts away after 30 seconds or 6 turns. Does 4 damage if used as a weapon.",
+			"xp": "200",
+			"ap": "5",
+			"ab": "0",
+			"castingTime": "1 Action"
+		},
+		{
+			"name": "Breakdown",
+			"description": "Recylce Frigus objects back into the Arcane Points used to create them, as long as they are over 5 seconds away from melting or still intact.",
+			"xp": "200",
+			"ap": "0",
+			"ab": "10",
+			"castingTime": "Passive"
+		}
+	]
+}

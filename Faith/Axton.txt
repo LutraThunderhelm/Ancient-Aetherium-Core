@@ -1,0 +1,33 @@
+Gredo's first masterful inventor, Axton, is considered to be the Founder of creation itself. Mechanically inclined since creation, Axton has long been a beacon of progress and creation, being the first to reverse engineer Mind Crystals and produce the first bear made by bear hands. Axton became the Inventor behind several basic constructions, such as the first Husks, Gredo's energy network, and Gredo's first mechs. Axton would spend their days and nights doing nothing but building new creations to show to the world upon the break of the next day.
+
+Eventually, Axton began to feel limited by their following and their resources, craving an enviroment full of raw resources, where laborers would be free to preform their craft, Masons would be free to create works of art, and Inventors would have the supplies to create new and better things every day. This aspiration formed the Worker's Bastion, a large workshop near wooded mountains in the corpse of a human quarry. In the beginning the Worker's Bastion expanded simply and cleanly, with its works becoming masterful in nature as a collective of engineers and aritists. During this time Axton would build with greater haste, forming machines in hours, letting themselves loose into the world of creation. Eventually one of their creations would take them. While working on the machine to fuel them all, one made for the act of forming materials from nothing but arcane sources, Axton fell into their machine, become crushed inside.
+
+Without a Founder watching over the Worker's Bastion, the works of art faded into works of mass production. Forced to fuel the endless war at their doorstep by their various rulers, the Worker's Bastion transformed from a creators utopia into a laborer's nightmare. 22 hour work days became the normal, a class of overlookers and punishers filled the streets, and their workshops became dangerous ramshackle structures.
+
+Axton works in Promises. Axton wishes to hear of a brighter future full of a better tomorrow, and making a Promise to them that such a day will come will result in gaining Axtons Boons. Any time a Promise is tested and not broken, Axton will reward their follower with a Boon for striving to reach into a brighter future. Failiure to hold causes one to become a Sinner of Axton. (See the section on Dusk for more details regarding Sinners). Any promise can be taken, and multiple Promises may be taken at once to become a follower of Axton.
+
+<table>
+    <tr>
+        <th class="table_of_table">Axton's Boon Effects</th>
+    </tr><tr>
+        <td class="tabled_table"><table>
+            <tr>
+                <th>Name</th>
+                <th>Boon Cost</th>
+                <th>Effect</th>
+            </tr><tr>
+                <td>Mechanical Heart</td>
+                <td>2 Boons</td>
+                <td class="description">Repairs all durability with mechanical Arcane Ice.</td>
+            </tr><tr>
+                <td>Divine Repair</td>
+                <td>1 Boon</td>
+                <td class="description">The target machine has all functionality restored no matter its damage state.</td>
+            </tr><tr>
+                <td>Aetherial Clock</td>
+                <td>1 Boon</td>
+                <td class="description">Undo an action while retaining the memory of the action taking place.</td>
+            </tr>
+        </table></td>
+    </tr>
+</table>

@@ -1,0 +1,33 @@
+Welcomed into the Aether by Axton, the Founder of Invention, Locket has been the Apprentice of Life as long as arcane life has existed. Learning to make minds from the combined studies of Axton and Jacob Tristan, Locket became able to manipulate minds in their purist form, not only defying death, but weaving life into new bodies. Locket became not only the first to discover the concept of Valley Walking, but additionally became the first to Weave Minds into new bodies. Through her practices, Locket became Gredo's first mentor, creating an efficent system to foster new life quickly and simply.
+
+Locket quickly became an important figure to influence, being the creator of all new minds and their knowledge. Locket refused to be swayed, learning the arts of countering illusions, tempations, and various forms of arcana to keep her creations safe, no matter their path. She would care for any and all, from loyalists of the Divine Throne, to Traitorous Pirates riding the rails waiting to look Gredo. She aided any and all who needed her help, no matter the cost, giving them new life and new purpose. 100 years ago, however, she found herself in riot on the fringes of Gredo's territory. Unable to idly watch her own creations tear eachother apart Locket, in a single moment, learned to rip open the Aether and call upon the concept of stability itself to hold minds outside of their Crystal prisons. Able to capture fleeting memories and minds, locket proceeded to protect them in small bubbles of space and time, opening the first Afterlife.
+
+Her willingness to protect the Rioters gained the attention of Dawn, who saw the situation as a chaotic mess of a collapsed order. Dawn targetted Locket, throwing her into false worlds of illusion and constructs entirely alien to what she knew. However, by the suggestion of Dusk, she willingly lended her vision to the void, instead following only the screams of the lost, unable to precieve the material world any longer.
+
+Locket deals in Minds from her home on the Isle of the Dead. Burned by the world around her, she accepts various forms of mind collection in trade for Boons, which allow access into the world beyond death. Locket offers a place in her afterlife, or the ability to keep moving post mortem, if one is willing to lend her the memories of others. Locket does not accept Sinners, but she doesnt not target them either. Betraying locket simply loses ones place in her afterlife, and a garuntee of nothing but nothingness itself upon death. Minds are gained from enemies marked by Locket as enemies to the Afterlife, and upon their destruction a Boon is given to their destroyer, should that destroyer follow Locket.
+
+<table>
+    <tr>
+        <th class="table_of_table">Axton's Boon Effects</th>
+    </tr><tr>
+        <td class="tabled_table"><table>
+            <tr>
+                <th>Name</th>
+                <th>Boon Cost</th>
+                <th>Effect</th>
+            </tr><tr>
+                <td>Post Mortem</td>
+                <td>10 Boons</td>
+                <td class="description">Upon taking fatal damage, instead gain an additional 20 Toughness for 30 seconds and ignore all wounds. Ignore the fatal damage taht caused Post Mortem.</td>
+            </tr><tr>
+                <td>Body Hopper</td>
+                <td>18 Boons</td>
+                <td class="description">Upon taking fatal damage, immedietly posses another body around you.</td>
+            </tr><tr>
+                <td>After Death</td>
+                <td>30 Boons</td>
+                <td class="description">Upon death become stored in the Afterlife. Behind you leave a version of yourself with no memories, full Durability, and and additional 30 Toughness. This version remains in play until combat is over or an emergancy situation is escaped.</td>
+            </tr>
+        </table></td>
+    </tr>
+</table>

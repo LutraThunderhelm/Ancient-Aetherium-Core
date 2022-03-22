@@ -1,0 +1,68 @@
+{
+	"description": "Phantoms twist their very perception and movement, keeping their intentions in the dark, and their actions concealed. Combining their knowledge of perceptions and their arcane movements, Phantoms form a non-material trick of light known as Arcane Darkness. This Darkness cannot be seen, instead providing a form of supernatural camouflage. Twisting the darkness itself, Phantoms lay undetected until they choose to reveal themselves.",
+	"spells": [{
+			"name": "Hush",
+			"description": "Remove all sound in a 5 meter radius. Sound cannot be created in this zone, however sound may still pass through it. May be used for 1 hour, after which the caster must spend the full AP cost again in order to maintain Hush.",
+			"xp": "250",
+			"ap": "4",
+			"ab": "0",
+			"castingTime": "Half Action"
+		},
+		{
+			"name": "BlackenedShroud",
+			"description": "Cover up to a 10x10 meter area in a thick black shroud, which cannot be pierced, even by light. This area takes 10 minutes to dissipate. Nothing in the Shroud is visible unless it is within 2 meters, causing anything beyond that distance to gain +3 difficulty to Perception Skill Checks made against them.",
+			"xp": "300",
+			"ap": "4",
+			"ab": "0",
+			"castingTime": "Full Action"
+		},
+		{
+			"name": "Cloak",
+			"description": "The caster makes an object no larger than themselves appear completely invisible. The target may still be interacted with, and can interact with the world, but will be unable to be seen. This adds +4 difficulty to any checks made to locate the target. The effect lasts for 1 minute or 12 rounds.",
+			"xp": "300",
+			"ap": "6",
+			"ab": "0",
+			"castingTime": "Full Action"
+		},
+		{
+			"name": "Vanish",
+			"description": "The caster is unable to be seen, nor can they be heard. They can be interacted with, and can interact with the world while Vanished. The caster remains in this state until they make an action that would cause them to become known, such as breaking an object, saying something, attacking someone, or casting a spell.",
+			"xp": "300",
+			"ap": "4",
+			"ab": "0",
+			"castingTime": "Half Action"
+		},
+		{
+			"name": "Darkened Strike",
+			"description": "Must be casted during an attack. The attack preformed under the effect of Darkened Strike is undetectable in all forms. It leaves physical damage with no sound, light, feeling, or pain. The attack my only be noticed after the fact, via visual observation. This spell can target, melee, ranged, and arcane based attacks.",
+			"xp": "350",
+			"ap": "5",
+			"ab": "0",
+			"castingTime": "Instant Action"
+		},
+		{
+			"name": "Bending Darkness",
+			"description": "Must be applied to a successful Deflection check during combat against a melee attack. The caster steps out of view of their attacker during the attackers motion, positioning themselves behind their attacker. The attacker retains knowledge of where the Caster was, but not where they are.",
+			"xp": "250",
+			"ap": "3",
+			"ab": "0",
+			"castingTime": "Instant Action"
+		},
+		{
+			"name": "Warped Shadows",
+			"description": "The caster naturally covers themselves in artificial darkness, blending them into the enviroment around them. Perception Skill Checks that target the caster suffer +2 difficulty.",
+			"xp": "300",
+			"ap": "0",
+			"ab": "5",
+			"castingTime": "Passive"
+		},
+		{
+			"name": "The Unknown Strikes True",
+			"description": "Attacks made by the caster while their location is currently unknown for their target ignore the target's Evade, guided by arcane darkness itself.",
+			"xp": "400",
+			"ap": "0",
+			"ab": "13",
+			"castingTime": "Passive"
+		}
+	]
+}

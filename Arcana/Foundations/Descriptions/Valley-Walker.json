@@ -1,0 +1,68 @@
+{
+	"description": "Embolding their ability to keep others from seeing the end with the power to command the aether itself to their allies aid, Valley Walkers keep a close eye on the line between life and death. Treading the dark divide between their allies and the end before them, Valley Walkers have learned how to keep minds themselves from slipping to the great beyond. Valley Walkers hold the power to reforge ones own mind, as well as command the minds that have already been lost, allowing them to command an army of the fallen and protect their army of the living. Walking the valley between life and death, they act as the gate keepers of oblivion, keeping an eye on their friends and an even closer eye on their enemies.",
+	"spells": [{
+			"name": "Valley Capacity",
+			"description": "Valley Walkers can command the dead around them, but only as much as their Valley Capacity can hold. Starting out, Valley Walkers have 2 Valley Capacity, but for every investment into it they gain 1 additional Valley Capacity.",
+			"xp": "700",
+			"ap": "0",
+			"ab": "0",
+			"castingTime": "Static"
+		},
+		{
+			"name": "Binding",
+			"description": "Binds fractures, cracked, and non-shattered minds back to a stable and dormant state.",
+			"xp": "1500",
+			"ap": "8",
+			"ab": "0",
+			"castingTime": "Full Action"
+		},
+		{
+			"name": "Raise Corpse",
+			"description": "Converts an empty husk into an extention of the Valley Walker, fighting along side them and helping them with any actions they intend to perform. Raised Corpses take up 1 Valley Capacity. The Husk has the same statistics as if it was still alive, but uses the Skill Levels of their commander.",
+			"xp": "1000",
+			"ap": "4",
+			"ab": "0",
+			"castingTime": "Full Action"
+		},
+		{
+			"name": "Mend Memories",
+			"description": "The caster must be touching the target. The caster is able to force the target to recall a missing memory, no matter the reason of its loss.",
+			"xp": "1200",
+			"ap": "5",
+			"ab": "0",
+			"castingTime": "Full Action"
+		},
+		{
+			"name": "Tame Mind",
+			"description": "Causes a cracked, exposed, or fractured mind to go dormant. The target mind recieves no damage from this action. Additionally, dormant minds are added to the casters Valley Capacity until they are woken up.",
+			"xp": "1100",
+			"ap": "4",
+			"ab": "0",
+			"castingTime": "Half Action"
+		},
+		{
+			"name": "Minds in Corpses",
+			"description": "Forces a mind to go dormant while forcing the husk to act for the caster. This takes 2 valley capacity and only lasts as long as the mind remains dormant.",
+			"xp": "1200",
+			"ap": "7",
+			"ab": "0",
+			"castingTime": "Full Action"
+		},
+		{
+			"name": "Like Crystal Like Flesh",
+			"description": "All Mundane based spells may have their effects applied to living beings, such as Nausea creatures.",
+			"xp": "1000",
+			"ap": "0",
+			"ab": "7",
+			"castingTime": "Passive"
+		},
+		{
+			"name": "Like Crystal Like Circuits",
+			"description": "All Mundane based spells may have their effects applied to robotic beings, such as Hive Droids.",
+			"xp": "1000",
+			"ap": "0",
+			"ab": "8",
+			"castingTime": "Passive"
+		}
+	]
+}

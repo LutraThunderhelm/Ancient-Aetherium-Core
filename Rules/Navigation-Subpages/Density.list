@@ -1,0 +1,19 @@
+(+2 Cards) Packed
+/Ancient-Aetherium/placeholder.png
+Packed environments will add 2 cards when initially laying them down. Packed environments are filled with constant activity and many bodies trying to go one way or another. Packed areas tend to be large outposts and warzones.
+
+(+1 Cards) Busy
+/Ancient-Aetherium/placeholder.png
+Busy enviroments add a single card with laying them down. Busy enviroments are experiencing frequent activity, such as the area surrounding a large outpost, or filled with good scrap.
+
+(+0 Cards) Comfortable
+/Ancient-Aetherium/placeholder.png
+Comfortable environments have no effect. Tending to have spread of individuals lurking inside, Comfortable environments are often spread out enough that a clever enough party may be able to get through easily.
+
+(-1 Cards) Sparse
+/Ancient-Aetherium/placeholder.png
+Sparse environments will remove 1 card when laying them down. Sparse environments are mostly empty, with few stragglers around. Typically spaces between cities and areas leading to battlefields will be Sparse as the only ones present are attempting to pass through.
+
+(-2 Cards) Empty
+/Ancient-Aetherium/placeholder.png
+Empty environments will remove 2 cards when laying them down. Almost completely devoid of life, Empty environments are areas that require skill to find others in. Most locations such as the mountains to the east and the forests that scatter the island will be Empty, as they are almost entirely unused.

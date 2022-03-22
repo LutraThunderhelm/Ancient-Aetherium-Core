@@ -1,0 +1,68 @@
+{
+	"description": "Forged in the fires of Gredo's largest insurrection, Riot Masters turned their Hunter's Spark into a roaring flame fueled by rage and power. Used to tear through crowds of Rioters, Riot Masters harnessed the first created arcane flame, and used it against their own neighbors. Arcane Flame itself is a raging fire that tears through any material as normal fire eats through paper, turning it into arcane ash. The flame will consume any and all materials, including water and gas alike, only suffocating under its own ash and arcane ice. Despite its use against the Hive, its legacy haunts its name, serving as a reminder to Gredo's Citizens of its dark origins. Riot Masters are immune to Arcane Flame.",
+	"spells": [{
+			"name": "Roaring Fire",
+			"description": "Causes fires to become less likely to suffocate themselves. For every investment into Roaring Fire, fires naturally last 1 additional round.",
+			"xp": "600",
+			"ap": "0",
+			"ab": "0",
+			"castingTime": "Static"
+		},
+		{
+			"name": "Ignite Spark",
+			"description": "Ignite an enemy that holds the casters Spark. This enemy will start burning from the inside out, requiring them to be cut open to remove the fire. The Arcane Flame cannot be put out without Arcane Ash or Arcane Ice, and lasts for 5 rounds before suffocating itself with Arcane Ash.",
+			"xp": "1100",
+			"ap": "4",
+			"ab": "0",
+			"castingTime": "Half Action"
+		},
+		{
+			"name": "Flaming Strike",
+			"description": "The next successful attack made errupts into Arcane Flame, lighting the enemy on fire. This flame lasts for 5 rounds before suffocating, and can only be put out by Arcane Ash or Arcane Ice.",
+			"xp": "1100",
+			"ap": "4",
+			"ab": "0",
+			"castingTime": "Half Action"
+		},
+		{
+			"name": "Column of Fire",
+			"description": "Pick a 2 by 2 meter area and fill it with Arcane Flame which spreads to anything that happens to fall into it. The fire may only be put out using Arcane Ice and Arcane Ash, and lasts for 5 rounds before suffocating. Upon the fire spreading, the victim resets the suffocation time back to 5 rounds.",
+			"xp": "1200",
+			"ap": "4",
+			"ab": "0",
+			"castingTime": "Half Action"
+		},
+		{
+			"name": "Errupt Husk",
+			"description": "Explode in an inferno of Arcane Flame, covering anything within 5 meters with it. Anything covered in the flame takes 5 rounds before the flame suffocates, and may only get rid of it with Arcane Ice or Arcane Ash.",
+			"xp": "900",
+			"ap": "4",
+			"ab": "0",
+			"castingTime": "Full Action"
+		},
+		{
+			"name": "Blazing Charge",
+			"description": "Replaces normal movement with movement that leaves a trail of Arcane Flame, which spreads to anything that comes into contact with it. The Arcane Flame takes 5 rounds to suffocate and may only be removed with Arcane Ash or Arcane Ice.",
+			"xp": "1200",
+			"ap": "6",
+			"ab": "0",
+			"castingTime": "Full Action"
+		},
+		{
+			"name": "Chief's fire, Locket's Ice",
+			"description": "Allows the caster to prevent any allies from haivng Arcane Flame spread to them, making them immune to the fire. Does not effect normal fire.",
+			"xp": "1200",
+			"ap": "0",
+			"ab": "5",
+			"castingTime": "Passive"
+		},
+		{
+			"name": "Fueled Fury",
+			"description": "For every enemy on fire the caster gains an additional 3 damage during any attacks.",
+			"xp": "1300",
+			"ap": "0",
+			"ab": "10",
+			"castingTime": "Passive"
+		}
+	]
+}

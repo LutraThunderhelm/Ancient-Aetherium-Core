@@ -1,0 +1,72 @@
+When it comes to what your character is good at, how would you represent it? Here we define what your character knows through their Skills and their Traits. These show your character's strengths and weaknesses, and effect their chances during one of the most common tests in the game: Skill Checks. But what are they exactly?
+
+Traits are a very general field of knowledge, such as what your character knows about Survival, or their mental fortitude. Skills are more exact abilities, such as how well your character can process new information, how well they can read others around them, or even how well they can keep their cool in the face of certain death. Skills are much more specific than Traits due to the fact that a single Trait acts as a family for a collection of 5 more specific skills under it. You may be good at Social events, but you may excel at holding a show instead of persuading an enemy to drop a weapon.
+
+Skill levels start at 2 rather than zero, and can go up to a maximum of level 8, with higher levels representing more experience. Traits are an inverse to Skills, starting at level 8 and only going down to level 5. Traits are different from skills in that lower levels are better, has Traits act as a barrier, holding back their Skills from shining through. To learn more about the relationship between Skills and their Traits, see the page on Skill Checks.
+
+The tables below provide a general measurement of what each level means in terms of what your character knows, along with its Promotion cost.
+<table>
+                        <tr>
+                            <th class="table_of_table">Skills</th>
+                            <th class="table_of_table">Traits</th>
+                        </tr><tr>
+                            <td class="tabled_table"><table>
+                                <tr>
+                                    <th>Level</th>
+                                    <th>Ability</th>
+                                    <th>Cost</th>
+                                </tr><tr>
+                                    <td>2</td>
+                                    <td class="description">Generally incompitent, and may have rarely used this skill throughout their life time.</td>
+                                    <td>000XP</td>
+                                </tr><tr>
+                                    <td>3</td>
+                                    <td class="description">Average Understanding, you've used the skill enough to be familiar with it.</td>
+                                    <td>150XP</td>
+                                </tr><tr>
+                                    <td>4</td>
+                                    <td class="description">Indepth Understanding, making you above average in terms of ability.</td>
+                                    <td>250XP</td>
+                                </tr><tr>
+                                    <td>5</td>
+                                    <td class="description">Specialized, no longer within the realm of average ability.</td>
+                                    <td>400XP</td>
+                                </tr><tr>
+                                    <td>6</td>
+                                    <td class="description">Experienced, having more experience than many will ever gain.</td>
+                                    <td>600XP</td>
+                                </tr><tr>
+                                    <td>7</td>
+                                    <td class="description">Complete Mastery, you've become one of few that may be sought out for their ability.</td>
+                                    <td>850XP</td>
+                                </tr><tr>
+                                    <td>8</td>
+                                    <td class="description">One of the Best Ever Created, practically no one can rival your ability.</td>
+                                    <td>1000XP</td>
+                                </tr>
+                            </table></td>
+                            <td class="tabled_table"><table>
+                                <tr>
+                                    <th>Level</th>
+                                    <th>Ability</th>
+                                    <th>Cost</th>
+                                </tr><tr>
+                                    <td>8</td>
+                                    <td class="description">Perfectly Unexptional, and perfectly average.</td>
+                                    <td>0000XP</td>
+                                </tr><tr>
+                                    <td>7</td>
+                                    <td class="description">Realized Potential, you've stripped away a few of the habits holding you back, setting you forward.</td>
+                                    <td>1000XP</td>
+                                </tr><tr>
+                                    <td>6</td>
+                                    <td class="description">Freed Talent, your skills can barely be contained from shining brighter than the abilities of those around you.</td>
+                                    <td>2000XP</td>
+                                </tr><tr>
+                                    <td>5</td>
+                                    <td class="description">One of the Best Ever Created, nothing can hold you back anymore.</td>
+                                    <td>3000XP</td>
+                                </tr>
+                            </table></td>
+                        </tr>
+                    </table>

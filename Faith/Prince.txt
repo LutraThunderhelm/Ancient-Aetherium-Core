@@ -1,0 +1,33 @@
+Welcomed into the Aether by Chief, Prince was instructed to keep the kingdom he had created safe until his return. Upon gaining control however, Prince had different planes. Quickly, they began to overturn the systems of governance Chief had layed, turning military orders into academic paradises, and converting wartime centers into public gathering places. Prince ruled not with an iron fist and inspiration, but with papers and concepts.
+
+Prince overturned the Royalty from battle-hardened commanders, into divided Royal Offices full of academics and researchers to bring new ideas fourth. They overturned the Nobility from a punishing and heavy handed ruling class, into the executors of government projects, making them the tools of the Offices over them. Prince established the founding of Outposts for the sake of exploration instead of military opertation. They allowed military mass population compounds to be turned into guild halls, for the sake of individual expressions. Prince overturned any possible military system into a system of peaceful order, for what they saw as the sake of the people they ruled over.
+
+Princes degridation of military operations, and Chief's methods of keeping order were quickly noticed, and caused a greate divide among Gredo's population. The followers of Prince see their attempts to restructure Gredo's government as a sign of stability and longevity, while their opposers see the shrinking military of a powerful social order as a betrayal of the very position Prince holds. Despite the potential opposition, Prince overturns Chief's system anyway, as if he doesn't, who will?
+
+Prince deals in Orders, or promises to uphold the current governmental order. These Orders are a set of promises made to Prince, allowing one who makes such promises to get garunteed Boons every morning from Prince. Breaking one of Prince's Orders will result in becoming a Sinner of Prince. (See Dusk for more information on Sinners). Only one of Prince's Orders is required to be a follower and gain Prince's Boons, but for every active Order, one Boon is given per morning.
+
+<table>
+    <tr>
+        <th class="table_of_table">Axton's Boon Effects</th>
+    </tr><tr>
+        <td class="tabled_table"><table>
+            <tr>
+                <th>Name</th>
+                <th>Boon Cost</th>
+                <th>Effect</th>
+            </tr><tr>
+                <td>Under the Table</td>
+                <td>1 Boons</td>
+                <td class="description">Removes any and all instances of wrong doing from being punished.</td>
+            </tr><tr>
+                <td>Clearance</td>
+                <td>1 Boon</td>
+                <td class="description">Get verified to go into any area deemed offlimits to the general population without needing any form of verification.</td>
+            </tr><tr>
+                <td>Peace Keeper</td>
+                <td>1 Boon</td>
+                <td class="description">Automatically succeed any Persuasion or Presence check.</td>
+            </tr>
+        </table></td>
+    </tr>
+</table>

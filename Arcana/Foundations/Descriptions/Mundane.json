@@ -1,0 +1,36 @@
+{
+	"description": "Named after the most common type of crystal, as well as the crystal used as a framework for their own minds, Mundane spells focus on oneself. Being the arcane form of self reflection and inner ability, Mundane magic aims to modify and amplify the abilities of its caster, giving them powers beyond what they could achieve alone.",
+	"spells": [{
+			"name": "Fear Not",
+			"description": "During a Fear Check, add 2 successes to your Bravery Skill Check.",
+			"xp": "150",
+			"ap": "5",
+			"ab": "0",
+			"castingTime": "Full Action"
+		},
+		{
+			"name": "Soak Pain",
+			"description": "Turn incoming damage into arcane outbursts using magic shielding. For every AP spent, remove 1 point of damage from a single incoming attack.",
+			"xp": "200",
+			"ap": "N/A",
+			"ab": "0",
+			"castingTime": "Full Action"
+		},
+		{
+			"name": "Disperse Arcana",
+			"description": "Move your arcane points from yourself to another. They may use these points as soon as the spell is cast, with the amount given depending on the intentions of the caster of Disperse Arcana. The amount given to the target may not exceed the target's AB.",
+			"xp": "100",
+			"ap": "N/A",
+			"ab": "0",
+			"castingTime": "Full Action"
+		},
+		{
+			"name": "Painless",
+			"description": "Your character becomes unshakeable, preventing psychological side effects from durability. These effects are any minuses, such as a -1 from a loss of 1 durability, but injuries such as missing limbs or missing parts keep their mechanical effects.",
+			"xp": "200",
+			"ap": "0",
+			"ab": "10",
+			"castingTime": "Passive"
+		}
+	]
+}

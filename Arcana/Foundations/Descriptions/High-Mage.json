@@ -1,0 +1,68 @@
+{
+	"description": "No longer playing with mere sparks of the arcane, High Mages push beyond the limits of Industria. Harnessing the power of the arcane, High Mages mutilate their craft into highly volatile spells, capable of much stronger effects than their Industria roots. Due to their unstable nature, many High Mage spells take longer to cast or hold chances of failure not present in Industria spells. Despite this, High Mages push their craft anyway, as the limits of the arcane are built to be broken.",
+	"spells": [{
+			"name": "Consume Spell",
+			"description": "Make an Abuse Skill Check with a Difficulty of 2. Upon a success, the caster is able to harvest a spell made against them for its full AP cost. However, failing causes the caster to take full effect of the spell as well as lose 1 Durability on their Torso, as arcane energy rips through their Husk.",
+			"xp": "250",
+			"ap": "4",
+			"ab": "0",
+			"castingTime": "Instant Action"
+		},
+		{
+			"name": "Conjure Inferno",
+			"description": "Lead a stream of arcana to a target, which explodes into a 1 meter large flame upon succeeding a Firing Skill Check with a difficulty of 2. Failiure results in the inferno combusting upon the mage who casted it. The flame created is not arcane in form, and can be put out by any traditional method.",
+			"xp": "200",
+			"ap": "3",
+			"ab": "0",
+			"castingTime": "Full Action"
+		},
+		{
+			"name": "Jumping Bolt",
+			"description": "The caster fires a bolt of arcane energy forward with the speed of an arrow. Should the caster hit their target, they may make a Firing Skill Check. For every success, the Bolt travels to another target and deals the same damage. The bolt itself has a range of 30 meters, and does 2D8 damage.",
+			"xp": "300",
+			"ap": "4",
+			"ab": "0",
+			"castingTime": "Full Action"
+		},
+		{
+			"name": "Void Shock",
+			"description": "The caster lets a large pulse of arcane and magnetic energy loose from their body, causing every target within 20 meters to lose their Unbound Action. The caster may also choose to make an Abuse Skill Check, with every success letting them tether an ally of choice. Allies tethered to the caster will not lose their Unbound Action.",
+			"xp": "250",
+			"ap": "4",
+			"ab": "0",
+			"castingTime": "Full Action"
+		},
+		{
+			"name": "Shatter Earth",
+			"description": "The caster forces the ground to rupture, causing anyone moving through Shattered Earth to forfeit half an action to cross it. Those who were already standing upon Shattered Ground must forfeit half an action to leave it. The caster must choose to make a Brawn Skill Check, with each success allowing the caster to rupture 1 meter of ground. The ruptured ground does not have to be connected to itself.",
+			"xp": "250",
+			"ap": "5",
+			"ab": "0",
+			"castingTime": "Full Action"
+		},
+		{
+			"name": "Steal Arcana",
+			"description": "The caster may choose to capture an incoming spell, holding it for themselves and reversing it unto an enemy of choice. The caster must be the target of the spell, and must recast the spell for its original cost, along with the cost of Steal Arcana. To do this, the caster must make an Abuse Skill Check with a Difficulty of 2, with failiure resulting in the spell hitting the caster, as well as the caster losing 1 Durability on their torso.",
+			"xp": "300",
+			"ap": "3",
+			"ab": "0",
+			"castingTime": "Instant Action"
+		},
+		{
+			"name": "Energized Bastard",
+			"description": "Electronic power sources now may be syphoned for AP, with the amount of AP they give being the amount of successes from an Abuse Skill Check, multiplied by 2. Doing this takes half an action.",
+			"xp": "250",
+			"ap": "0",
+			"ab": "5",
+			"castingTime": "Passive"
+		},
+		{
+			"name": "Recycled Arcana",
+			"description": "Failed spells return their cost, in AP, to the caster.",
+			"xp": "350",
+			"ap": "0",
+			"ab": "10",
+			"castingTime": "Passive"
+		}
+	]
+}

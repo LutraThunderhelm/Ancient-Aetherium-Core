@@ -1,0 +1,12 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" height="100" width="100">
+    <path d="M 90 50 Q 50 100 10 50" stroke="black" stroke-width="4" fill="none"/>
+    <polygon points="-10,30 -10,40 10,40 10,30" transform="translate(50 45) rotate(0 0 0)" stroke="black" stroke-width="4" fill="none"/>
+    <polygon points="-10,30 -10,40 10,40 10,30" transform="translate(43 43) rotate(35 0 0)" stroke="black" stroke-width="4" fill="none"/>
+    <polygon points="-10,30 -10,40 10,40 10,30" transform="translate(57 43) rotate(-35 0 0)" stroke="black" stroke-width="4" fill="none"/>
+    <polygon points="40,45 50,55 60,45 50,35" stroke="black" stroke-width="4" fill="none"/>
+    <circle cx="74" cy="24" r="5" stroke="black" stroke-width="4" fill="none"/>
+    <circle cx="26" cy="24" r="5" stroke="black" stroke-width="4" fill="none"/>
+    <circle cx="77" cy="43" r="15" stroke="black" stroke-width="4" fill="none"/>
+    <circle cx="23" cy="43" r="15" stroke="black" stroke-width="4" fill="none"/>
+    <circle cx="50" cy="43" r="25" stroke="black" stroke-width="4" fill="none"/>
+</svg> 

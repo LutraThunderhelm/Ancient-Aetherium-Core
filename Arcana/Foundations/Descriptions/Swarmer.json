@@ -1,0 +1,68 @@
+{
+	"description": "Understanding the construction of their own bodies, both by repair and by modification, Swarmers understand machine given life and mechanisms given purpose. Swarmers are able to tap into their Frigus roots to construct allies based on pure arcane origins, commanding them through their magic to do anything and everything they want. These constructed allies are not independant, instead being an extention of the Swarmers own mind and thoughts, allowing them to share most skill and trait levels with their creator. Additionally, during combat, the allies of the Swarmer move with their creator, with their actions happening during the Swarmers turn.",
+	"spells": [{
+			"name": "Construct Limit",
+			"description": "Fracturing ones mind between artificial allies takes time and effort, with every investment in Construct Limit increases the amount of Swarmer creations that can be active at once by 1. Without investments this limit is 1 ally.",
+			"xp": "500",
+			"ap": "0",
+			"ab": "0",
+			"castingTime": "Static"
+		},
+		{
+			"name": "Auto Gunner",
+			"description": "Creates a stationary Construct that is able to aim and fire with the weapon it recieves, using the creators Firing skill. This can be any kind of automatic firing machine, such as chemical throwers, boomsticks, bows, or even mechanically activated melee weapons such as chainsaws. Melts after 1 hour, breaks if attacked with a damage above 15.",
+			"xp": "900",
+			"ap": "3",
+			"ab": "0",
+			"castingTime": "Full Action"
+		},
+		{
+			"name": "Auto Caster",
+			"description": "Forms a Construct with the arcane capabilities of its creator, however the construct itself has no limbs other than those needed to cast spells. After its creation it can cast any spell needed, drawing AP from its caster's AB. Melts after 1 hour, breaks if attacked with a damage above 9.",
+			"xp": "1100",
+			"ap": "5",
+			"ab": "0",
+			"castingTime": "Full Action"
+		},
+		{
+			"name": "Auto Kit",
+			"description": "Summons a Construct containing any set of tools owned by its creator, and is able to preform the function the tools are meant to serve, such as quickly establishing barricades, lighting the darkness, or blocking Seer spells. Melts after 1 hour, breaks if attacked with a damage above 10.",
+			"xp": "1000",
+			"ap": "4",
+			"ab": "0",
+			"castingTime": "Full Action"
+		},
+		{
+			"name": "Auto Mender",
+			"description": "Creates a small spiderlike Construct with the ability to latch on to a target and repair their wounds. Shatters upon the target recieving damage, until then repairs 1 durability per turn with no additional cost to the creators AB.",
+			"xp": "1200",
+			"ap": "6",
+			"ab": "0",
+			"castingTime": "Full Action"
+		},
+		{
+			"name": "Boom Bugs",
+			"description": "Creates 4 small spider like Constructs that can chose to explode with a Half Action. This explosion causes 15 damage to anything in a 1 meter radius. These spiders are brittle and explode after taking any early damage.",
+			"xp": "1000",
+			"ap": "4",
+			"ab": "0",
+			"castingTime": "Full Action"
+		},
+		{
+			"name": "Gaurded Constructs",
+			"description": "Adds 5 toughness to all Constructs made by the caster.",
+			"xp": "1100",
+			"ap": "0",
+			"ab": "6",
+			"castingTime": "Passive"
+		},
+		{
+			"name": "Multi Constructs",
+			"description": "Allows for Constructs to have the functions of another Construct built into them. These Multi Constructs may do anything their multiple tools give them, and last for the time of the most recent addition, as well as recieving the highest toughness of their various parts.",
+			"xp": "1300",
+			"ap": "0",
+			"ab": "10",
+			"castingTime": "Passive"
+		}
+	]
+}

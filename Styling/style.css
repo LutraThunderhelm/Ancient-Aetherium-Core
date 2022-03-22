@@ -1,0 +1,366 @@
+@import url('https://fonts.googleapis.com/css2?family=Delius&display=swap');
+
+html {
+    font-family: 'Delius', cursive;
+    background-size:cover;
+}
+
+ /*
+ 
+ HEADER SECTION
+ 
+ */
+
+header {
+    vertical-align: top;
+    margin:0px;
+    padding:0px;
+    width:100%;
+}
+
+header nav {
+    margin:0%;
+    background-color:black;
+} 
+
+header nav ul {
+    list-style-type:none;
+    padding:0px;
+    margin:0px;
+    overflow:hidden;
+}
+
+header nav ul li a{
+    text-decoration:none;
+    color:white;
+    padding:1em;
+    display:block;
+    float:right;
+    border-left: 0.1em solid white;
+}
+
+header nav ul li a:hover{
+    background-color:white;
+    color:black;
+}
+
+header nav ul li #active {
+    background-color:white;
+    color:black;
+}
+
+#banner {
+     background-repeat: no-repeat;
+     background-size:cover;
+     padding-top:8em;
+     padding-bottom:8em;
+     width:100%;
+     margin:0%;
+     border-bottom:0.75em solid black;
+     object-fit: cover;
+}
+
+#banner h2 span{
+    border-top:none;
+}
+
+ /*
+ 
+ MAIN SECTION
+ 
+ */
+
+body {
+    margin:0px;
+    background-image:url("cover.png");
+}
+
+main {
+    background-image:url("paper.png");
+    width:60em;
+    margin:auto;
+    padding:1.5em;
+    margin-top:0;
+    margin-bottom:4em;
+}
+
+#page-tabs {
+    width:63em;
+    margin:auto;
+    margin-top:1.5em;
+}
+
+#page-tabs ul {
+    list-style-type:none;
+    padding:0px;
+    margin:0px;
+    overflow:hidden;
+}
+
+#page-tabs ul li #current-tab {
+    margin-top:0em;
+    padding-bottom:1.5em;
+    filter: brightness(1);
+}
+
+#page-tabs ul li a{
+    text-decoration:none;
+    color:black;
+    background:url("paper.png") no-repeat center center;
+    filter: brightness(0.8);
+    padding:1em;
+    display:block;
+    float:left;
+    margin-top:0.5em;
+    border-top-left-radius:0.2em;
+    border-top-right-radius:0.2em;
+}
+#page-tabs ul li a:hover{
+    filter: brightness(1.2);
+    margin-top:0em;
+    padding-bottom:1.5em;
+}
+
+ /*
+ 
+ TEXT STYLING
+ 
+ */
+
+h1 {
+    text-align:center;
+    font-size:2em;
+}
+
+h1 span {
+    border-bottom-width: 0.2em;
+    border-bottom-style: solid;
+    border-image: linear-gradient(90deg, rgba(0,0,0,0) 0%, rgba(0,0,0,1) 25%, rgba(0,0,0,1) 75%, rgba(0,0,0,0) 100%) 1;
+}
+
+h1 img{
+    height:0.8em;
+}
+
+h2 {
+    text-align:center;
+    font-size:1.5em;
+}
+
+h2 span {
+    border-bottom-width: 0.2em;
+    border-bottom-style: solid;
+    border-top-width: 0.2em;
+    border-top-style: solid;
+    border-image: linear-gradient(90deg, rgba(0,0,0,0) 0%, rgba(0,0,0,1) 25%, rgba(0,0,0,1) 75%, rgba(0,0,0,0) 100%) 1;
+}
+
+h2 img{
+    height:0.8em;
+}
+
+h3 {
+    font-size:1em;
+}
+
+p {
+     text-align:justify;
+ }
+
+p a {
+     text-decoration:none;
+     color:rgb(102, 7, 7);
+ }
+
+ /*
+
+SUBPAGE BUTTON STYLING
+
+ */
+
+form {
+    text-align: center;
+}
+
+input[type=submit] {
+    font-family: 'Delius', cursive;
+    border:none;
+    padding:0.25em;
+    padding-left:0.5em;
+    padding-right:0.5em;
+    margin:0px;
+    border-bottom-width: 0.2em;
+    border-bottom-style: solid;
+    border-top-width: 0.2em;
+    border-top-style: solid;
+    border-color:rgb(102, 7, 7);
+    border-radius:0px;
+    font-size:1.5em;
+    background:none;
+    color:rgb(102, 7, 7);
+}
+
+input[type=submit]:hover {
+    border-right-width: 0.14em;
+    border-right-style: solid;
+    border-left-width: 0.14em;
+    border-left-style: solid;
+    padding-left:0.37em;
+    padding-right:0.37em;
+}
+
+input[type=submit]:first-child{
+    border-image: linear-gradient(90deg, rgba(0,0,0,0) 0%, rgb(102, 7, 7) 100%) 1;
+}
+input[type=submit]:last-child{
+    border-image: linear-gradient(90deg, rgb(102, 7, 7) 0%, rgba(0,0,0,0) 100%) 1;
+}
+
+/*
+
+STACKED SECTIONS
+
+*/
+
+.Stacked-List {
+    margin-top:4em;
+}
+
+.Stacked-List:nth-child(odd) span {
+    padding-right:1em;
+}
+
+.Stacked-List:nth-child(even) span {
+    padding-left:1em;
+}
+
+.Stacked-List h3 {
+    text-align:left;
+    margin-left:20%;
+    position:relative;
+    top:0.175em;
+}
+
+.Stacked-List img {
+    float:left;
+    margin-left:1.5em;
+    width:9em;
+    display:block;
+}
+
+.Stacked-List p {
+    margin:20%;
+    text-align:justify;
+    margin-top:0.5em;
+    margin-bottom:1em;
+}
+
+.Stacked-List:nth-child(even) img {
+    float:right;
+    margin-right:1.8em;
+}
+
+.Stacked-List:nth-child(even) h3 {
+    text-align:right;
+    margin-right:20%;
+}
+
+/*
+
+ARCANE TREE STYLING
+
+*/
+
+#Arcane-Star {
+    margin:auto;
+}
+
+.Foundation-Container {
+    font-family: 'Delius', cursive;
+    font-size:1em;
+    border:none;
+    background:none;
+}
+
+.Foundation-Container:hover {
+    background:rgba(255,255,255,0.4);
+    border-radius:1em;
+}
+
+#Spell-List {
+    table-layout: fixed;
+    width: 100%;
+    text-align:justify;
+}
+
+#Spell-List td {
+    padding:1em;
+    border: 0.1em black solid;
+    vertical-align: top;
+}
+
+#Spell-List td h3 {
+    font-size:1.5em;
+}
+
+.Star-Item {
+    display:inline-block;
+    width:5%;
+}
+
+.Star-Item h3 {
+    margin:0;
+}
+
+.Star-Item h4 {
+    margin:0;
+}
+
+/*
+
+CARD STYLING
+
+*/
+
+#Card-Holder {
+    display:inline-block;
+    text-align:center;
+}
+
+.Weapon-Card {
+    display:inline-block;
+    margin:0.75em;
+    width:17em;
+}
+
+.Weapon-Card img{
+    width:100%;
+}
+
+.Weapon-Card span{
+    float:right;
+    background-color:black;
+    color:white;
+    border-bottom-left-radius: 1em;
+    padding-left:1em;
+    padding-right:0.5em;
+}
+
+.Attire-Card {
+    display:inline-block;
+    margin:0.75em;
+    width:17em;
+}
+
+.Attire-Card img{
+    width:100%;
+}
+
+.Attire-Card span{
+    float:right;
+    background-color:black;
+    color:white;
+    border-bottom-left-radius: 1em;
+    padding-left:1em;
+    padding-right:0.5em;
+}

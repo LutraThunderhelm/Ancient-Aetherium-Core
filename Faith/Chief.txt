@@ -1,0 +1,35 @@
+The greate unifier, ruler, and warlord, Chief earned his place as the Founder of War through commanding a loyal army to endless victories. During the early days of Gredo, Chief solidified himself as a defender of any, and leader to all, becoming the commander of not only Gredo's population, but the other Founders as well. Chief built a force with skill and vigor to push into the surrounding ruins, taking the first of 3 triads. From this triad, Chief formed a board of advisors to lead during wartime as he faught in the front lines among his army.
+
+As time slipped on, Chief became a symbol of power and bonds, connecting the weakest and strongest bears through the unified goal of destroying the Hive. Chief would lead a push into the second triad, filling it with large compounds to support a large wartime population. He would give rise to the vigor of the Worker's Bastion, and the ferocity of Gredo's Army, now serving as its Divine King. Chief became the hero of all, an iron fisted yet inspiring leader to many, and a masterful commander to all.
+
+60 years ago, Chief would turn his population into the biggest army yet, forcing their way into the 3rd triad, turning it into a residential sector by force. His soldiers became cannon fodder as they turned a great war hero into a bitter victor, taking the third triad at the cost of many. Upon its capture, Chiefs kingdom began to falter. His laborers were treated as dirt, blamed for the poor weaponry produced. His armies lost their spark, fearing the next days battle. His advisors saught to replace him, and he became disgraced by the Founders around him.
+
+Unsure where he went wrong, Chief saught to learn the plight of a common bear. Chief hastely trained an heir to the throne, and left in the dead of night under a different name and face 50 years ago. Chief has not been seen since, however his powers reach through the Aether, guiding his loyal soldiers, and rewarding his faithful royals. His followers see this not as the end of Chief's story, but as a pause. They believe that when Gredo is on the verge of destruction Chief will return, more powerful than ever, and lead all to a great victory beyond what could possibly be known. This prophecy is Chief's guiding light, allowing him to hold his kingdom forever more.
+
+Those who follow chief believe in the power of the Divine King, and will be able to take Oaths under Chief in order to recieve Chief's Boons every day. The rate of Boon regeneration depends on the Oath made to the Divine King, but as long as the Oath is kept, Chief will continue to aid the follower. Breaking an Oath however forces one to become a Sinner of Chief. (See the section on Dusk for more information on Sinners and Sinner Boons). Multiple Oaths can be taken, but only one is required to become a follower of Chief. 1 Boon is gained every morning for every active Oath.
+
+<table>
+    <tr>
+        <th class="table_of_table">Chief's Boon Effects</th>
+    </tr><tr>
+        <td class="tabled_table"><table>
+            <tr>
+                <th>Name</th>
+                <th>Boon Cost</th>
+                <th>Effect</th>
+            </tr><tr>
+                <td>Unbreakable</td>
+                <td>1 Boon</td>
+                <td class="description">Ignore all damage from a single incoming attack.</td>
+            </tr><tr>
+                <td>Guided Strike</td>
+                <td>1 Boon</td>
+                <td class="description">Ignore the enemies Evade and treat them as Exposed for 1 attack.</td>
+            </tr><tr>
+                <td>Channel Pain</td>
+                <td>2 Boons</td>
+                <td class="description">All damage done to allies in the next 5 seconds is given as damage on your next attack.</td>
+            </tr>
+        </table></td>
+    </tr>
+</table>

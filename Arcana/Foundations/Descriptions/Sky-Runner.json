@@ -1,0 +1,68 @@
+{
+	"description": "No longer content with limiting their movement to the ground, Sky Runners form their air mobility spells and their Hunter's Spark into a rocketing flame, allowing them to form firey paths under their feet that they ride through the air. These paths allow the Sky Runners to reach velocities high enough to race trains, typically used for infiltration and vehicular combat. Sky Runners are typically entrusted with dangerous messanger jobs that require great care and skill, such as delivering a bomb to a Hive munitions plant. Additionally, Sky Runners have a new Velocity score, which is a representation of their speed, and useable by some spells as an additional cost alongside AP. All Velocity is lost upon not using a Sky Running spell for 5 seconds, or 1 round.",
+	"spells": [{
+			"name": "Superterminal Velocity",
+			"description": "Typically the maximum obtainable velocity score for a Sky Runner would be 5, however every investment into Superterminal Velocity allows this maximum to be increased by 1.",
+			"xp": "400",
+			"ap": "0",
+			"ab": "0",
+			"castingTime": "Static"
+		},
+		{
+			"name": "Sky Pathing",
+			"description": "Run through the air with no limitations on height, moving at double the casters typical movement speed. Additionally, every round builds up 1 velocity, increasing the movement speed of Sky Pathing by 5 for every point.",
+			"xp": "900",
+			"ap": "2",
+			"ab": "0",
+			"castingTime": "Half Action"
+		},
+		{
+			"name": "Physical Shift",
+			"description": "Travel through physical objects using velocity. Every half of a meter requires 1 velocity score to shift through, such as a wall that is 2 meters thick, which would require 4 velocity. Half of the casters velocity is lost upon shifting.",
+			"xp": "1100",
+			"ap": "5",
+			"ab": "0",
+			"castingTime": "Half Action"
+		},
+		{
+			"name": "Grounded Bolt",
+			"description": "Shooting accross the ground, the caster may move at triple their original movement while gaining 1 velocity.",
+			"xp": "1000",
+			"ap": "3",
+			"ab": "0",
+			"castingTime": "Half Action"
+		},
+		{
+			"name": "Gravity Accelerator",
+			"description": "The caster gains an additional 2 velocity by dropping straight downwards, then using Sky Pathing to convert their momentum into a controllable state. This removes all other availible movement for the rest of the turn and requires at least 30 meters of space under the caster.",
+			"xp": "1200",
+			"ap": "3",
+			"ab": "0",
+			"castingTime": "Half Action"
+		},
+		{
+			"name": "Shift 'n Strike",
+			"description": "Converts velocity into a lethal force, using arcane power to prevent the caster from getting crushed under the weight of their own attack. Shift 'n Strike is a contact spell that doubles your velocity and turns it into raw damage. All velocity is spent on the maneuver.",
+			"xp": "1200",
+			"ap": "5",
+			"ab": "0",
+			"castingTime": "Full Action"
+		},
+		{
+			"name": "Quick Stop",
+			"description": "At any time the caster may choose to cancel all momentum relative to the planet, giving them 2 AP per cancelled velocity.",
+			"xp": "1200",
+			"ap": "0",
+			"ab": "7",
+			"castingTime": "Passive"
+		},
+		{
+			"name": "Hastened Haste",
+			"description": "All velocity gained is doubled. The maximum velocity is still determined by Superterminal Velocity.",
+			"xp": "1000",
+			"ap": "0",
+			"ab": "10",
+			"castingTime": "Passive"
+		}
+	]
+}

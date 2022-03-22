@@ -1,0 +1,100 @@
+{
+	"description": "Familiar with the minds of the living and the minds of the dead, as well as weaving arcane energies through their bodies, Mind Weavers have become the masters of fate. Able to alter thoughts and memories, transfering minds, and mending mental scars, Mind Weavers are powerful mages of life. Twisting the bounds of consciousness, they no longer need to limit their allies to one body, spreading their mind and memories to a new mind in the face of loss, contorting life and death as they see fit.",
+	"spells": [{
+			"name": "Rip Mind",
+			"description": "Pull the mind out of a still living body. This mind is the total collection of everthing that makes the target who they are, and is stored in a raw volatile form after being pulled from the mind crystal it was from. The mind crystal is considered empty and unable to act, and the mind itself will dissolve within 5 seconds or 1 Round due to its volatile nature.",
+			"xp": "3000",
+			"ap": "7",
+			"ab": "0",
+			"castingTime": "Half Action"
+		},
+		{
+			"name": "Give Life",
+			"description": "Take a volatile mind and restore it into an empty Mind Crystal. This new mind retains all traits of its volatile form while being stable and stored inside the new crystal as if it had been there all along.",
+			"xp": "4000",
+			"ap": "8",
+			"ab": "0",
+			"castingTime": "Half Action"
+		},
+		{
+			"name": "Forced Life",
+			"description": "Convert a stille living Mind Crystal into the host of a volatile mind. This causes the other mind to be phased out as the volatile mind takes over the Mind Crystal. There will be no remains of the previous mind once the process has concluded.",
+			"xp": "5000",
+			"ap": "10",
+			"ab": "0",
+			"castingTime": "Full Action"
+		},
+		{
+			"name": "Consume Pain",
+			"description": "Allows the caster to remove a Fear or Insanity effect, restoring AP. 2 AP is restored for a number effect, 3 AP for a Jack, 4 AP for a Queen, 5 AP for a King, and 10 AP for an Ace.",
+			"xp": "5000",
+			"ap": "N/A",
+			"ab": "0",
+			"castingTime": "Instant Action"
+		},
+		{
+			"name": "Fear No Longer",
+			"description": "Removes a phobia from the target, as the caster dissociates painful memories from their past. This may only be done with Phobias gained through Fear or Insanity Checks.",
+			"xp": "4000",
+			"ap": "15",
+			"ab": "0",
+			"castingTime": "2 Full Actions"
+		},
+		{
+			"name": "Form Shrine",
+			"description": "With a set of 4 Mundance Crystals, an Industria Crystal, and the right symbol formed from any object, the caster is able to make a Shrine to a Founder. This Shrine provies the caster with +1 boon every day, as long as the Shrine is intact. Should the Shrine left behind by the caster, every day a D10 should be rolled, with a 4 or less resulting in the Shrine being destroyed.",
+			"xp": "5000",
+			"ap": "20",
+			"ab": "0",
+			"castingTime": "3 Full Actions"
+		},
+		{
+			"name": "Shrine of Sinners",
+			"description": "Convert a Shrine to a Founder to instead drain its power directly to the caster. The Shrine provides the caster with 1 AP every 5 seconds, or 1 round. This effect happens no matter how far the caster is from the shrine, however shrines left behind will likely be destroyed. For ever Shrine of Sinners left behind by the caster a D10 should be rolled every day, with a 7 or less resulting in the Shrine of Sinners being destroyed.",
+			"xp": "5000",
+			"ap": "10",
+			"ab": "0",
+			"castingTime": "3 Full Actions"
+		},
+		{
+			"name": "Abuse Mind",
+			"description": "Turns a Volatile Mind into a 1 time use of one of the target minds known spells. The Mind itself remains intact during this operation, however experiences great pain. The casting time and AP cost for the chosen spell are still required.",
+			"xp": "5000",
+			"ap": "5",
+			"ab": "0",
+			"castingTime": "Instant Action"
+		},
+		{
+			"name": "Consume Mind",
+			"description": "Turn a Volatile Mind into pure AP, turning all of its AB into AP for the caster. This permanently destroys the target mind.",
+			"xp": "4000",
+			"ap": "0",
+			"ab": "0",
+			"castingTime": "Full Action"
+		},
+		{
+			"name": "Stablized Minds",
+			"description": "Allows the caster to hold Volatile minds as items without chance of the mind dissolving. Minds now take up room in the casters Valley Capacity however.",
+			"xp": "5000",
+			"ap": "0",
+			"ab": "15",
+			"castingTime": "Passive"
+		},
+		{
+			"name": "Through Me",
+			"description": "Choose any and all allies who are able to take AP directly from the casters AB for their spell casting. Anyone may have their access gained or removed at any time.",
+			"xp": "5000",
+			"ap": "0",
+			"ab": "10",
+			"castingTime": "Passive"
+		},
+		{
+			"name": "For the Valley",
+			"description": "Upon using Consume Mind, gain +1 Valley Capacity for the next 24 hours.",
+			"xp": "3000",
+			"ap": "0",
+			"ab": "10",
+			"castingTime": "Passive"
+		}
+	]
+}

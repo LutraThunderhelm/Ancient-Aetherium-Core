@@ -1,0 +1,68 @@
+{
+	"description": "Peering into the spaces previously thought impossible, the first Shroud Breakers learned how to tap into the origins of arcana itself, peering into what devises the physical world they live in. Able to see visions of seemingly impossible information, Shroud Breakers have been known to be impossible to avoid or trick, able to catch any secrets that pass by them.",
+	"spells": [{
+			"name": "Lingering Window",
+			"description": "Previously single use snapshot style informational spells gain the ability to update real time with investments into Lingering Window. For every investment, the caster's spells last 5 seconds or 1 round longer and update real time as the information changes.",
+			"xp": "700",
+			"ap": "0",
+			"ab": "0",
+			"castingTime": "Static"
+		},
+		{
+			"name": "Psychometry",
+			"description": "Gain the memories of an object over the last 12 hours. All that the object has been present for becomes the knowledge of the caster. This includes auditory and visiual information.",
+			"xp": "1200",
+			"ap": "6",
+			"ab": "0",
+			"castingTime": "Full Action"
+		},
+		{
+			"name": "Memory Syphon",
+			"description": "Upon touching the target, the caster gains partial memories from the target. These memories can only be of a single localized event, and are from the perspective of the target.",
+			"xp": "1100",
+			"ap": "5",
+			"ab": "0",
+			"castingTime": "Full Action"
+		},
+		{
+			"name": "Construct Reflection",
+			"description": "Reflects on the casters memories, including those that are not theirs, and allows them to reconstruct the full enviroment from a memory. This enviroment is a perfect recreation and contains all information in the same enviroment, and contains all needed information to use any other information gathering spells.",
+			"xp": "1000",
+			"ap": "4",
+			"ab": "0",
+			"castingTime": "Half Action"
+		},
+		{
+			"name": "Indexed Enviroment",
+			"description": "Gives the caster immediate knowledge of every item in a 15 meter radius, even if the item is hidden. This index does not give the caster any information on the purpose or mechanics of an item, only the fact that it exists.",
+			"xp": "900",
+			"ap": "3",
+			"ab": "0",
+			"castingTime": "Half Action"
+		},
+		{
+			"name": "Measure Enemies",
+			"description": "The targeted enemy within the casters sight has all of their mechanical stats revealed to the player of the caster. The caster sees all the details of how close to death the enemy may be, the enemies training and experience, and the enemies general skills and hardiness.",
+			"xp": "1100",
+			"ap": "5",
+			"ab": "0",
+			"castingTime": "Full Action"
+		},
+		{
+			"name": "Unburdened Eyes",
+			"description": "The caster is no longer able to see illusions unless they are spells under the Author of Reality foundation.",
+			"xp": "1200",
+			"ap": "0",
+			"ab": "10",
+			"castingTime": "Passive"
+		},
+		{
+			"name": "Rationalized Mental Temple",
+			"description": "The caster gains 3 successes for every Insanity Check made.",
+			"xp": "1500",
+			"ap": "0",
+			"ab": "12",
+			"castingTime": "Passive"
+		}
+	]
+}

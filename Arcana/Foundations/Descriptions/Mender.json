@@ -1,0 +1,68 @@
+{
+	"description": "No longer content with purely altering themselves, Menders learn how to generalize their Mundane spellcraft, allowing them to use it on others around them. Gaining their name from their general role in Gredo's military, Menders tend to be healers, using their spells to repair wounds, armor allies, and sustain an army. Menders keep the gears of life turning, making invaluable members of any group.",
+	"spells": [{
+			"name": "Mend",
+			"description": "Allows the caster to heal 1 durability of damage done to any husk in 10 meters. Requires no physical materials to preform.",
+			"xp": "300",
+			"ap": "4",
+			"ab": "0",
+			"castingTime": "Full Action"
+		},
+		{
+			"name": "Patchwork",
+			"description": "Spend 3 AP per durability the caster wishes to repair on a target husk. The caster may choose to mend as much durability as they choose, requires close proximity to a non-moving target to cast.",
+			"xp": "400",
+			"ap": "3",
+			"ab": "0",
+			"castingTime": "Full Action"
+		},
+		{
+			"name": "Shatter Fears",
+			"description": "When an ally comes under a Fear Effect, the caster may use Shatter Fears to instantly break the effect instantly, bringing the target back to their senses. The target must be within 20 meters, does not effect Fear gained from arcan sources, other effects, or otherwise unnatural sources.",
+			"xp": "250",
+			"ap": "3",
+			"ab": "0",
+			"castingTime": "Full Action"
+		},
+		{
+			"name": "Ward Insanity",
+			"description": "When the caster or their ally is to preform a world based Insanity Check, give 2 successes to the roll to avoid gaining an Insanity Effect. The target must be within 20 meters. Does not apply to Insanity Checks gained through being the target of an arcane source, or Insanity Checks from a Fear Effect.",
+			"xp": "250",
+			"ap": "6",
+			"ab": "0",
+			"castingTime": "Full Action"
+		},
+		{
+			"name": "Fuse Limb",
+			"description": "Attaches a limb to a target, such as a missing arm or leg. This limb will function immidietly upon its attachment.",
+			"xp": "250",
+			"ap": "5",
+			"ab": "0",
+			"castingTime": "Full Action"
+		},
+		{
+			"name": "Armored Graft",
+			"description": "Repair an Exposed body part, restoring its original toughness value, and preventing an active effect from tearing it open further, such as fire. Target must be within 10 meters, armor is uneffected.",
+			"xp": "300",
+			"ap": "4",
+			"ab": "0",
+			"castingTime": "Full Action"
+		},
+		{
+			"name": "Hardened Stitching",
+			"description": "All Durability restoring effects, as well as Armored Graft, give the target an additional 3 Toughness against the next attack that hits them.",
+			"xp": "300",
+			"ap": "0",
+			"ab": "5",
+			"castingTime": "Passive"
+		},
+		{
+			"name": "Mental Compounds",
+			"description": "Spells with mental effects such as Shatter Fear and Ward Insanity work on all sources of mental attack, including arcane sources. Effects gained from other effects still cannot be targeted.",
+			"xp": "250",
+			"ap": "0",
+			"ab": "5",
+			"castingTime": "Passive"
+		}
+	]
+}

@@ -1,0 +1,137 @@
+ 
+/Ancient-Aetherium/placeholder.png
+<table>
+    <tr>
+        <th class="table_of_table">Invention Bases</th>
+    </tr><tr>
+        <td class="tabled_table"><table>
+            <tr>
+                <th>Name</th>
+                <th>Part Requirements</th>
+                <th>Uses</th>
+                <th>Toughness</th>
+                <th>Difficulty</th>
+            </tr><tr>
+                <td>2 Pawed</td>
+                <td>2 Bronze Parts</td>
+                <td class="description">Swung as a Brawling Skill Check using 2 paw.</td>
+                <td>9</td>
+                <td>2</td>
+            </tr><tr>
+                <td>1 Pawed</td>
+                <td>Bronze Parts, Clockwork Parts</td>
+                <td class="description">Swung as a Brawling Skill Check using 1 paw.</td>
+                <td>8</td>
+                <td>2</td>
+            </tr><tr>
+                <td>Rifle</td>
+                <td>Bronze Parts, 2 Clockwork Parts</td>
+                <td class="description">Fired as a Firing Skill Check using 1 or 2 paws.</td>
+                <td>7</td>
+                <td>3</td>
+            </tr><tr>
+                <td>Husk Augment</td>
+                <td>2 Arcane Parts, 3 Clockwork Parts</td>
+                <td class="description">Uses 1 Husk Channel, activated in any way wanted.</td>
+                <td>1</td>
+                <td>4</td>
+            </tr><tr>
+                <td>Armor Piece</td>
+                <td>3 Bronze Parts</td>
+                <td class="description">Worn as a piece of armor, cannot have other armor over it.</td>
+                <td>10</td>
+                <td>2</td>
+            </tr>
+        </table></td>
+    </tr>
+</table>
+
+ 
+/Ancient-Aetherium/placeholder.png
+<table>
+    <tr>
+        <th class="table_of_table">Active Elements</th>
+    </tr><tr>
+        <td class="tabled_table"><table>
+            <tr>
+                <th>Name</th>
+                <th>Part Requirements</th>
+                <th>Effect</th>
+                <th>Stability</th>
+                <th>Complexity</th>
+            </tr><tr>
+                <td>Blasting Cap</td>
+                <td>2 Arcane Parts</td>
+                <td class="description">Causes a small explosion for 4D4 damage in a 3 by 3 meter area surrounding the Invention.</td>
+                <td>3</td>
+                <td>3</td>
+            </tr><tr>
+                <td>Ignis Splitter</td>
+                <td>Clockwork Parts, Arcane Parts</td>
+                <td class="description">Shreds armor, removing 1D4 touchness on the target.</td>
+                <td>2</td>
+                <td>5</td>
+            </tr><tr>
+                <td>Ignis Igniter</td>
+                <td>Bronze Parts, 2 Arcane Parts</td>
+                <td class="description">Ignites a flame somewhere on the Invention.</td>
+                <td>2</td>
+                <td>4</td>
+            </tr><tr>
+                <td>Lux Guide</td>
+                <td>Clockwork Parts, Arcane Parts</td>
+                <td class="description">Shows a 3D image preset by the Inventor.</td>
+                <td>1</td>
+                <td>2</td>
+            </tr><tr>
+                <td>Sana Motors</td>
+                <td>Bronze Parts, Clockwork Parts, Arcane Parts</td>
+                <td class="description">Adds an 1D8 additional damage to the Invention.</td>
+                <td>3</td>
+                <td>3</td>
+            </tr>
+        </table></td>
+    </tr>
+</table>
+
+ 
+/Ancient-Aetherium/placeholder.png
+<table>
+    <tr>
+        <th class="table_of_table">Additives</th>
+    </tr><tr>
+        <td class="tabled_table"><table>
+            <tr>
+                <th>Name</th>
+                <th>Part Requirements</th>
+                <th>Effect</th>
+                <th>Difficulty</th>
+            </tr><tr>
+                <td>Extra Plating</td>
+                <td>2 Bronze Parts</td>
+                <td class="description">Increases the Inventions Toughness by 4.</td>
+                <td>2</td>
+            </tr><tr>
+                <td>Radius Increaser</td>
+                <td>2 Clockwork Parts, Arcane Parts</td>
+                <td class="description">Improves the radius of the Invention by 1 meter in each direction.</td>
+                <td>3</td>
+            </tr><tr>
+                <td>Auto Loader</td>
+                <td>3 Clockwork Parts</td>
+                <td class="description">Any reloading part of the machine can be bulk reloaded with up to 3 rounds.</td>
+                <td>4</td>
+            </tr><tr>
+                <td>Additional Stabilizers</td>
+                <td>Bronze Parts, Clockwork Parts, Arcane Parts</td>
+                <td class="description">Reduces the Invention's Stability by 1.</td>
+                <td>4</td>
+            </tr><tr>
+                <td>Etched Instructions</td>
+                <td>Bronze Parts</td>
+                <td class="description">Reduces the Invention's Complexity by 1 and Difficulty by 2.</td>
+                <td>2</td>
+            </tr>
+        </table></td>
+    </tr>
+</table>

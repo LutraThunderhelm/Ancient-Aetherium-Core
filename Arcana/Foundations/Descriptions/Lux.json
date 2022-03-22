@@ -1,0 +1,36 @@
+{
+	"description": "Lux is the arcane aspect of perceptions, however the Lux Foundation itself is considered a Basic Foundation. Lux is an extremely common Foundation, as anyone can invest their time into basic Lux spellcraft, gaining small tools to help with their ability to observe the world around them. Lux itself tends to lean into higher Foundations based on the gathering or stifling of information.",
+	"spells": [{
+			"name": "Little Lamp",
+			"description": "Form a small ball of light, which remains stationary relative to the earth. This means, should a sky scraper collapse with the Little Lamp at the top, the Little Light would stay stationary in the air. Disappears after 24 hours have passed, or removed by its creator.",
+			"xp": "100",
+			"ap": "3",
+			"ab": "0",
+			"castingTime": "Half Action"
+		},
+		{
+			"name": "Visual Arcana",
+			"description": "See arcane power itself, as it flows from place to place. Once activated, Visual Arcana will slowly fade over the course of 1 minute.",
+			"xp": "150",
+			"ap": "3",
+			"ab": "0",
+			"castingTime": "Full Action"
+		},
+		{
+			"name": "Echo Arcana",
+			"description": "Gain a visualization of every movement in a 30 meter radius, ignoring objects that are stationary relative to the earth. The caster will only be able to observe movement while using Echo Arcana, which fades over the course of 5 seconds.",
+			"xp": "200",
+			"ap": "5",
+			"ab": "0",
+			"castingTime": "Full Action"
+		},
+		{
+			"name": "Dispell Darkness",
+			"description": "Allows the caster to see in darkness as if a light is radiating off of them. This light is only visible to the caster and can only reveal areas covered by phsical darkness.",
+			"xp": "200",
+			"ap": "0",
+			"ab": "5",
+			"castingTime": "Passive"
+		}
+	]
+}

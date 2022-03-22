@@ -1,0 +1,42 @@
+Skill Checks serve as a way for an RM to test a characters ability to preform an action. Many common actions, such as opening a door, holding a conversation with a friend, or purchasing an item wont require a test of ones abilities to pull off, but attempting to pick a lock, persuade an enemy, or bargan a price down requires the character to put in extra leg work. For actions that seem challenging or risky, the RM can ask the player to make a Skill Check to see if they succeed or fail at their goal.
+
+When asked to make a Skill Check, gather an amount of 10 sided dice equal to the characters Skill Level. On an open flat surface, roll the dice together and take note of what number they come up on. Every dice that landed on a number higher than the characters Trait for that skill is counted as a single success, and the total amount of successes is how well the character preformed at the given task. The player will announce the amount of successes they got, and the RM may then continue by comparing the players score to the amount of successes required to complete the task, which they may chose to make known or kept secret. The difficulty of success requirements are posted in a table at the bottom of the page.
+
+EXAMPLE: Donnie wants to read an old human text. Busta, the RM, tells Donnie that she must pass a Literacy Skill Check in order to understand it, and decides how difficult the Skill Check should be. Donnie checks her characters sheet and observes her character has a Level 5 Literacy Skill, and a Level 7 Survival Trait. Donnie gathers 5 different 10 sided dice and proceeds to roll them all on a table, resulting in a 6, 10, 3, 5, and 1. Counting the amount of dice higher than 7, she concludes she has 1 success. Upon informing Busta of her score, Busta choses to say the difficulty he required, which was 2, meaning Donnie has 1 less success than she needs to pass the test, and is unable to read the human text.
+
+<table>
+    <tr>
+        <th class="table_of_table">Skill Check Difficulties</th>
+    </tr><tr>
+        <td class="tabled_table"><table>
+    <tr>
+        <th>Requirement</th>
+        <th>Difficulty</th>
+    </tr><tr>
+        <td>1 Success</td>
+        <td class="description">Pretty Easy, most should beat it.</td>
+    </tr><tr>
+        <td>2 Successes</td>
+        <td class="description">Standard Challenge, requires some skill.</td>
+    </tr><tr>
+        <td>3 Successes</td>
+        <td class="description">Pretty Challenging, needs the touch of someone who's familiar with it.</td>
+    </tr><tr>
+        <td>4 Successes</td>
+        <td class="description">Very Challenging, needs someone well versed in the field.</td>
+    </tr><tr>
+        <td>5 Successes</td>
+        <td class="description">Extremely Challenging, requires someone who specializes in this specific skill.</td>
+    </tr><tr>
+        <td>6 Successes</td>
+        <td class="description">Masterfully Challenging, only handled by masters of this skills.</td>
+    </tr><tr>
+        <td>7 Successes</td>
+        <td class="description">Insanely Challenging, even the masters of this skill get easily stumped.</td>
+    </tr><tr>
+        <td>8 Successes</td>
+        <td class="description">Nearly Impossible, requires one with absolute expertise to have a chance.</td>
+    </tr>
+    </table></td>
+</tr>
+</table>

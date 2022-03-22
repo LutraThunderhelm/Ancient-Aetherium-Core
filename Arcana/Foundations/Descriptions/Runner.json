@@ -1,0 +1,68 @@
+{
+	"description": "Once the mark of messangers alone, the Runner Foundation is based purely on enhancing ones own speed. Building on their knowledge of arcane movement, Runners lean heavily on grace and haste, moving quickly and with incredible fluency. Traditionally Runners are used as messangers, making quick work of any hazard put between them and their destination.",
+	"spells": [{
+			"name": "Hazard Run",
+			"description": "Allows the caster to ignore any terrain that alters movement for the next movement action. If not in combat, for the amount of distance equal to the casters Movement value, in meters.",
+			"xp": "300",
+			"ap": "3",
+			"ab": "0",
+			"castingTime": "Half Action"
+		},
+		{
+			"name": "Skipped Steps",
+			"description": "Allows the caster to double their movement for the next round, or 5 seconds.",
+			"xp": "250",
+			"ap": "2",
+			"ab": "0",
+			"castingTime": "Half Action"
+		},
+		{
+			"name": "Vertical Momentum",
+			"description": "Lets the caster run along vertical surfaces with the same movement as if they were walking on the ground. Applies for 1 movement action, or the casters Movement value in meters, however at the end of the spell the caster remains on the vertical surface, with any movement dropping them to the ground.",
+			"xp": "300",
+			"ap": "5",
+			"ab": "0",
+			"castingTime": "Half Action"
+		},
+		{
+			"name": "Shatter Step",
+			"description": "Must be cast while moving. Allows the runner to alter their physical form, letting them run through solid objects, including walls, doors, the ground, and windows. If the runner is not careful they may end up falling into the earth.",
+			"xp": "300",
+			"ap": "6",
+			"ab": "0",
+			"castingTime": "Half Action"
+		},
+		{
+			"name": "Ride the Pain",
+			"description": "Must be used after a successful Deflection action. Allows the caster to turn all damage they would have taken from an incoming attack into pure movement potential, letting them add all damage taken from the attack to their next movement action.",
+			"xp": "250",
+			"ap": "4",
+			"ab": "0",
+			"castingTime": "Instant Action"
+		},
+		{
+			"name": "Full Stop",
+			"description": "The caster cancels out all momentum relative to the planet, turing half of it (rounded down) into AP. This cannot be done unless the caster has gained bonus momentum from a source other than their raw Movement score.",
+			"xp": "400",
+			"ap": "-N/A",
+			"ab": "0",
+			"castingTime": "Full Action"
+		},
+		{
+			"name": "Catch Up",
+			"description": "Closes the distance on enemy, allowing the Caster to ignore any Evade bonuses gained through movement. Evade bonuses gained through illusions and the base Evade score cannot be ignored.",
+			"xp": "300",
+			"ap": "0",
+			"ab": "5",
+			"castingTime": "Passive"
+		},
+		{
+			"name": "Double Step",
+			"description": "The caster is able to form a constant movement bonus of half their base movement, which can be applied at all times.",
+			"xp": "300",
+			"ap": "0",
+			"ab": "6",
+			"castingTime": "Passive"
+		}
+	]
+}

@@ -1,0 +1,5 @@
+The Population of any specific environment is a representation of what can be found there. Items such as loot and enemies are often decided by what type of area is being traversed, and this section details common sets of loot or enemies.
+
+In terms of Navigation Checks, Population changes the end result, with each Land Type having a unique encounter table made for what can be found there. Most effects on the encounter table will often be fairly vague to allow to RM to tailor the encounter as they see fit.
+
+Additionally, none of the Land Types will mention the drawing of Joker cards or Number Cards. Jokers act upon the reveal process of Navigation Checks by causing all other cards to go into effect together, when reasonable. Should the Joker be entirely alone, it instead gains the effect of an Ace.

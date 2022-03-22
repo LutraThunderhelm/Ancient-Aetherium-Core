@@ -1,0 +1,68 @@
+{
+	"description": "Initially, the Foundational Star did not make a full circle, with a gap between the Sana and Ignus Foundations. The connection would lay undiscovered until a group of Residents forged it by fostering the kenetic fire of Ignus with the power of Sana, resulting in the Hunter's Spark. This ember allows the Hunter focus and form, allowing them to tear down those who become marked by their spark.",
+	"spells": [{
+			"name": "Lodge Spark",
+			"description": "Lodge a spark into the body of a target. This spark is untraceable, undetectable, and cannot be removed by any trational means. Only one spark may be used at a time, unless stated otherwise, and using that spark causes a singing feeling to appear on the point of entry of the target.",
+			"xp": "400",
+			"ap": "5",
+			"ab": "0",
+			"castingTime": "Half Action"
+		},
+		{
+			"name": "Locate Spark",
+			"description": "Gain an instant understanding of where the casters spark is currently held, no matter the distance. This sends a burning pain through the target of the spell.",
+			"xp": "300",
+			"ap": "5",
+			"ab": "0",
+			"castingTime": "Full Action"
+		},
+		{
+			"name": "Targeted Spark",
+			"description": "The next attack made by the caster against the holder of the Hunter's Spark cannot miss. This holds true as long as there is no structure or arcane force in the way. The target will quickly become aware of this, as hot pain will echo throughout their body.",
+			"xp": "250",
+			"ap": "4",
+			"ab": "0",
+			"castingTime": "Half Action"
+		},
+		{
+			"name": "Tear Spark",
+			"description": "The caster may chose to, while in melee range, make a Brawling Skill Check against their targets evade. Should the Brawling Skill Check succeed, the caster regains the spark that they may then move to another enemy at no cost. This causes the enemy to lose 1 durability in a location of the spark.",
+			"xp": "300",
+			"ap": "3",
+			"ab": "0",
+			"castingTime": "Full Action"
+		},
+		{
+			"name": "Dancing Shot",
+			"description": "Make a Firing Skill Check against a targets evade. Should the Firing Skill Check succeed, the projectile will proceed to deal damage equal to the damage dealt to the target, to every individual containing the caster's spark. Should the Firing Skill Check fail, the attack has no unique properties, but still causes damage to the target.",
+			"xp": "300",
+			"ap": "4",
+			"ab": "0",
+			"castingTime": "Full Action"
+		},
+		{
+			"name": "Focuse Spark",
+			"description": "The caster focuses their spark into an artificial weak spot on their target, making all attacks on that area ignore 4 Toughness for the next 1 round or 6 seconds. This sends shooting pain through the target, focused on the area of weakness.",
+			"xp": "250",
+			"ap": "3",
+			"ab": "0",
+			"castingTime": "Half Action"
+		},
+		{
+			"name": "Silent Sparks",
+			"description": "Pain effects related to spark spells will no longer occur, as well as visual queues. Without the ability to see arcane energies, or witness the caster use Lodge Spark, there is no immediate way for a target to learn of the spark lodged within them.",
+			"xp": "300",
+			"ap": "0",
+			"ab": "5",
+			"castingTime": "Passive"
+		},
+		{
+			"name": "Additional Sparks",
+			"description": "The Hunter is able to control an additional amount of sparks equal to 1 less than their Processing Skill Level.",
+			"xp": "400",
+			"ap": "0",
+			"ab": "8",
+			"castingTime": "Passive"
+		}
+	]
+}

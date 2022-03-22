@@ -1,0 +1,37 @@
+Mental heatlh is entirely ignored by Gredo's culture leading to build ups of mental strain, which under the right situations can come crashing down. Insanity Checks are built for situations with a large mental toll, whether its witnessing something that drives someone mad, or simply the stress of losing someone close. Insanity Checks may also be taken by non-player characters, however it is likely to have the most impact on player controlled characters.
+                        
+Insanity Checks are specialized Skill Checks, requiring a test of ones ability to keep their mind together using Sanity. When the RM sees fit and asks for a character to make an Insanity Check, the player must make a Sanity Skill Check with an assumed difficulty of 2, unless stated otherwise by the RM. Should the player succeed, their character keeps their composure and suffers no effects, but if they fail they must take an Insanity Effect from the Insanity Effect table below. Insanity Effects tend to be more severe than Fear Effects, and may even be permanent, so use of Insanity Checks should be taken with great care.
+
+<table>
+    <tr>
+        <th class="table_of_table">Insanity Effects</th>
+    </tr><tr>
+        <td class="tabled_table"><table>
+            <tr>
+                <th>Card Type</th>
+                <th>Effect</th>
+                <th>Description</th>
+            </tr><tr>
+                <td>Numbered</td>
+                <td>Breakdown</td>
+                <td class="description">Your character is overwhelmed by the source of the Insanity Check, making them suffer +2 Difficulty to all Skill Checks until they succeed a difficulty 2 Abuse Skill Check or difficulty 3 Sanity Skill Check. You may reroll once every turn as an Instant Action, or every few minutes of in world time.</td>
+            </tr><tr>
+                <td>Jack</td>
+                <td>Panic</td>
+                <td class="description">Your character starts to lose their mind, and as a result must add 1 level to all Traits until they can break the Insanity Effect. Panic may be broken by making a difficulty 2 Sanity Skill Check once per round as an Instant Action or every few minutes of in world time.</td>
+            </tr><tr>
+                <td>Queen</td>
+                <td>Shock</td>
+                <td class="description">Your character is frozen in place until they succeed a difficulty 2 Bravery Skill Check or difficulty 3 Sanity Skill Check, as they become paralized from the source of insanity. Additionally, for every failed check, they must make a Fear Check. Your character may attempt to break the Insanity Effect once per turn as an Instant Action, or every few minutes of in world time. </td>
+            </tr><tr>
+                <td>King</td>
+                <td>Scarring</td>
+                <td class="description">The even leaves a lasting impact, permanently giving your character the Phobia Detriment related to the source of the Insanity Check, decided by the RM.</td>
+            </tr><tr>
+                <td>Ace</td>
+                <td>Mental Fracture</td>
+                <td class="description">In attempting to process the situation, your mind starts to split itself into pieces, resulting in a permanent Mind Fracture.</td>
+            </tr>
+        </table></td>
+    </tr>
+</table>

@@ -1,0 +1,68 @@
+{
+	"description": "Mixing self modification with arcane construction, Arcane Guards turn their bodies into ever changing canvases. Twisting and moulding their own equipment and bodies, the Arcane Guard Foundation earned its name as a once heavily militaristic part of local city guards, using their abilities to take and and diffuse damage from malicious sources, defending the people. Today, anyone who uses their craft is considered to be extending their legacy.",
+	"spells": [{
+			"name": "Fabricate Limb",
+			"description": "Create a new limb out of arcane power, made of Arcane Ice. This new limb can either shatter upon being hit, or melt in 1 minute, or 12 turns.",
+			"xp": "300",
+			"ap": "5",
+			"ab": "0",
+			"castingTime": "Full Action"
+		},
+		{
+			"name": "Frozen Shell",
+			"description": "Add armor to a limb of choice, not limited to the casters own limb. This armor lasts for 1 minute, or 12 rounds, during which it provides +3 toughness.",
+			"xp": "200",
+			"ap": "3",
+			"ab": "0",
+			"castingTime": "Full Action"
+		},
+		{
+			"name": "Dampen Impact",
+			"description": "Creates a thick piece of Arcane Ice on a limb of choice, or 1x1 meter tile. Upon taking a hit, it shatters taking all damage away from anything positioned behind it.",
+			"xp": "300",
+			"ap": "4",
+			"ab": "0",
+			"castingTime": "Full Action"
+		},
+		{
+			"name": "Raise Barricade",
+			"description": "Form a wall of Arcane Ice 1 meter wide and 3 meters tall. This wall has a tougness of 15 and lasts for 30 seonds or 6 turns before melting.",
+			"xp": "250",
+			"ap": "4",
+			"ab": "0",
+			"castingTime": "Full Action"
+		},
+		{
+			"name": "Glazed Repair",
+			"description": "Fix a piece of equipment using a rigid form of Arcane Ice, removing all damage penalties for 1 minute or 12 turns, after which the Glazed Repair melts.",
+			"xp": "300",
+			"ap": "7",
+			"ab": "0",
+			"castingTime": "Full Action"
+		},
+		{
+			"name": "Crystalized Cast",
+			"description": "Pick the limb of an enemy within 1 meter, and that limb becomes covered in Arcane Ice. This effect lasts for 30 seconds or 6 turns, and prevents the limb from being used. During the targets turns they may chose to make a Brawn Skill Check with a difficulty of 3 as an Instant Action.",
+			"xp": "300",
+			"ap": "7",
+			"ab": "0",
+			"castingTime": "Full Action"
+		},
+		{
+			"name": "Fortified Fragments",
+			"description": "Brittle versions of Arcane Ice may be collected as AP for half of their casting price.",
+			"xp": "300",
+			"ap": "0",
+			"ab": "8",
+			"castingTime": "Passive"
+		},
+		{
+			"name": "Jolted Steam",
+			"description": "Ice from melting Arcane Ice becomes jolting to the touch, giving anyone who touches it 8 damage. This effect is applied to Brittle Arcane Ice fragments, and may be applied as needed instead of being present in every spell.",
+			"xp": "300",
+			"ap": "0",
+			"ab": "10",
+			"castingTime": "Passive"
+		}
+	]
+}

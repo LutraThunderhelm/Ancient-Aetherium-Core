@@ -1,0 +1,100 @@
+{
+	"description": "Combing the power of manipulating the physical world with the ability to destroy perceptions, Authors of Reality are the ultimate mages of reality twisting, making anything and everything they can dream of real. Authors of Reality are capable of not only melding their illusions into reality, they control the physical plane on which their illusions exist, twisting and turning anything thought of as real.",
+	"spells": [{
+			"name": "Forced Memories",
+			"description": "Transforms an up to 100 by 100 meter enviroment into an enviroment seen by the caster before. This enviroment cannot contain illusions itself. Lasts for 2 hours before melting away.",
+			"xp": "2000",
+			"ap": "6",
+			"ab": "0",
+			"castingTime": "Full Action"
+		},
+		{
+			"name": "Compressed Euclidea",
+			"description": "Make 2 different up to 5 by 5 meter zones within 100 meters of the caster. These zones become the same area, forcing any individual who steps over one zone to exit in the place of the other. Compressed Euclidea eixsts for only 2 hours until melting back to 2 different locations.",
+			"xp": "3000",
+			"ap": "7",
+			"ab": "0",
+			"castingTime": "Full Actions"
+		},
+		{
+			"name": "Expanded Euclidea",
+			"description": "Choose up to a 20 square meter area to turn into a 60 square meter area. The borders of this area appear in the same place, but require 3 movement to cross, as the area itself impossibly expands. Expanded Euclidea lasts for 2 hours before melting into normal geometry",
+			"xp": "3000",
+			"ap": "8",
+			"ab": "0",
+			"castingTime": "Full Action"
+		},
+		{
+			"name": "Rewrite Enviroment",
+			"description": "Remove any and all physical obstructions the caster wishes in up to a 100 by 100 meter area. These disappear for 2 hours until they melt back into place.",
+			"xp": "3000",
+			"ap": "7",
+			"ab": "0",
+			"castingTime": "Full Action"
+		},
+		{
+			"name": "Pocket Books",
+			"description": "Isolates an area up to 100 by 100 meters from the entire outside world. This area recieves no light, no noise, no smells, nothing at all from the world beyond. The edges of this area appear as either darkened walls or painted twisting colors depending on the caster's choice. Pocket worlds exist for 2 hours before restoring themselves to reality.",
+			"xp": "5000",
+			"ap": "10",
+			"ab": "0",
+			"castingTime": "Full Action"
+		},
+		{
+			"name": "Drafted Construction",
+			"description": "The caster forms an up to 10 by 10 by 10 meter structure of any shape and material that stays stationary for the next 2 hours before melting into steam.",
+			"xp": "4000",
+			"ap": "7",
+			"ab": "0",
+			"castingTime": "Full Action"
+		},
+		{
+			"name": "Maintain Scriptures",
+			"description": "For all constructs and illusions built from Arcane Ice, their melting times are set back to as if they had just been casted. AP is in cost per spell maintained.",
+			"xp": "3000",
+			"ap": "3",
+			"ab": "0",
+			"castingTime": "Full Action"
+		},
+		{
+			"name": "Journal",
+			"description": "Store a spell casted against the caster. This spell hits for full effect, but may be recast by the caster within Pocket Books at potentially much as the caster wishes.",
+			"xp": "5000",
+			"ap": "5",
+			"ab": "0",
+			"castingTime": "Full Action"
+		},
+		{
+			"name": "Burned Papers",
+			"description": "Remove any and all Illusionary derrived spells, such as other Author of Reality spells, within sight or perception of the caster.",
+			"xp": "2000",
+			"ap": "5",
+			"ab": "0",
+			"castingTime": "Full Action"
+		},
+		{
+			"name": "Seek Nothing, Find Everything",
+			"description": "Form illusions with hidden terrifying rips in consistancy forcing any who observe their true forms to make an Insanity Check with 1 additional difficulty for every investment into Voidic Cloak.",
+			"xp": "3000",
+			"ap": "0",
+			"ab": "10",
+			"castingTime": "Passive"
+		},
+		{
+			"name": "Expanded Pages",
+			"description": "For every investment into Melded Reality, increase the size of Author of Reality spells by 10 meters or 10 squared meters.",
+			"xp": "4000",
+			"ap": "0",
+			"ab": "12",
+			"castingTime": "Passive"
+		},
+		{
+			"name": "Contained Bubbles",
+			"description": "After taking the Pocket Books and Expanded Euclidea spells, Contained Bubble allows the caster's pocket worlds to become enriely physically disconnected from the real world, existing in 1 square meter bubbles with anyone caught in the crossfire compressed inside.",
+			"xp": "5000",
+			"ap": "0",
+			"ab": "20",
+			"castingTime": "Passive"
+		}
+	]
+}

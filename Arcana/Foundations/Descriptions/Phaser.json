@@ -1,0 +1,68 @@
+{
+	"description": "Able to shift their form between the known and unkown worlds, Phasers have found a way to slip between the seems of the physical world by running through their own observations. Rebounding out of reality and back in again, Phasers can move between any two locations with no physical barriers holding them, as long as they have sight of their destination.",
+	"spells": [{
+			"name": "Phase Tolerance",
+			"description": "Every investment into Phase Tolerance allows Phaser movement effects to move an additional 2 meters.",
+			"xp": "500",
+			"ap": "0",
+			"ab": "0",
+			"castingTime": "Static"
+		},
+		{
+			"name": "Phase",
+			"description": "Leave reality and pop back in again at a target destination within 5 meters. There is no way to stop this movement from happening, and the movement happens instantly.",
+			"xp": "1200",
+			"ap": "4",
+			"ab": "0",
+			"castingTime": "Instant Action"
+		},
+		{
+			"name": "Walk Among Darkness",
+			"description": "The caster wraps themselves into the seams of the physical world, allowing them to walk through it as if they can pass through objects. During this time the caster may walk anywhere they wish without being stopped, while still seeing through the real world. The caster may only move up to 5 meters in this state, but can spend as long as they want in said state.",
+			"xp": "1000",
+			"ap": "5",
+			"ab": "0",
+			"castingTime": "Half Action"
+		},
+		{
+			"name": "To Me",
+			"description": "Pick a small object within 5 meters of the caster. The target object becomes consumed in the edge of reality and appears in the paw of the phaser instantly.",
+			"xp": "1200",
+			"ap": "4",
+			"ab": "0",
+			"castingTime": "Half Action"
+		},
+		{
+			"name": "Phase Portal",
+			"description": "The caster opens a portal between two locations that shortcuts through the physical world. Traveling through said portals is instant, and the otherside is always visible. While these portals are open the caster will be unable to move.",
+			"xp": "1100",
+			"ap": "5",
+			"ab": "0",
+			"castingTime": "Full Action"
+		},
+		{
+			"name": "Displace Voice",
+			"description": "Causes the casters voice to manifest within 5 meters of the caster. The caster may talk but it will sound as if it is coming from the target location, with no sound coming from the casters snout.",
+			"xp": "800",
+			"ap": "2",
+			"ab": "0",
+			"castingTime": "Half Action"
+		},
+		{
+			"name": "Hand in Hand",
+			"description": "The caster may take a single ally through the abyss with them by holding their hand. Letting go will result in the ally falling to space and time. May be used on enemies.",
+			"xp": "1200",
+			"ap": "0",
+			"ab": "8",
+			"castingTime": "Passive"
+		},
+		{
+			"name": "Become Unknown",
+			"description": "While in the abyss the caster becomes completely disconnected from the timeline of the real world, making all who knew of them forget their existance until the caster returns to the physical world. This effect is forgotten once the caster returns, and none will keep the memory of forgetting the caster.",
+			"xp": "1100",
+			"ap": "0",
+			"ab": "10",
+			"castingTime": "Passive"
+		}
+	]
+}

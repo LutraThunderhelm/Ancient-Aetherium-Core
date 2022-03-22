@@ -1,0 +1,68 @@
+{
+	"description": "Anchoring their volatile magic into the physical world, Artillery casters can create stable spells without them immediately taking effect. Artillery Casters in turn have learned how to continuously give power to a spell, allowing Artillery Casters to create devistating spells if given enough time to empower their forms before casting them. Additionally, many Artillery Casters can contribute to the same spell, allowing them to combine their power into a single volatile mass of arcane energy, typically used on war torn fronts to devistate Hive forces. This is done by taking a stable spell and taking a Build Action, which costs the AP of the spell to preform. This has an effect that changes on a spell to spell basis. Build actions typically take the length of a Full Action.",
+	"spells": [{
+			"name": "Focused Power",
+			"description": "Focused Power is an Artillery caster's ability to build upon spells brought into the world. For every instance of Focused Power gained, the caster is able to add an additional token to every Artillery Spell during a Building Action.",
+			"xp": "600",
+			"ap": "0",
+			"ab": "0",
+			"castingTime": "Static"
+		},
+		{
+			"name": "Fireball",
+			"description": "Adds a token to, or creates, a Fireball. Upon being used, the Fireball explodes on an area with a radius equal to the amount of tokens spent building it. Damage done by the fireball is 5 per token spent on the fireball.",
+			"xp": "1000",
+			"ap": "2",
+			"ab": "0",
+			"castingTime": "Build Action"
+		},
+		{
+			"name": "Chain Lighting",
+			"description": "Creates an electric bolt with damage of 4 per token spent on the bolt. Additionally the bolt travels through enemies, with it hitting as many enemies as tokens spent on Chain Lighting. Requires a successful Firing Skill Check against the first target's evade.",
+			"xp": "900",
+			"ap": "3",
+			"ab": "0",
+			"castingTime": "Build Action"
+		},
+		{
+			"name": "Arcane Rift",
+			"description": "Opens an arcane gash into the Aether. This gash takes 3 tokens every 5 seconds, or every round, to maintain, otherwise shutting completely. The Arcane Rift supplies 1 AP to everything in a 10 meter radius, gaining another 1 AP bonus every round the rift remains open.",
+			"xp": "1100",
+			"ap": "3",
+			"ab": "0",
+			"castingTime": "Build Action"
+		},
+		{
+			"name": "Shattered Ground",
+			"description": "Upon being used, Shattered Ground causes a large area to become hard to cross, causing anyone who enters to lose half their movement, and gain -1 success on any Deflection Actions. This area is a square with 2 meters of side length for every token in the spell.",
+			"xp": "900",
+			"ap": "2",
+			"ab": "0",
+			"castingTime": "Build Action"
+		},
+		{
+			"name": "Catalyst",
+			"description": "Container for any and all spells. Any mage may add a spell, including other Artillery spells, to the Catalyst, which all take effect once the Catalyst is broken. The Catalyst may be broken in any way the caster wishes, such as throwing it at an enemy, or casting it on a team mate. The target gains all appropriate spell effects. Adding a spell costs the spell's AP with Catalyst's AP. For every point invested into Focused Power, the cost of Catalyst is lowered by 1, and can go negative.",
+			"xp": "1100",
+			"ap": "3",
+			"ab": "0",
+			"castingTime": "Build Action"
+		},
+		{
+			"name": "Hastened Construction",
+			"description": "All Build Actions only take a Half Action instead of a Full Action.",
+			"xp": "900",
+			"ap": "0",
+			"ab": "8",
+			"castingTime": "Passive"
+		},
+		{
+			"name": "Token Syphon",
+			"description": "Allows the mage to spend consumed tokens from a spell in order to regain the AP spent. Token Syphon takes the same time as a Build Action, and takes the same amount of tokens that would have been spent.",
+			"xp": "900",
+			"ap": "0",
+			"ab": "5",
+			"castingTime": "Passive"
+		}
+	]
+}
