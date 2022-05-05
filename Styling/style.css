@@ -121,6 +121,48 @@ main {
     padding-bottom:1.5em;
 }
 
+#directory-tabs {
+    width:63em;
+    margin:auto;
+    margin-top:0em;
+    background-color:black;
+}
+
+#directory-tabs ul {
+    list-style-type:none;
+    padding:0px;
+    margin:0px;
+    overflow:hidden;
+}
+
+#directory-tabs ul li #current-tab {
+    margin-top:0em;
+    padding-bottom:1.5em;
+    filter: brightness(1);
+}
+
+#directory-tabs ul li a{
+    text-decoration:none;
+    color:white;
+    font-size:1.1em;
+    filter: brightness(0.8);
+    padding:0.25em;
+    display:block;
+    float:left;
+}
+
+#directory-tabs ul li img{
+    filter: invert(1);
+    height:1em;
+    width:0.5em;
+    display:block;
+    float:left;
+    margin-top:0.5em;
+}
+
+#directory-tabs ul li a:hover{
+    filter: brightness(1.2);
+}
  /*
  
  TEXT STYLING
@@ -363,4 +405,34 @@ CARD STYLING
     border-bottom-left-radius: 1em;
     padding-left:1em;
     padding-right:0.5em;
+}
+
+/*
+
+PERK QUERY STYLING
+
+*/
+
+#Perk-Query h3 {
+    text-align: left;
+    display:inline-block;
+    font-size:1.25em;
+}
+
+#Background-Selector, #Level-Selector {
+    display:inline-block;
+    margin:0.5em;
+}
+
+#Perk-Query select {
+    font-size:1em;
+    background:none;
+    border:none;
+    border-bottom:solid rgb(102, 7, 7) 0.1em;
+    color: rgb(102, 7, 7);
+}
+
+#Perk-Query-Submit {
+    font-size:1em;
+    border:solid rgb(102, 7, 7) 0.1em;
 }

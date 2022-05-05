@@ -65,11 +65,21 @@ def generate_tabs(tabs,tab_index):
 
 
 
+def generate_tab_directory(path):
+	print('<div id="directory-tabs"><ul><li><a>')
+	shown_path = path.split('/')
+	for x in range(0,7):
+		shown_path.pop(0)
+	print('</a><img src="https://library.thunderhelm.com/Ancient-Aetherium-Core/Styling/right-decor.svg"></li><li><a>'.join(shown_path))
+	print('</a></li></ul></div>')
+
+
+
 def generate_article(title,content):
 	print('<h2><span>{title}</span></h2>'.format(title=title))
 	print('<div class="description">')
 	import json
-	dictionary = open('../dictionary.json','r')
+	dictionary = open('/home/dh_6fequb/library.thunderhelm.com/public/Ancient-Aetherium-Core/dictionary.json','r')
 	raw_json = dictionary.read()
 	dictionary.close()
 	dictionary = json.loads(raw_json)["defs"]

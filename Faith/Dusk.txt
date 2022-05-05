@@ -1,6 +1,6 @@
 Dusk may be a Founder, but by technicality alone. Existing since the start of Gredo like the other four Founders, Dusk has watched an empire be built atop the corpse of a small community. Friends turn to foes by way of faith, and wartime divides cut through what was once a team of survivors. Dusk has watched as his sibling got dragged into the night, leaving him motionless. Dusk has watched as his friends disappear to become gods, all while stuck to a small chair, kept alive by the few Royals that care for him.
 
-Dusk watches no longer. Dusk is the opposite to Dawn, fostering complete freedom, anarchy, chaos, and individuality. He strikes down the workings of higher beings in favor of the machinations of lesser ones. Dusk despises the concept of the Founders, and choses to use his powers to strike down the workings of his own kind instead of gather a legion of followers. Dusk does not care for those who show him compassion, but Dark will fight tooth and nail for anyone targeted by another Founder. Through these practices, Dusk has become the leader of atheists, the god of the godless, and the lord of Sinners.
+Dusk watches no longer. Dusk is the opposite to Dawn, fostering complete freedom, anarchy, chaos, and individuality. He strikes down the workings of higher beings in favor of the machinations of lesser ones. Dusk despises the concept of the Founders, and choses to use his powers to strike down the workings of his own kind instead of gather a legion of followers. Dusk does not care for those who show him compassion, but Dusk will fight tooth and nail for anyone targeted by another Founder. Through these practices, Dusk has become the leader of atheists, the god of the godless, and the lord of Sinners.
 
 There is no way to follow Dusk, instead he will aid anyone deemed a Sinner by another Founder. Dusk offers powerful yet deadly Boons to reroute the power of an anger Founder into the hands of their victim. These special Boons are referred to as Sins, and MUST be spent, or they may have detrimental side effects, as Dusk is unable to provide aid. Dusk never asks or expects anything in return of the legion of Sinners who use his power, he only hopes to spite the other Founders by protecting their sworn enemies.
 
@@ -16,7 +16,7 @@ There is no way to follow Dusk, instead he will aid anyone deemed a Sinner by an
             </tr><tr>
                 <td>Collective Misfortune</td>
                 <td>1 Boon</td>
-                <td class="description">Force an unrelated Skill Check to fail, along with the next Skill Check made by any enemy.</td>
+                <td class="description">Force a Skill Check to fail, along with the next Skill Check made by any enemy.</td>
             </tr><tr>
                 <td>Smite</td>
                 <td>1 Boon</td>

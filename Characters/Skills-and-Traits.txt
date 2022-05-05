@@ -14,58 +14,45 @@ The tables below provide a general measurement of what each level means in terms
                                 <tr>
                                     <th>Level</th>
                                     <th>Ability</th>
-                                    <th>Cost</th>
                                 </tr><tr>
                                     <td>2</td>
                                     <td class="description">Generally incompitent, and may have rarely used this skill throughout their life time.</td>
-                                    <td>000XP</td>
                                 </tr><tr>
                                     <td>3</td>
                                     <td class="description">Average Understanding, you've used the skill enough to be familiar with it.</td>
-                                    <td>150XP</td>
                                 </tr><tr>
                                     <td>4</td>
                                     <td class="description">Indepth Understanding, making you above average in terms of ability.</td>
-                                    <td>250XP</td>
                                 </tr><tr>
                                     <td>5</td>
                                     <td class="description">Specialized, no longer within the realm of average ability.</td>
-                                    <td>400XP</td>
                                 </tr><tr>
                                     <td>6</td>
                                     <td class="description">Experienced, having more experience than many will ever gain.</td>
-                                    <td>600XP</td>
                                 </tr><tr>
                                     <td>7</td>
                                     <td class="description">Complete Mastery, you've become one of few that may be sought out for their ability.</td>
-                                    <td>850XP</td>
                                 </tr><tr>
                                     <td>8</td>
                                     <td class="description">One of the Best Ever Created, practically no one can rival your ability.</td>
-                                    <td>1000XP</td>
                                 </tr>
                             </table></td>
                             <td class="tabled_table"><table>
                                 <tr>
                                     <th>Level</th>
                                     <th>Ability</th>
-                                    <th>Cost</th>
                                 </tr><tr>
                                     <td>8</td>
                                     <td class="description">Perfectly Unexptional, and perfectly average.</td>
-                                    <td>0000XP</td>
                                 </tr><tr>
                                     <td>7</td>
                                     <td class="description">Realized Potential, you've stripped away a few of the habits holding you back, setting you forward.</td>
-                                    <td>1000XP</td>
                                 </tr><tr>
                                     <td>6</td>
                                     <td class="description">Freed Talent, your skills can barely be contained from shining brighter than the abilities of those around you.</td>
-                                    <td>2000XP</td>
                                 </tr><tr>
                                     <td>5</td>
                                     <td class="description">One of the Best Ever Created, nothing can hold you back anymore.</td>
-                                    <td>3000XP</td>
                                 </tr>
                             </table></td>
                         </tr>

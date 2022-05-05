@@ -10,6 +10,7 @@ import textwrap
 with open('../../../../database-credentials/AncientAetheriumCore.json','r') as file:
 	secrets = json.loads(file.read())
 
+
 ##############################
 #   WEAPON CARD GENERATION   #
 ##############################
@@ -37,8 +38,7 @@ value_spacing = 19 #the value used to keep the value fonts right aligned instead
 effect_font = ImageFont.truetype("Card-Resources/SpecialElite.ttf", 18)#for just the effect description
 font_color = (0, 0, 0)
 
-#for x in range(0,len(weapon_data)):
-for x in range(0,0): 
+for x in range(0,len(weapon_data)):
     card_data = weapon_data[x]
     print('Making card {current}/{total} ...'.format(current=str(x+1),total=str(len(weapon_data))))
     print(card_data)
@@ -199,8 +199,7 @@ value_spacing = 13 #the value used to keep the value fonts right aligned instead
 effect_font = ImageFont.truetype("Card-Resources/SyneMono.ttf", 18)#for just the effect description
 font_color = (0, 0, 0)
 
-#for x in range(0,len(attire_data)):
-for x in range(0,0):    
+for x in range(0,len(attire_data)):
     card_data = attire_data[x]
     print('Making card {current}/{total} ...'.format(current=str(x+1),total=str(len(attire_data))))
     print(card_data)

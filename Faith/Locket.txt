@@ -4,11 +4,11 @@ Locket quickly became an important figure to influence, being the creator of all
 
 Her willingness to protect the Rioters gained the attention of Dawn, who saw the situation as a chaotic mess of a collapsed order. Dawn targetted Locket, throwing her into false worlds of illusion and constructs entirely alien to what she knew. However, by the suggestion of Dusk, she willingly lended her vision to the void, instead following only the screams of the lost, unable to precieve the material world any longer.
 
-Locket deals in Minds from her home on the Isle of the Dead. Burned by the world around her, she accepts various forms of mind collection in trade for Boons, which allow access into the world beyond death. Locket offers a place in her afterlife, or the ability to keep moving post mortem, if one is willing to lend her the memories of others. Locket does not accept Sinners, but she doesnt not target them either. Betraying locket simply loses ones place in her afterlife, and a garuntee of nothing but nothingness itself upon death. Minds are gained from enemies marked by Locket as enemies to the Afterlife, and upon their destruction a Boon is given to their destroyer, should that destroyer follow Locket.
+Locket deals in Minds from her home on the Isle of the Dead. Burned by the world around her, she accepts various forms of mind collection in trade for Boons, which allow access into the world beyond death. Locket offers a place in her afterlife, or the ability to keep moving post mortem, if one is willing to lend her the memories of others. Locket does not accept Sinners, but she does not target them either. Betraying locket simply loses ones place in her afterlife, and a garuntee of nothing but nothingness itself upon death. Minds are gained from enemies marked by Locket as enemies to the Afterlife, and upon their destruction a Boon is given to their destroyer, should that destroyer follow Locket.
 
 <table>
     <tr>
-        <th class="table_of_table">Axton's Boon Effects</th>
+        <th class="table_of_table">Locket's Boon Effects</th>
     </tr><tr>
         <td class="tabled_table"><table>
             <tr>

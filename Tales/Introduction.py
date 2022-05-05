@@ -21,6 +21,8 @@ constructor.generate_header('Narratives and Tales','Aetherial History')
 print('</header>')
 
 print('<body>')
+constructor.generate_tabs(['Introduction','Random-Article','Search'],0)
+
 print('<main><div id=content>')
 with open(current_page+'.txt','r') as file:
 	constructor.generate_article('Under Construction',file.read())

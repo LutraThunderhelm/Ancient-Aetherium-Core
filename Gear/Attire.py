@@ -64,17 +64,17 @@ print('<div id="Card-Holder">')
 for x in range(0,len(attire_data)):
     if attire_data[x][2] is not None and "Armor" == current_subpage:
         print('<div class="Attire-Card">')
-        print('<img src="/Ancient-Aetherium/Cards/Attire/' + str(attire_data[x][0]-1)+ '.png">')
+        print('<img src="/Ancient-Aetherium-Core/Cards/Attire/' + str(attire_data[x][0]-1)+ '.png">')
         print('<span>'+str(attire_data[x][9])+' $A</span>')
         print('</div>')
     elif attire_data[x][3] is not None and "Harness" == current_subpage:
         print('<div class="Attire-Card">')
-        print('<img src="/Ancient-Aetherium/Cards/Attire/' + str(attire_data[x][0]-1)+ '.png">')
+        print('<img src="/Ancient-Aetherium-Core/Cards/Attire/' + str(attire_data[x][0]-1)+ '.png">')
         print('<span>'+str(attire_data[x][9])+' $A</span>')
         print('</div>')
     elif attire_data[x][2] is None and attire_data[x][3] is None and "Clothing" == current_subpage:
         print('<div class="Attire-Card">')
-        print('<img src="/Ancient-Aetherium/Cards/Attire/' + str(attire_data[x][0]-1)+ '.png">')
+        print('<img src="/Ancient-Aetherium-Core/Cards/Attire/' + str(attire_data[x][0]-1)+ '.png">')
         print('<span>'+str(attire_data[x][9])+' $A</span>')
         print('</div>')
 

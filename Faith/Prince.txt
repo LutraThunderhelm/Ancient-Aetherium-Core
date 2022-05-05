@@ -8,7 +8,7 @@ Prince deals in Orders, or promises to uphold the current governmental order. Th
 
 <table>
     <tr>
-        <th class="table_of_table">Axton's Boon Effects</th>
+        <th class="table_of_table">Prince's Boon Effects</th>
     </tr><tr>
         <td class="tabled_table"><table>
             <tr>

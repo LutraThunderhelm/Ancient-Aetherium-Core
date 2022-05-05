@@ -57,7 +57,6 @@ if form.getvalue('foundation') is not None:
             print('<h3><span>{name}</span></h3><br>'.format(name=current_spell['name']))
             print('<h4 id="Spell-Stats">Arcane Points: ' + current_spell['ap'] + '<br>')
             print('Arcane Bank: ' + current_spell['ab'] + '<br>')
-            print('Experience: ' + current_spell['xp'] + '<br>')
             print('Casting Time: ' + current_spell['castingTime'] + '</h4><br>')
             print(current_spell['description'])
             print('</td>')
