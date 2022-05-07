@@ -41,7 +41,7 @@
 			"castingTime": "Full Action"
 		},
 		{
-			"name": "Yang's Diversion",
+			"name": "Dawn's Diversion",
 			"description": "Obscures the shapes of the casters allies in a 10x10 meter area, causing them to gain 3 evade while in the field. Costs 4 AP every 5 rounds or 25 seconds.",
 			"xp": "300",
 			"ap": "4",

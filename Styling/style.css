@@ -347,7 +347,7 @@ ARCANE TREE STYLING
 
 .Star-Item {
     display:inline-block;
-    width:5%;
+    width:3em;
 }
 
 .Star-Item h3 {
@@ -357,6 +357,16 @@ ARCANE TREE STYLING
 .Star-Item h4 {
     margin:0;
 }
+
+.Star-Item button {
+    margin-left:-1.8em;
+}
+
+.Star-Item .Empty {
+    width:0.1em;
+}
+
+
 
 /*
 

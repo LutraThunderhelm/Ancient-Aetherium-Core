@@ -1,13 +1,21 @@
 {
     "star":[
-        ["","","","","","","Disciple","","","","","",""],
-        ["","","","","","Swarmer","","Combat-Mason","","","","",""],
-        ["Mind-Weaver","","Valley-Walker","","Mender","","Arcane-Guard","","High-Mason","","Auditor","","Author-of-Reality"],
-        ["","Weaver","","Preacher","","Mundane","","Frigus","","Illusionary","","Blinder",""],
-        ["","","High-Mage","","Industria","","","","Lux","","Seer","",""],
-        ["","Artillery","","Infusionary","","Sana","","Ignus","","Phantom","","Shroud-Breaker",""],
-        ["Reality-Syphon","","Syphon","","Striker","","Hunter","","Runner","","Phaser","","Abyssal"],
-        ["","","","","","Riot-Master","","Sky-Runner","","","","",""],
-        ["","","","","","","Infernal-Ripper","","","","","",""]
+        ["","","","","","","","","","","","","Disciple","","","","","","","","","","","",""],
+        ["","","","","","","","","","","","Arrow-Up-Right","","Arrow-Up-Left","","","","","","","","","","",""],
+        ["","","","","","","","","","","Swarmer","","","","Combat-Mason","","","","","","","","","",""],
+        ["","","","","","","","","","Arrow-Up-Right","","Arrow-Up-Left","","Arrow-Up-Right","","Arrow-Up-Left","","","","","","","","",""],
+        ["Mind-Weaver","","Arrow-Left","","Valley-Walker","","Arrow-Left","","Mender","","","","Arcane-Guard","","","","High-Mason","","Arrow-Right","","Auditor","","Arrow-Right","","Author-of-Reality"],
+        ["","Arrow-Up-Left","","","","Arrow-Up-Left","","","","Arrow-Up-Left","","Arrow-Up-Right","","Arrow-Up-Left","","Arrow-Up-Right","","","","Arrow-Up-Right","","","","Arrow-Up-Right",""],
+        ["","","Weaver","","Arrow-Left","","Preacher","","Arrow-Left","","Mundane","","","","Frigus","","Arrow-Right","","Illusionary","","Arrow-Right","","Blinder","",""],
+        ["","","","Arrow-Up-Left","","","","Arrow-Up-Left","","","","","","","","","","Arrow-Up-Right","","","","Arrow-Up-Right","","",""],
+        ["","","","","High-Mage","","Arrow-Left","","Industria","","","","","","","","Lux","","Arrow-Right","","Seer","","","",""],
+        ["","","","Arrow-Down-Left","","","","Arrow-Down-Left","","","","","","","","","","Arrow-Down-Right","","","","Arrow-Down-Right","","",""],
+        ["","","Artillery","","Arrow-Left","","Infusionary","","Arrow-Left","","Sana","","","","Ignus","","Arrow-Right","","Phantom","","Arrow-Right","","Shroud-Breaker","",""],
+        ["","Arrow-Down-Left","","","","Arrow-Down-Left","","","","Arrow-Down-Left","","Arrow-Down-Right","","Arrow-Down-Left","","Arrow-Down-Right","","","","Arrow-Down-Right","","","","Arrow-Down-Right",""],
+        ["Reality-Syphon","","Arrow-Left","","Syphon","","Arrow-Left","","Striker","","","","Hunter","","","","Runner","","Arrow-Right","","Phaser","","Arrow-Right","","Abyssal"],
+        ["","","","","","","","","","Arrow-Down-Right","","Arrow-Down-Left","","Arrow-Down-Right","","Arrow-Down-Left","","","","","","","","",""],
+        ["","","","","","","","","","","Riot-Master","","","","Sky-Runner","","","","","","","","","",""],
+        ["","","","","","","","","","","","Arrow-Down-Right","","Arrow-Down-Left","","","","","","","","","","",""],
+        ["","","","","","","","","","","","","Infernal-Ripper","","","","","","","","","","","",""]
     ]
 }

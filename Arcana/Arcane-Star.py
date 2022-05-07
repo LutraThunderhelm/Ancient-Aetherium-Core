@@ -27,11 +27,13 @@ with open('Foundations/star.json','r') as file:
 print('<form action="Arcane-Star">')
 print('<section id="Arcane-Star">')
 
-for y in range(0,9):
+for y in range(0,17):
     print('<div class="Star-Row">')
-    for x in range(0,13):
+    for x in range(0,25):
         if star[y][x] == "":
-            print('<div class="Star-Item"><img src="Foundations/Icons/Place-Holder.svg"></div>')
+            print('<div class="Star-Item"><img class="Empty" src="Foundations/Icons/Place-Holder.svg"></div>')
+        elif star[y][x].startswith("Arrow"):
+            print('<div class="Star-Item"><img src="Foundations/Icons/{name}.svg"></div>'.format(name=star[y][x]))
         else:
             print('<div class="Star-Item"><button type="submit" name="foundation" class="Foundation-Container" value={name}><img src="Foundations/Icons/{name}.svg" class="Foundation-Icon"><br><span class="Spell-Names">{name_clean}</span></button></div>'.format(name=star[y][x],name_clean=star[y][x].replace("-"," ")))
     print('</div>')
