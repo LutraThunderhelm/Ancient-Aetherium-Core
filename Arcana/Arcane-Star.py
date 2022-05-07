@@ -45,6 +45,7 @@ print('</header>')
 print('<body>')
 print('<main>')
 if form.getvalue('foundation') is not None:
+    print('<p><a href="Arcane-Star" style="font-size:1.5em;">< Back</a></p>')
     with open('Foundations/Descriptions/{foundation}.json'.format(foundation=form.getvalue('foundation')), 'r') as foundation_file:
         foundation = json.loads(foundation_file.read())
     print('<h2><span>'+form.getvalue('foundation').replace('-',' ')+'</span></h2>')
